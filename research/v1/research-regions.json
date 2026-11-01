@@ -1,0 +1,46 @@
+{
+  "format": "terraevia-research-regions-v1",
+  "status": "READ_ONLY_UNAPPROVED_RESEARCH_NEVER_PUBLIC_DATASET",
+  "publicationApproved": false,
+  "rightsApproved": false,
+  "appInstallationApproved": false,
+  "regionCount": 2,
+  "regions": [
+    {
+      "id": "china-asia-three-eras",
+      "title": "中国与亚洲三年代研究 · 研究矩形 73,18,135,54",
+      "catalogBytes": 3158,
+      "catalogSHA256": "78f03252444636a93ff0d94aceed9a03c41ded090b61f8887d401270b84cd86e",
+      "catalogURL": "https://raw.githubusercontent.com/YoYotouna/Terraevia-data/main/research/v1/regions/china-asia-three-eras/research-catalog.json",
+      "studyBBoxWGS84": [
+        73,
+        18,
+        135,
+        54
+      ],
+      "studyAstronomicalYears": [
+        -99,
+        117,
+        700
+      ]
+    },
+    {
+      "id": "europe-three-eras",
+      "title": "欧洲三年代研究 · 研究矩形 -12,35,40,64",
+      "catalogBytes": 3085,
+      "catalogSHA256": "3f54a1fc0bf597eee4735b722f16923871a2946488e6f1b903cd86e0b923def8",
+      "catalogURL": "https://raw.githubusercontent.com/YoYotouna/Terraevia-data/main/research/v1/regions/europe-three-eras/research-catalog.json",
+      "studyBBoxWGS84": [
+        -12,
+        35,
+        40,
+        64
+      ],
+      "studyAstronomicalYears": [
+        800,
+        1200,
+        1600
+      ]
+    }
+  ]
+}

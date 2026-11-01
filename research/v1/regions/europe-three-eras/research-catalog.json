@@ -1,0 +1,67 @@
+{
+  "format": "terraevia-research-source-catalog-v1",
+  "status": "READ_ONLY_UNAPPROVED_RESEARCH_NEVER_PUBLIC_DATASET",
+  "publicationApproved": false,
+  "rightsApproved": false,
+  "appInstallationApproved": false,
+  "itemCount": 3,
+  "items": [
+    {
+      "id": "clio-v021-1200ce",
+      "title": "Cliopatria 公元1200年 · 未核来源",
+      "region": "研究矩形 -12,35,40,64",
+      "kind": "cliopatria-research-geojson-v1",
+      "bytes": 127136,
+      "sha256": "2b6078a574338d340f23fde57f6edca16373ab6b6be1f513c52ebc775971b5ac",
+      "sourceFeatureCount": 32,
+      "sourceLicense": {
+        "source": "Seshat Cliopatria v0.2.1",
+        "credit": "Seshat Global History Databank (Ed Chalstrey, James Bennett)",
+        "spdx": "CC-BY-4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+        "sourceURL": "https://github.com/Seshat-Global-History-Databank/cliopatria/tree/v0.2.1",
+        "modificationNotice": "SELECTED_ORIGINAL_SOURCE_ROWS_ONLY"
+      },
+      "studyAstronomicalYear": 1200,
+      "url": "https://raw.githubusercontent.com/YoYotouna/Terraevia-data/main/research/v1/regions/europe-three-eras/files/clio-v021-1200ce.geojson"
+    },
+    {
+      "id": "clio-v021-1600ce",
+      "title": "Cliopatria 公元1600年 · 未核来源",
+      "region": "研究矩形 -12,35,40,64",
+      "kind": "cliopatria-research-geojson-v1",
+      "bytes": 219144,
+      "sha256": "78d20cc5ed7cd37129746fc8f49ce4d905b90e04a2a1d0dd9bc256ac06be023f",
+      "sourceFeatureCount": 32,
+      "sourceLicense": {
+        "source": "Seshat Cliopatria v0.2.1",
+        "credit": "Seshat Global History Databank (Ed Chalstrey, James Bennett)",
+        "spdx": "CC-BY-4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+        "sourceURL": "https://github.com/Seshat-Global-History-Databank/cliopatria/tree/v0.2.1",
+        "modificationNotice": "SELECTED_ORIGINAL_SOURCE_ROWS_ONLY"
+      },
+      "studyAstronomicalYear": 1600,
+      "url": "https://raw.githubusercontent.com/YoYotouna/Terraevia-data/main/research/v1/regions/europe-three-eras/files/clio-v021-1600ce.geojson"
+    },
+    {
+      "id": "clio-v021-800ce",
+      "title": "Cliopatria 公元800年 · 未核来源",
+      "region": "研究矩形 -12,35,40,64",
+      "kind": "cliopatria-research-geojson-v1",
+      "bytes": 152387,
+      "sha256": "33e85b9c42c7ac1346aaa422d1eec64b738c4b45e25a6edc169002965f1a440f",
+      "sourceFeatureCount": 32,
+      "sourceLicense": {
+        "source": "Seshat Cliopatria v0.2.1",
+        "credit": "Seshat Global History Databank (Ed Chalstrey, James Bennett)",
+        "spdx": "CC-BY-4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+        "sourceURL": "https://github.com/Seshat-Global-History-Databank/cliopatria/tree/v0.2.1",
+        "modificationNotice": "SELECTED_ORIGINAL_SOURCE_ROWS_ONLY"
+      },
+      "studyAstronomicalYear": 800,
+      "url": "https://raw.githubusercontent.com/YoYotouna/Terraevia-data/main/research/v1/regions/europe-three-eras/files/clio-v021-800ce.geojson"
+    }
+  ]
+}
