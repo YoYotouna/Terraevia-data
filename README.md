@@ -18,3 +18,14 @@ Seshat Cliopatria v0.2.1, Seshat Global History Databank (Ed Chalstrey, James Be
 https://raw.githubusercontent.com/YoYotouna/Terraevia-data/main/research/v1/research-regions.json
 
 The App publisher maintains this directory. App users do not need to build or generate it. Root and per-region catalogs declare exact file sizes and SHA-256 digests; the App rechecks source bytes and historical frames before use. No GitHub credentials belong in the App. Future hosting can use maps.diyper.com with regenerated matching catalog URLs.
+
+
+## Global static world library
+
+[World index](https://raw.githubusercontent.com/YoYotouna/Terraevia-data/main/research/world/v1/world-index.json)
+
+13,072 original source frames passed native decoding and geometry save/restore checks. The library has 124 spatial/time shards, allowing the App to select available original frames for a viewport and astronomical year without a query server or user-generated files. Original Feature geometries, holes and source dates are preserved. The index and source files declare exact byte counts and SHA-256; clients still validate them before use.
+
+This is a library of research sources, not complete global historical coverage. 725 original source frames are excluded by indexing, geometry or native compatibility checks. Native checks are not historical verification or approval of borders. Publication/rights/installation approval flags remain false; this library is not an approved installable public dataset. The earlier two regional collections remain available above.
+
+Source: Seshat Cliopatria v0.2.1, Seshat Global History Databank (Ed Chalstrey, James Bennett), CC BY 4.0. See [world attribution](research/world/v1/ATTRIBUTION.md) and the root sourceLicense. Source rows were extracted unchanged into content-addressed files; spatial and temporal indexes were added. No border repairs, interpolation, or substitute years were introduced.
