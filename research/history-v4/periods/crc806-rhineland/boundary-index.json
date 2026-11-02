@@ -263,6 +263,2372 @@
         "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert, Meesenburg, Wendt, Zimmermann (2019).",
         "Terraevia converted the public WGS84 Shapefile to JSON and added integrity/period metadata; no coordinate modification."
       ]
+    },
+    {
+      "id": "crc806-central-europe-1",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/d112024d070875bb7f500f1f813650bd1c31bfe56c9a0b03ee7903a67e50cad3.json",
+      "bytes": 3209,
+      "sha256": "d112024d070875bb7f500f1f813650bd1c31bfe56c9a0b03ee7903a67e50cad3",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域1",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/1",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        15.741406114102553,
+        50.22163704860527,
+        15.760347699481656,
+        50.23456301218541
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-2",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/40dc1e312ff4dc6176fcfe65621d09de62b6d98a1f2acdb08d1accb47a06a0ba.json",
+      "bytes": 3533,
+      "sha256": "40dc1e312ff4dc6176fcfe65621d09de62b6d98a1f2acdb08d1accb47a06a0ba",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域2",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/2",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        7.61711369746927,
+        50.26675214051423,
+        7.642070908800451,
+        50.28293029273029
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-3",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/c77b177ed33551aa925f84884e55e800f00186fefa8c86b5aae58b7126310f7a.json",
+      "bytes": 3903,
+      "sha256": "c77b177ed33551aa925f84884e55e800f00186fefa8c86b5aae58b7126310f7a",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域3",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/3",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        12.169856196065655,
+        49.01751436680145,
+        12.19995660310891,
+        49.04134674407326
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-4",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/19c3b1343abc3f305fa9b45c21b13dfcf2ab8d815854200f67421a99186494d5.json",
+      "bytes": 4418,
+      "sha256": "19c3b1343abc3f305fa9b45c21b13dfcf2ab8d815854200f67421a99186494d5",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域4",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/4",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        13.68153345763617,
+        51.02049666757659,
+        13.729971509357329,
+        51.04828315633946
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-5",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/4a9f6764b679dcc40d6bc47be32d6ec3ca83ea3ca3e2d8b095a826754b309f0d.json",
+      "bytes": 4748,
+      "sha256": "4a9f6764b679dcc40d6bc47be32d6ec3ca83ea3ca3e2d8b095a826754b309f0d",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域5",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/5",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        6.811788624568399,
+        50.75404140038134,
+        6.874345450069408,
+        50.783594916829564
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-6",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/38112f2e3b116f1c057100073849e703cf0786afc79094350fbba9fbcb30e1d1.json",
+      "bytes": 4919,
+      "sha256": "38112f2e3b116f1c057100073849e703cf0786afc79094350fbba9fbcb30e1d1",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域6",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/6",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        7.3308209276104845,
+        47.77834218048281,
+        7.3875584372515,
+        47.80913048887819
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-7",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/5af983306cffd7bd7a3a437d2619a6091ffede8f2687cc03fe2c9f373f35d3b6.json",
+      "bytes": 5991,
+      "sha256": "5af983306cffd7bd7a3a437d2619a6091ffede8f2687cc03fe2c9f373f35d3b6",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域7",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/7",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        10.423370038129393,
+        50.975621161503284,
+        10.523841974394971,
+        51.006496179066346
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-8",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/6461516153bacafdf5bc2bc24050f95e2476afe0ba484c1d6bd9f3803ece13d6.json",
+      "bytes": 5638,
+      "sha256": "6461516153bacafdf5bc2bc24050f95e2476afe0ba484c1d6bd9f3803ece13d6",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域8",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/8",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        10.738317500458544,
+        49.12473917301847,
+        10.806781314101755,
+        49.16837886061145
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-9",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/ee915eefb171f8f1829f00ed07e66b26265cc066363d2ad75beb4a84e155ebed.json",
+      "bytes": 5428,
+      "sha256": "ee915eefb171f8f1829f00ed07e66b26265cc066363d2ad75beb4a84e155ebed",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域9",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/9",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        6.073939467190009,
+        50.83155959212601,
+        6.142641388615809,
+        50.8771929173246
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-10",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/e8aa02a65e292ec854876f5c1a696fa27a356009e57c4a768622a82042781ab1.json",
+      "bytes": 5476,
+      "sha256": "e8aa02a65e292ec854876f5c1a696fa27a356009e57c4a768622a82042781ab1",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域10",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/10",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        12.355385484255745,
+        48.579810082720066,
+        12.424625875517828,
+        48.62267793555095
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-11",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/17cda1fee4618f598fec68407bd757eb829f7778a172baf15f61b74dfea4f46f.json",
+      "bytes": 5824,
+      "sha256": "17cda1fee4618f598fec68407bd757eb829f7778a172baf15f61b74dfea4f46f",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域11",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/11",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        10.404370267072713,
+        48.91614833371876,
+        10.464545575463992,
+        48.97288364583342
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-12",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/a3fd4abb375b58f983074d6a86594683d35007d9a0cf82894ca9c02c18a950c3.json",
+      "bytes": 5818,
+      "sha256": "a3fd4abb375b58f983074d6a86594683d35007d9a0cf82894ca9c02c18a950c3",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域12",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/12",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        10.516381845350171,
+        51.99053854104501,
+        10.600831531426449,
+        52.03520455159534
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-13",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/0185ea02ddd5ddfa3caca38ee4a85430393572c01d02eca62616d9b613250cce.json",
+      "bytes": 5641,
+      "sha256": "0185ea02ddd5ddfa3caca38ee4a85430393572c01d02eca62616d9b613250cce",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域13",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/13",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        10.769422523612837,
+        51.79027818473124,
+        10.844218441956453,
+        51.83628750549084
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-14",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/a3bfea7b9e13234711bbf88fc5f06f889de87baba85a885e85079d3f6e542168.json",
+      "bytes": 6472,
+      "sha256": "a3bfea7b9e13234711bbf88fc5f06f889de87baba85a885e85079d3f6e542168",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域14",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/14",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        7.2596473161097,
+        47.90838893495472,
+        7.328984975600517,
+        47.972048642041926
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-15",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/e6280a31860f600d4de3d8064bfc4b6db1a3876cf20ca65dd3b6b3f4708f23c6.json",
+      "bytes": 6507,
+      "sha256": "e6280a31860f600d4de3d8064bfc4b6db1a3876cf20ca65dd3b6b3f4708f23c6",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域15",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/15",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        11.740955781214534,
+        51.97119496818586,
+        11.83333304373112,
+        52.02371750842457
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-16",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/7228510ba9e1d74bee3d4ed9a7c8b8a4aced95c413c6fd19ade2de7663071ba0.json",
+      "bytes": 6519,
+      "sha256": "7228510ba9e1d74bee3d4ed9a7c8b8a4aced95c413c6fd19ade2de7663071ba0",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域16",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/16",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        15.7382955234677,
+        49.04594174853552,
+        15.81894076915314,
+        49.103495905999374
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-17",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/1cb2fe4a4333000fd416197021d65bb38802a6fce68846a8c5701b5b8c16baab.json",
+      "bytes": 7046,
+      "sha256": "1cb2fe4a4333000fd416197021d65bb38802a6fce68846a8c5701b5b8c16baab",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域17",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/17",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        13.294060790256273,
+        49.705058475941584,
+        13.383391515314434,
+        49.766621008037475
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-18",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/9dd1b3053937c92c5d6911af96938b1cd5f212a49dc75fcd1306590a4bae9bf9.json",
+      "bytes": 6685,
+      "sha256": "9dd1b3053937c92c5d6911af96938b1cd5f212a49dc75fcd1306590a4bae9bf9",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域18",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/18",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        12.28991530802781,
+        51.53061775005876,
+        12.380352131868282,
+        51.595547124750446
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-19",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/fa737fd6a53a81d7670fce178744999fe100eead5f070aaff2617555cd5dc4d9.json",
+      "bytes": 7155,
+      "sha256": "fa737fd6a53a81d7670fce178744999fe100eead5f070aaff2617555cd5dc4d9",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域19",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/19",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        6.91418627540672,
+        49.892680490236685,
+        7.009435808763882,
+        49.96095445233326
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-20",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/c64d59c1313f62c77d92a53f4045b10a54343c514bd20862e1b37090d77d7248.json",
+      "bytes": 7045,
+      "sha256": "c64d59c1313f62c77d92a53f4045b10a54343c514bd20862e1b37090d77d7248",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域20",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/20",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        14.548104522524145,
+        50.33834761302065,
+        14.642181093495811,
+        50.403769049178585
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-21",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/d794c30752210490c0ac931cf90fd988aea19432b98a1732bda182fc4b33b742.json",
+      "bytes": 6860,
+      "sha256": "d794c30752210490c0ac931cf90fd988aea19432b98a1732bda182fc4b33b742",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域21",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/21",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        11.943283599426508,
+        50.96034410269541,
+        12.049453071342198,
+        51.016083077922794
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-22",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/459ed6a610cffe3dbb555d6d667146c1bd2220ff7f911e312badce035f6470b1.json",
+      "bytes": 7035,
+      "sha256": "459ed6a610cffe3dbb555d6d667146c1bd2220ff7f911e312badce035f6470b1",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域22",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/22",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        12.447898991674423,
+        51.143565572540965,
+        12.54729201965076,
+        51.20516723748512
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-23",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/48cac4109d2da5811e5dc72186ca599c0edfe62adafc78609e7ed5eb9a4af373.json",
+      "bytes": 7165,
+      "sha256": "48cac4109d2da5811e5dc72186ca599c0edfe62adafc78609e7ed5eb9a4af373",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域23",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/23",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        7.274768144927609,
+        48.030729189732135,
+        7.363699045951669,
+        48.095959314261805
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-24",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/806ee69f9fd9429bb0377fafe6ff59ea67b648ec545252f5701cf6dce5363a0c.json",
+      "bytes": 7739,
+      "sha256": "806ee69f9fd9429bb0377fafe6ff59ea67b648ec545252f5701cf6dce5363a0c",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域24",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/24",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        12.348218854116043,
+        51.364083393695466,
+        12.470393805260905,
+        51.430248258334004
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-25",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/b6ffa9f9fab7b680833ecfaee38c2bc97dc6f28c37e18af71825a2adbad26fc6.json",
+      "bytes": 9642,
+      "sha256": "b6ffa9f9fab7b680833ecfaee38c2bc97dc6f28c37e18af71825a2adbad26fc6",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域25",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/25",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        14.156531799934326,
+        49.90281834323985,
+        14.282617339254076,
+        49.989402577700844
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-26",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/3ebf001f5f4f5b1c82fc2036ad4b39b949189765f2b243e75d00a6fa7ca393b7.json",
+      "bytes": 7844,
+      "sha256": "3ebf001f5f4f5b1c82fc2036ad4b39b949189765f2b243e75d00a6fa7ca393b7",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域26",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/26",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        9.378806443719476,
+        51.43764813745674,
+        9.489930167816734,
+        51.50801849098151
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-27",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/c19520019f8553ed8fa0feff9e5406afb747fce14d96c3a213b9d999e9c15b6b.json",
+      "bytes": 7731,
+      "sha256": "c19520019f8553ed8fa0feff9e5406afb747fce14d96c3a213b9d999e9c15b6b",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域27",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/27",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        11.675182620102943,
+        52.04511162510294,
+        11.762073964092702,
+        52.13542998617775
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-28",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/56b99859be86bc3afe043b41351a3d7e626806eeccf650b8679b78be261cfcb2.json",
+      "bytes": 8080,
+      "sha256": "56b99859be86bc3afe043b41351a3d7e626806eeccf650b8679b78be261cfcb2",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域28",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/28",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        15.133016618395233,
+        50.23107194910653,
+        15.223671287727665,
+        50.323406773869856
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-29",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/523df0c317b43d65dcb42a44a22b2dd9b9620b6cf2db351315900f4f675a6fd9.json",
+      "bytes": 8946,
+      "sha256": "523df0c317b43d65dcb42a44a22b2dd9b9620b6cf2db351315900f4f675a6fd9",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域29",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/29",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        12.3603709383345,
+        48.78858529335826,
+        12.489230266286098,
+        48.88039193746889
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-30",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/b18d89312a4ff6eee8b2ff0667c948ef72af5d2777dddd6d99d5e95586fc644d.json",
+      "bytes": 8352,
+      "sha256": "b18d89312a4ff6eee8b2ff0667c948ef72af5d2777dddd6d99d5e95586fc644d",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域30",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/30",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        9.166950606481196,
+        49.261101373472435,
+        9.279538737109538,
+        49.34909025670939
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-31",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/63d803be668bd35cfc4d1a28bd2268aac4e0aae360d84912422ca5223e222f16.json",
+      "bytes": 9904,
+      "sha256": "63d803be668bd35cfc4d1a28bd2268aac4e0aae360d84912422ca5223e222f16",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域31",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/31",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        9.115981508282323,
+        51.453967722226764,
+        9.292883631220057,
+        51.54026702232737
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-32",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/2ed23d18b5c41b8374265ddd8cebf1b96ac04332b22ed8003fcf054d06b2e8a0.json",
+      "bytes": 8436,
+      "sha256": "2ed23d18b5c41b8374265ddd8cebf1b96ac04332b22ed8003fcf054d06b2e8a0",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域32",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/32",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        11.318240349180947,
+        52.205432521328234,
+        11.462785801012657,
+        52.27887724982136
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-33",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/2cc95bd5bafc69ce6e3f2fc5e499fb9a9ffa971d561230a44b11c75868c461c1.json",
+      "bytes": 8771,
+      "sha256": "2cc95bd5bafc69ce6e3f2fc5e499fb9a9ffa971d561230a44b11c75868c461c1",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域33",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/33",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        12.4447063555554,
+        48.960524624909375,
+        12.55429931144051,
+        49.056978770112565
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-34",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/e197b7becd86bd209096053eadfa84dfb385722714f5c35b0885cf4e210c3e76.json",
+      "bytes": 9401,
+      "sha256": "e197b7becd86bd209096053eadfa84dfb385722714f5c35b0885cf4e210c3e76",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域34",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/34",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        9.020691773103346,
+        49.819054164154075,
+        9.180365819780956,
+        49.892148366168755
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-35",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/b1eea42f34ad84005c48751f899e84eef8b61deb371ed1a8591e950e6f9ce386.json",
+      "bytes": 9286,
+      "sha256": "b1eea42f34ad84005c48751f899e84eef8b61deb371ed1a8591e950e6f9ce386",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域35",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/35",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        10.127313608357577,
+        51.46731393484731,
+        10.25220094828579,
+        51.57439297050746
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-36",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/fb7b033215404d4d7655bef2a906b9a45333c01a88002a32c279b52211b32ae7.json",
+      "bytes": 9560,
+      "sha256": "fb7b033215404d4d7655bef2a906b9a45333c01a88002a32c279b52211b32ae7",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域36",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/36",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        9.424663673995646,
+        51.2615456804336,
+        9.581632107901347,
+        51.35145128979896
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-37",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/d93f85e98ec06b099426f8c3360e7f7e6cb977365a5e60cb85f231b922181836.json",
+      "bytes": 9229,
+      "sha256": "d93f85e98ec06b099426f8c3360e7f7e6cb977365a5e60cb85f231b922181836",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域37",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/37",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        6.319904974504625,
+        49.35866782093986,
+        6.491647778265419,
+        49.43217698637962
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-38",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/4ef01913a5a04696c5cbb18a241fbd397bf8236b2040d8912179ccca9f65a801.json",
+      "bytes": 9398,
+      "sha256": "4ef01913a5a04696c5cbb18a241fbd397bf8236b2040d8912179ccca9f65a801",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域38",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/38",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        7.610751489621064,
+        47.96616240318505,
+        7.736932531094331,
+        48.06919739218667
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-39",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/b893e5c0d4e433b7d4b3eb79aec01594ba117f33f1a783b00b6b11b7167a2da0.json",
+      "bytes": 10342,
+      "sha256": "b893e5c0d4e433b7d4b3eb79aec01594ba117f33f1a783b00b6b11b7167a2da0",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域39",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/39",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        11.275120244134158,
+        50.884005562009094,
+        11.38443249181618,
+        51.02335713961928
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-40",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/f077d17c3b0ec9bf804a7644cbc9841772af584358d057ee2b763f0eec3bcd77.json",
+      "bytes": 9228,
+      "sha256": "f077d17c3b0ec9bf804a7644cbc9841772af584358d057ee2b763f0eec3bcd77",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域40",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/40",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        7.91752349709472,
+        51.449764580420414,
+        8.06901186093712,
+        51.540454131244964
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-41",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/c57c56e85230466c8444a944a54efccaf7c10a85fbbaaa1b16a1184256e53013.json",
+      "bytes": 10179,
+      "sha256": "c57c56e85230466c8444a944a54efccaf7c10a85fbbaaa1b16a1184256e53013",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域41",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/41",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        15.049788899590872,
+        50.50986172708035,
+        15.187534384028373,
+        50.62201431397847
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-42",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/ca1e5e00c4914f5d26a07684116f5a7c5823b2043e53a7adf133554b3bca5325.json",
+      "bytes": 9826,
+      "sha256": "ca1e5e00c4914f5d26a07684116f5a7c5823b2043e53a7adf133554b3bca5325",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域42",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/42",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        11.30262926008914,
+        51.39032403751381,
+        11.458248814477578,
+        51.49231646510436
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-43",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/ee216ffb80eb82a11bf33abf63ba8929204c21fa5c926b92d2ad0cf8efb382a1.json",
+      "bytes": 11141,
+      "sha256": "ee216ffb80eb82a11bf33abf63ba8929204c21fa5c926b92d2ad0cf8efb382a1",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域43",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/43",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        6.997406255347079,
+        50.52281646394947,
+        7.152889059102307,
+        50.62271029042659
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-44",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/fecda2c835cb6f49ddb70e23f5c7c9bffce96fb013c4c92eee3fe6604f3393ee.json",
+      "bytes": 11642,
+      "sha256": "fecda2c835cb6f49ddb70e23f5c7c9bffce96fb013c4c92eee3fe6604f3393ee",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域44",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/44",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        5.526885458114184,
+        50.50695053214594,
+        5.667970672160279,
+        50.64473934862318
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-45",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/600e1e8f20a3f40358cb601f14a70817d0d67550c9148b41d00acafd36ee9273.json",
+      "bytes": 10437,
+      "sha256": "600e1e8f20a3f40358cb601f14a70817d0d67550c9148b41d00acafd36ee9273",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域45",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/45",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        6.882662552973039,
+        50.80096116491672,
+        7.008529090215056,
+        50.935654984719406
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-46",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/f37bcf2d4a2950a1ae3c3432a0b7e9083fa420c3c9b5297293c4e4cdffe00949.json",
+      "bytes": 11561,
+      "sha256": "f37bcf2d4a2950a1ae3c3432a0b7e9083fa420c3c9b5297293c4e4cdffe00949",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域46",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/46",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        11.511848672652482,
+        52.1462148244576,
+        11.713931291099614,
+        52.23550450333404
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-47",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/6bb68b7a3a4d7c6cc656e7133d8db2b822f61668fdb54bec8a0416d8f9676ccf.json",
+      "bytes": 11646,
+      "sha256": "6bb68b7a3a4d7c6cc656e7133d8db2b822f61668fdb54bec8a0416d8f9676ccf",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域47",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/47",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        5.798376820025991,
+        50.822613104389745,
+        5.926646855755825,
+        50.964196531269835
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-48",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/558396e19190fd35ce6b752b21f88b36bbcdf456e22ee565768c5127e5eafaf3.json",
+      "bytes": 10169,
+      "sha256": "558396e19190fd35ce6b752b21f88b36bbcdf456e22ee565768c5127e5eafaf3",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域48",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/48",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        10.377674017357927,
+        48.771886030733434,
+        10.57100025231776,
+        48.85386976188608
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-49",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/f95311c956c07664ae2c4fe81c4f530676d4f3134fd420e3f22fa1f383bfa0b6.json",
+      "bytes": 10345,
+      "sha256": "f95311c956c07664ae2c4fe81c4f530676d4f3134fd420e3f22fa1f383bfa0b6",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域49",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/49",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        13.76152612327751,
+        50.95285577848588,
+        13.943229038377842,
+        51.042569346768026
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-50",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/a8b0bc28579afbc278c75b2dbefa4e34395efda8f11eece6f124de6176561722.json",
+      "bytes": 10769,
+      "sha256": "a8b0bc28579afbc278c75b2dbefa4e34395efda8f11eece6f124de6176561722",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域50",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/50",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        8.805576479613224,
+        49.74173031633481,
+        9.001262321957972,
+        49.83712240422508
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-51",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/370aec39d288ccde9c0c2afcb464f23576040ab41a7417b7b70aceb9b759b8a6.json",
+      "bytes": 11389,
+      "sha256": "370aec39d288ccde9c0c2afcb464f23576040ab41a7417b7b70aceb9b759b8a6",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域51",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/51",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        15.279237519010952,
+        50.37977690022038,
+        15.436017386389443,
+        50.50038479956466
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-52",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/eeaa7f5c15fd85ff7ee8fac61acc70d22647412d6cc1f3879bab5ba260c3123e.json",
+      "bytes": 15071,
+      "sha256": "eeaa7f5c15fd85ff7ee8fac61acc70d22647412d6cc1f3879bab5ba260c3123e",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域52",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/52",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        9.329187218890862,
+        48.77476080817091,
+        9.549161617800577,
+        48.93004989493758
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-53",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/f2ebcbdf9336b3064f0160f9aeca057e5dcf3b9d31ee586be390c87b629452e1.json",
+      "bytes": 12092,
+      "sha256": "f2ebcbdf9336b3064f0160f9aeca057e5dcf3b9d31ee586be390c87b629452e1",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域53",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/53",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        15.279867170267295,
+        48.95659874167685,
+        15.50039067039446,
+        49.06340008658093
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-54",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/fec0363430ce3a484a2fd76156fdf0f299ae46116903846c333db7769e013ae0.json",
+      "bytes": 13289,
+      "sha256": "fec0363430ce3a484a2fd76156fdf0f299ae46116903846c333db7769e013ae0",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域54",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/54",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        14.742747742516638,
+        50.35382618937506,
+        15.033538708347645,
+        50.4575457142164
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-55",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/14f32b97234321a78b12eff1c5e5a9bff2e663f0e941f02e246f1a9810addbdd.json",
+      "bytes": 12686,
+      "sha256": "14f32b97234321a78b12eff1c5e5a9bff2e663f0e941f02e246f1a9810addbdd",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域55",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/55",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        6.1443953510726335,
+        49.466789799561575,
+        6.327508581469417,
+        49.616841387017665
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-56",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/f00369e725f588e23539cd3de6a8ecd5ac03f292f4e9a0faf3719c865967accc.json",
+      "bytes": 12607,
+      "sha256": "f00369e725f588e23539cd3de6a8ecd5ac03f292f4e9a0faf3719c865967accc",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域56",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/56",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        10.02342541264616,
+        49.94055134890827,
+        10.236502411789337,
+        50.063549001283356
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-57",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/ce72acaed85e91000e9515d29849db7040450cabc3042e32ba3c8b45b86d2937.json",
+      "bytes": 13034,
+      "sha256": "ce72acaed85e91000e9515d29849db7040450cabc3042e32ba3c8b45b86d2937",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域57",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/57",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        7.5754630100793845,
+        48.09577241971786,
+        7.779175302685553,
+        48.220494147320814
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-58",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/688b02747b40bc1727a3bed4fd46fd7f2bfc8e94e66ff3122616abce22740f83.json",
+      "bytes": 12423,
+      "sha256": "688b02747b40bc1727a3bed4fd46fd7f2bfc8e94e66ff3122616abce22740f83",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域58",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/58",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        13.972626105703714,
+        49.8124274060759,
+        14.199605824803292,
+        49.91937922316316
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-59",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/6f0d43cbffbb247e1b3636fc0a11fbed423e7abc2cc63d45d3bcada3848a4d7a.json",
+      "bytes": 11913,
+      "sha256": "6f0d43cbffbb247e1b3636fc0a11fbed423e7abc2cc63d45d3bcada3848a4d7a",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域59",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/59",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        10.686121187333912,
+        51.89787233818915,
+        10.886781645806265,
+        52.021024983969426
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-60",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/16f33c9cc2b3dc8dc8faef832512059c7183388976f129e1cd7b6a665c0d9858.json",
+      "bytes": 15055,
+      "sha256": "16f33c9cc2b3dc8dc8faef832512059c7183388976f129e1cd7b6a665c0d9858",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域60",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/60",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        10.922358563415061,
+        51.38365879748578,
+        11.22628957105389,
+        51.501820678070125
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-61",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/900fc83d64ad9003f802929bcdc44464d4d0966b4db96001158d44be85ce35d8.json",
+      "bytes": 14527,
+      "sha256": "900fc83d64ad9003f802929bcdc44464d4d0966b4db96001158d44be85ce35d8",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域61",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/61",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        8.37007889654599,
+        49.87005565879607,
+        8.569837701632599,
+        50.03929223996384
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-62",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/792cea2dd33e1a987867a9410da5202af92558274ce22e7fe197868a79f3cceb.json",
+      "bytes": 16885,
+      "sha256": "792cea2dd33e1a987867a9410da5202af92558274ce22e7fe197868a79f3cceb",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域62",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/62",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        11.90787858222068,
+        48.77451738044016,
+        12.100616585835759,
+        48.96299868412412
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-63",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/8ccdf6d222028b836d82f93af069cc8ef5ffab6cbb225c069fa749782b09b2a0.json",
+      "bytes": 20544,
+      "sha256": "8ccdf6d222028b836d82f93af069cc8ef5ffab6cbb225c069fa749782b09b2a0",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域63",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/63",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        9.159990505912706,
+        48.59483655831108,
+        9.53030083763207,
+        48.74021454705834
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-64",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/aaeb4eeeedfcc1e2129dfa47442b36ca2826f30ec56e2aad46bd610a69b4cfd1.json",
+      "bytes": 17689,
+      "sha256": "aaeb4eeeedfcc1e2129dfa47442b36ca2826f30ec56e2aad46bd610a69b4cfd1",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域64",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/64",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        9.714473688639787,
+        51.702312339564735,
+        10.083756280905288,
+        51.83055361628523
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-65",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/41ee9a7c97eb6c8724e73630c552cd30226754525d89bf4bcb1b2870dcc5032e.json",
+      "bytes": 17463,
+      "sha256": "41ee9a7c97eb6c8724e73630c552cd30226754525d89bf4bcb1b2870dcc5032e",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域65",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/65",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        11.022744828670568,
+        51.245627176639445,
+        11.357162283777175,
+        51.40215644649216
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-66",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/5c81872b153aa0b279337dd315c1ea66a2f8e81addf83c27226b9268e3d87697.json",
+      "bytes": 20077,
+      "sha256": "5c81872b153aa0b279337dd315c1ea66a2f8e81addf83c27226b9268e3d87697",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域66",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/66",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        13.517027762254203,
+        50.039856710906435,
+        13.78992567364323,
+        50.2343508794564
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-67",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/1259879304d66fa50747e0b462f3e2c814f2f9af6480ec39669abb3587c3a550.json",
+      "bytes": 23747,
+      "sha256": "1259879304d66fa50747e0b462f3e2c814f2f9af6480ec39669abb3587c3a550",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域67",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/67",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        12.041563949101326,
+        51.22739891562447,
+        12.376198872304212,
+        51.41788649045273
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-68",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/bceb3f25406b27b8d00c946c90055849b554b061ca742f6d17415309d94452b5.json",
+      "bytes": 15387,
+      "sha256": "bceb3f25406b27b8d00c946c90055849b554b061ca742f6d17415309d94452b5",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域68",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/68",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        13.235098510334998,
+        51.25158683780901,
+        13.515121312219721,
+        51.40001241744644
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-69",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/f0710fb191feb44984e011c1aa089d630d95e754292bf113e12257d43716fff5.json",
+      "bytes": 18174,
+      "sha256": "f0710fb191feb44984e011c1aa089d630d95e754292bf113e12257d43716fff5",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域69",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/69",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        11.961093580471571,
+        48.46391085101764,
+        12.281629848686375,
+        48.65730445765079
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-70",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/725af2804795c8238b1e4b7c33c9d6be4bd1ebe7eedd6b248725890e5ef0322c.json",
+      "bytes": 15465,
+      "sha256": "725af2804795c8238b1e4b7c33c9d6be4bd1ebe7eedd6b248725890e5ef0322c",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域70",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/70",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        9.790085753300803,
+        51.42000653807506,
+        10.074654732839132,
+        51.575621576880685
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-71",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/b150d0b4565caaa45b583af5677b5b182eb42d0bee8696211bfaabdebf23ecf0.json",
+      "bytes": 23658,
+      "sha256": "b150d0b4565caaa45b583af5677b5b182eb42d0bee8696211bfaabdebf23ecf0",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域71",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/71",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        9.175782094273542,
+        51.067763286807676,
+        9.479217281949767,
+        51.26241074322306
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-72",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/5eb3d8adeff1ff420e0a307b4c6211461b84562c24c79f5cbb20fa37ed17895a.json",
+      "bytes": 20100,
+      "sha256": "5eb3d8adeff1ff420e0a307b4c6211461b84562c24c79f5cbb20fa37ed17895a",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域72",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/72",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        15.48185076918802,
+        48.61102743344624,
+        15.799510933330982,
+        48.8200772436673
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-73",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/35a84e36f693ece29be2f04fa56a8d6fbe7d128b706f29beb38c255f7d0caf8b.json",
+      "bytes": 30423,
+      "sha256": "35a84e36f693ece29be2f04fa56a8d6fbe7d128b706f29beb38c255f7d0caf8b",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域73",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/73",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        6.5301462209119405,
+        50.58564578452206,
+        7.032434736440282,
+        50.80247904273371
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-74",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/9390be9b64ec92ba571b2a60b026304652abaa0d408905e67c0f25f99880936a.json",
+      "bytes": 27914,
+      "sha256": "9390be9b64ec92ba571b2a60b026304652abaa0d408905e67c0f25f99880936a",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域74",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/74",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        9.893517059203925,
+        49.63429070767515,
+        10.181421778354887,
+        49.911117031510145
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-75",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/af77399a2dc66473dffaad3a7493a4fd30a46d7766fed975867a4c50f3998feb.json",
+      "bytes": 27366,
+      "sha256": "af77399a2dc66473dffaad3a7493a4fd30a46d7766fed975867a4c50f3998feb",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域75",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/75",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        15.592510125075906,
+        50.12286211809346,
+        15.998018851951777,
+        50.41322279855504
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-76",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/e268ddc461cbf1f19e6940ffc2022ec992fe9fc52d02caa1db973c0fdfb4dfb8.json",
+      "bytes": 30652,
+      "sha256": "e268ddc461cbf1f19e6940ffc2022ec992fe9fc52d02caa1db973c0fdfb4dfb8",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域76",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/76",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        11.892439386378753,
+        51.42456839797366,
+        12.212046162848967,
+        51.810253937263134
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-77",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/b3d5a64b97b5f0705c26511e4a5fa6570fc3284740278119697e8645f5dff104.json",
+      "bytes": 33981,
+      "sha256": "b3d5a64b97b5f0705c26511e4a5fa6570fc3284740278119697e8645f5dff104",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域77",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/77",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        12.905015134158122,
+        51.03241295961526,
+        13.480169950688495,
+        51.275654613843066
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-78",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/69cd8a5c0aac897bedcb2f59f8954b993728910af95198845659dece8707cc2d.json",
+      "bytes": 30015,
+      "sha256": "69cd8a5c0aac897bedcb2f59f8954b993728910af95198845659dece8707cc2d",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域78",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/78",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        10.072808384904206,
+        49.28651610472534,
+        10.51409742762651,
+        49.64707345777401
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-79",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/cf02515a921600081b936894f862cc262543647e9ebb36dd0cbc1e54193bb5b9.json",
+      "bytes": 33345,
+      "sha256": "cf02515a921600081b936894f862cc262543647e9ebb36dd0cbc1e54193bb5b9",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域79",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/79",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        7.794144914606209,
+        49.5030740161874,
+        8.184497290143579,
+        49.92899862832386
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-80",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/239122e378819aa01c322dc5660961d0c1f72cc4e9316597db4bd9ede104fb21.json",
+      "bytes": 33925,
+      "sha256": "239122e378819aa01c322dc5660961d0c1f72cc4e9316597db4bd9ede104fb21",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域80",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/80",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        7.1534726128711075,
+        50.11652553834354,
+        7.67926357430238,
+        50.42206977036703
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-81",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/3c66220cd8a01eff558598786ea4fe7fd471c043e89519a54a2f12fe7c0d0e3a.json",
+      "bytes": 34549,
+      "sha256": "3c66220cd8a01eff558598786ea4fe7fd471c043e89519a54a2f12fe7c0d0e3a",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域81",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/81",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        7.216678832100381,
+        48.439452611740336,
+        7.836747316152061,
+        48.721631073867606
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-82",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/63f60fae253ea27549d6ad057e6c17733cf153b021d9a7a4fbb3da37a36a1190.json",
+      "bytes": 43489,
+      "sha256": "63f60fae253ea27549d6ad057e6c17733cf153b021d9a7a4fbb3da37a36a1190",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域82",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/82",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        6.199185718042592,
+        50.76867607356912,
+        6.781229931584267,
+        51.11514026459928
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-83",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/57a64438e991702c7ad013168e218deb27f2cab68ede9325ccf25a17cb3bb56d.json",
+      "bytes": 49012,
+      "sha256": "57a64438e991702c7ad013168e218deb27f2cab68ede9325ccf25a17cb3bb56d",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域83",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/83",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        12.467049713825176,
+        48.64846070093749,
+        13.179044488923797,
+        48.93480791486772
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-84",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/ea2177e11d5cf7d3650c4a2ee20a4ee4cca6e31569491a119499c58b9dbed638.json",
+      "bytes": 38043,
+      "sha256": "ea2177e11d5cf7d3650c4a2ee20a4ee4cca6e31569491a119499c58b9dbed638",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域84",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/84",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        14.846972784821972,
+        49.836570172249594,
+        15.5016712950288,
+        50.11596966363803
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-85",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/1a7cd1e047e36dd86d858e43ccb8be94165acac403d728c935e18e4699caec23.json",
+      "bytes": 46704,
+      "sha256": "1a7cd1e047e36dd86d858e43ccb8be94165acac403d728c935e18e4699caec23",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域85",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/85",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        8.590002683119328,
+        50.03010045987807,
+        9.139623109394668,
+        50.50434854724986
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-86",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/e778ed5624b9e46e79bfd800ef89574dcb1e459e9dbcbf106ac6c0369dca9a36.json",
+      "bytes": 63267,
+      "sha256": "e778ed5624b9e46e79bfd800ef89574dcb1e459e9dbcbf106ac6c0369dca9a36",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域86",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/86",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        10.566023471246275,
+        51.80763704680161,
+        11.594681999468843,
+        52.20219858701326
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-87",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/6cccbaf5bb3d29bd8feb7424e2ea0b44e0d24acebeb0ed7c4a236071a9a37734.json",
+      "bytes": 57914,
+      "sha256": "6cccbaf5bb3d29bd8feb7424e2ea0b44e0d24acebeb0ed7c4a236071a9a37734",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域87",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/87",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        11.01964998777806,
+        51.38966422630246,
+        11.79481666536355,
+        51.84148125406178
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-88",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/3c59725f7f7d7dc4820f6c88769ec2b205651aace9780e04406f3f2d68c34014.json",
+      "bytes": 70589,
+      "sha256": "3c59725f7f7d7dc4820f6c88769ec2b205651aace9780e04406f3f2d68c34014",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域88",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/88",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        10.423433470336786,
+        50.735081016900295,
+        11.092128337028011,
+        51.329215731433045
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-89",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/0ad2b99e50fe91d08a9b935c6272c0ce01eddff9f522d1c50af701a7669d6acd.json",
+      "bytes": 113733,
+      "sha256": "0ad2b99e50fe91d08a9b935c6272c0ce01eddff9f522d1c50af701a7669d6acd",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域89",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/89",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        8.83622849054403,
+        48.483717355711285,
+        9.53153621904545,
+        49.28362615422642
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-90",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/95905d75d7b550a40f2f724fa908a6d5482a1d9a946630fbe0c3787897b6cac8.json",
+      "bytes": 78113,
+      "sha256": "95905d75d7b550a40f2f724fa908a6d5482a1d9a946630fbe0c3787897b6cac8",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域90",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/90",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        11.533727393079339,
+        50.8145533367204,
+        12.581985445604332,
+        51.31529590819168
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
+    },
+    {
+      "id": "crc806-central-europe-91",
+      "provider": "crc806",
+      "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "file": "documents-central/77d77cedfd190c406ead219dcc02b58c2f9d6cca0f0d35ff0cdec75088c972c6.json",
+      "bytes": 164695,
+      "sha256": "77d77cedfd190c406ead219dcc02b58c2f9d6cca0f0d35ff0cdec75088c972c6",
+      "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域91",
+      "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/91",
+      "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        13.132407968852101,
+        49.921203667649046,
+        14.818052561911774,
+        50.74084016032758
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Generalized central-European settlement-density research area, period aggregate, not annual or political border. Coordinates transformed from EPSG:31467 to WGS84 with stated 3 m operation accuracy.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert et al. (2019).",
+        "Terraevia transformed source geometry using the recorded EPSG operation; source record SHA is retained."
+      ]
     }
   ]
 }

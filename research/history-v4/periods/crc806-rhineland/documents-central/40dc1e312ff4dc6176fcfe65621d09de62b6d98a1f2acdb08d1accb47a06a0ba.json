@@ -1,0 +1,116 @@
+{
+  "format": "terraevia-historical-period-region-v1",
+  "researchOnly": true,
+  "historicalAccuracy": "NOT_VERIFIED",
+  "publicDatasetApproval": "NOT_GRANTED",
+  "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域2",
+  "geometryPolicy": "EPSG31467_TO_EPSG4326_DHDN_WGS84_2_ACCURACY_3M",
+  "temporalInterpretation": "PERIOD_AGGREGATE_NOT_ANNUAL_NOT_POLITICAL_BORDER",
+  "sourceRecordNumber": 2,
+  "source": {
+    "provider": "crc806",
+    "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/2",
+    "sourceURL": "https://crc806db.uni-koeln.de/dataset/show/distribution-maps-of-early-neolithic-in-central-europe-and-in-rhineland1559904469/",
+    "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+    "snapshotBytes": 177916,
+    "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+    "sourceFileName": "13_earlyNeolithic_CE_iso3,5km_GK3.shp",
+    "sourceFeatureIndex": 1,
+    "sourceFeatureCount": 91,
+    "rightsStatus": "SOURCE_TAGS_RETAINED_NOT_APPROVED",
+    "sourceAndRightsObjects": [],
+    "licenseSPDX": "CC-BY-4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "researchPeriodCalBP": [
+      7500,
+      6950
+    ],
+    "periodMetadataSHA256": "75a73603cd0c101776c213c80e2acff6e35fc0c0dac52588b69d0a82ce7a80d2",
+    "shapeRecordSHA256": "89e6246ab651a9e35f36cf784f588fb6dc281883f07e0057a90b890314b0a323",
+    "coordinateOperation": "DHDN to WGS 84 (2)",
+    "coordinateAccuracyMeters": 3.0
+  },
+  "originalGeometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            7.61711369746927,
+            50.27855925479303
+          ],
+          [
+            7.617293966084546,
+            50.28163567551001
+          ],
+          [
+            7.624275950322619,
+            50.282793313663134
+          ],
+          [
+            7.631287532479719,
+            50.28293029273029
+          ],
+          [
+            7.638384122167249,
+            50.28008802160789
+          ],
+          [
+            7.64066787146526,
+            50.27883700591011
+          ],
+          [
+            7.642070908800451,
+            50.274358161497354
+          ],
+          [
+            7.639946864235079,
+            50.26983809321534
+          ],
+          [
+            7.638709366094166,
+            50.26867968970658
+          ],
+          [
+            7.631748041208111,
+            50.266860710357975
+          ],
+          [
+            7.62473799994126,
+            50.26675214051423
+          ],
+          [
+            7.61765766644272,
+            50.2690734664213
+          ],
+          [
+            7.617424024883372,
+            50.26957244799724
+          ],
+          [
+            7.617582175045483,
+            50.271681673431516
+          ],
+          [
+            7.618178206140069,
+            50.274076663834826
+          ],
+          [
+            7.617426684111871,
+            50.2770526299112
+          ],
+          [
+            7.61711369746927,
+            50.27855925479303
+          ]
+        ]
+      ]
+    ]
+  },
+  "limitations": [
+    "Generalized high-settlement-density areas aggregated across the research period; not annual or political borders.",
+    "Source period: 7500–6950 cal BP; no claim of year-specific settlement existence.",
+    "Coordinates transformed from EPSG:31467 using DHDN to WGS 84 (2), stated operation accuracy 3 metres.",
+    "No restricted site coordinates, clipping, simplification or repaired rings."
+  ]
+}

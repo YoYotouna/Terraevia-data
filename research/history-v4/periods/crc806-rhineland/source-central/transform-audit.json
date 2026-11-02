@@ -1,0 +1,22 @@
+{
+  "format": "terraevia-crc806-projection-audit-v1",
+  "status": "EPSG31467_TO_4326_OFFICIAL_3M_TRANSFORM_PASS",
+  "sourcePage": "https://crc806db.uni-koeln.de/dataset/show/distribution-maps-of-early-neolithic-in-central-europe-and-in-rhineland1559904469/",
+  "archiveSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+  "shapefileSHA256": "78718399f0b6c62bb5d05f97c193be87e0b186e6f944f740099ce09a30c72bec",
+  "sourceCRS": "EPSG:31467",
+  "targetCRS": "EPSG:4326",
+  "operation": "Inverse of 3-degree Gauss-Kruger zone 3 + DHDN to WGS 84 (2) (with axis order normalized for visualization)",
+  "accuracyMeters": 3.0,
+  "pipeline": "proj=pipeline step inv proj=tmerc lat_0=0 lon_0=9 k=1 x_0=3500000 y_0=0 ellps=bessel step proj=push v_3 step proj=cart ellps=bessel step proj=helmert x=598.1 y=73.7 z=418.2 rx=0.202 ry=0.045 rz=-2.455 s=6.7 convention=position_vector step inv proj=cart ellps=WGS84 step proj=pop v_3 step proj=unitconvert xy_in=rad xy_out=deg",
+  "records": 91,
+  "parts": 131,
+  "verticesIncludingClosure": 18041,
+  "holes": 40,
+  "invalidSourceRecords": [],
+  "invalidTransformedRecords": [],
+  "geoJSONSHA256": "46a4bd296af969db4629e5f7e5a0f98d2be152c8b764e97437e03a350990149f",
+  "researchOnly": true,
+  "historicalAccuracy": "NOT_VERIFIED",
+  "publicDatasetApproval": "NOT_GRANTED"
+}

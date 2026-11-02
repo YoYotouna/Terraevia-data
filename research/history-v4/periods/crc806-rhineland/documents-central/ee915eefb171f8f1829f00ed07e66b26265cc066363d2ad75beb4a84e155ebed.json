@@ -1,0 +1,204 @@
+{
+  "format": "terraevia-historical-period-region-v1",
+  "researchOnly": true,
+  "historicalAccuracy": "NOT_VERIFIED",
+  "publicDatasetApproval": "NOT_GRANTED",
+  "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域9",
+  "geometryPolicy": "EPSG31467_TO_EPSG4326_DHDN_WGS84_2_ACCURACY_3M",
+  "temporalInterpretation": "PERIOD_AGGREGATE_NOT_ANNUAL_NOT_POLITICAL_BORDER",
+  "sourceRecordNumber": 9,
+  "source": {
+    "provider": "crc806",
+    "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/9",
+    "sourceURL": "https://crc806db.uni-koeln.de/dataset/show/distribution-maps-of-early-neolithic-in-central-europe-and-in-rhineland1559904469/",
+    "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+    "snapshotBytes": 177916,
+    "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+    "sourceFileName": "13_earlyNeolithic_CE_iso3,5km_GK3.shp",
+    "sourceFeatureIndex": 8,
+    "sourceFeatureCount": 91,
+    "rightsStatus": "SOURCE_TAGS_RETAINED_NOT_APPROVED",
+    "sourceAndRightsObjects": [],
+    "licenseSPDX": "CC-BY-4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "researchPeriodCalBP": [
+      7500,
+      6950
+    ],
+    "periodMetadataSHA256": "75a73603cd0c101776c213c80e2acff6e35fc0c0dac52588b69d0a82ce7a80d2",
+    "shapeRecordSHA256": "98f6140591593221006035b7147b57a4c33ce4682f35d538bf589b473e303c00",
+    "coordinateOperation": "DHDN to WGS 84 (2)",
+    "coordinateAccuracyMeters": 3.0
+  },
+  "originalGeometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            6.073939467190009,
+            50.85240165292603
+          ],
+          [
+            6.074127531511636,
+            50.85690211878264
+          ],
+          [
+            6.075755973926341,
+            50.86143870135002
+          ],
+          [
+            6.078514800559528,
+            50.866003572887564
+          ],
+          [
+            6.079886128410382,
+            50.86726922927877
+          ],
+          [
+            6.0844459668810895,
+            50.87064770502808
+          ],
+          [
+            6.086696719650682,
+            50.87197932402021
+          ],
+          [
+            6.093619296009347,
+            50.87491181519516
+          ],
+          [
+            6.095396876905948,
+            50.87541661836009
+          ],
+          [
+            6.100605481541731,
+            50.876833643775996
+          ],
+          [
+            6.10768901945412,
+            50.8771929173246
+          ],
+          [
+            6.1148578991878,
+            50.876172563468884
+          ],
+          [
+            6.11587249225893,
+            50.875924643604
+          ],
+          [
+            6.1220839235871205,
+            50.87421967225611
+          ],
+          [
+            6.125347833325975,
+            50.87166282373762
+          ],
+          [
+            6.129568985203023,
+            50.86804183372052
+          ],
+          [
+            6.130628573954471,
+            50.867297141676644
+          ],
+          [
+            6.135503498185556,
+            50.86292126104575
+          ],
+          [
+            6.137111010160337,
+            50.86090128886712
+          ],
+          [
+            6.138926139620057,
+            50.85850956838131
+          ],
+          [
+            6.141173378324185,
+            50.85406897491251
+          ],
+          [
+            6.142641388615809,
+            50.849609252065
+          ],
+          [
+            6.14099340617415,
+            50.84507316963283
+          ],
+          [
+            6.138336101897525,
+            50.84089577349561
+          ],
+          [
+            6.1380255863561946,
+            50.84050467806772
+          ],
+          [
+            6.132930439935363,
+            50.83588382466192
+          ],
+          [
+            6.131602789720969,
+            50.83491364953524
+          ],
+          [
+            6.124709616808908,
+            50.83155959212601
+          ],
+          [
+            6.117563077268755,
+            50.832332951218085
+          ],
+          [
+            6.110500611320505,
+            50.8317414984783
+          ],
+          [
+            6.103408731621157,
+            50.83162773908753
+          ],
+          [
+            6.096205826705899,
+            50.833302656801266
+          ],
+          [
+            6.092021579636158,
+            50.83487092918738
+          ],
+          [
+            6.0889458478141725,
+            50.835885961636144
+          ],
+          [
+            6.082872364222724,
+            50.83913817892148
+          ],
+          [
+            6.081567620075517,
+            50.840350720299654
+          ],
+          [
+            6.078659602838322,
+            50.84352847879467
+          ],
+          [
+            6.075308117145504,
+            50.84794023174627
+          ],
+          [
+            6.073939467190009,
+            50.85240165292603
+          ]
+        ]
+      ]
+    ]
+  },
+  "limitations": [
+    "Generalized high-settlement-density areas aggregated across the research period; not annual or political borders.",
+    "Source period: 7500–6950 cal BP; no claim of year-specific settlement existence.",
+    "Coordinates transformed from EPSG:31467 using DHDN to WGS 84 (2), stated operation accuracy 3 metres.",
+    "No restricted site coordinates, clipping, simplification or repaired rings."
+  ]
+}

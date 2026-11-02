@@ -1,0 +1,228 @@
+{
+  "format": "terraevia-historical-period-region-v1",
+  "researchOnly": true,
+  "historicalAccuracy": "NOT_VERIFIED",
+  "publicDatasetApproval": "NOT_GRANTED",
+  "title": "中欧早期新石器聚落密集区 · 时段汇总 · 区域7",
+  "geometryPolicy": "EPSG31467_TO_EPSG4326_DHDN_WGS84_2_ACCURACY_3M",
+  "temporalInterpretation": "PERIOD_AGGREGATE_NOT_ANNUAL_NOT_POLITICAL_BORDER",
+  "sourceRecordNumber": 7,
+  "source": {
+    "provider": "crc806",
+    "objectID": "13_earlyNeolithic_CE_iso3,5km_GK3.shp/record/7",
+    "sourceURL": "https://crc806db.uni-koeln.de/dataset/show/distribution-maps-of-early-neolithic-in-central-europe-and-in-rhineland1559904469/",
+    "snapshotSHA256": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+    "snapshotBytes": 177916,
+    "datasetRevision": "d453f610bcd5abd9a92a52027a9dd78c4b2cbffe5f54b10aa20a1a3482ec82e7",
+    "sourceFileName": "13_earlyNeolithic_CE_iso3,5km_GK3.shp",
+    "sourceFeatureIndex": 6,
+    "sourceFeatureCount": 91,
+    "rightsStatus": "SOURCE_TAGS_RETAINED_NOT_APPROVED",
+    "sourceAndRightsObjects": [],
+    "licenseSPDX": "CC-BY-4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "researchPeriodCalBP": [
+      7500,
+      6950
+    ],
+    "periodMetadataSHA256": "75a73603cd0c101776c213c80e2acff6e35fc0c0dac52588b69d0a82ce7a80d2",
+    "shapeRecordSHA256": "7d41e3b86234d33c5cd6f237a7cc094fb62c738a12d506b39e36dd48f6a3be00",
+    "coordinateOperation": "DHDN to WGS 84 (2)",
+    "coordinateAccuracyMeters": 3.0
+  },
+  "originalGeometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            10.423370038129393,
+            50.98826550549438
+          ],
+          [
+            10.423493784231518,
+            50.988544949676445
+          ],
+          [
+            10.430700147615719,
+            50.99130552148732
+          ],
+          [
+            10.433748249682527,
+            50.99263326534373
+          ],
+          [
+            10.437909902726846,
+            50.99414785155315
+          ],
+          [
+            10.445120015889362,
+            50.996973079270205
+          ],
+          [
+            10.445142608253198,
+            50.99698753535633
+          ],
+          [
+            10.452340493968869,
+            51.000101781274516
+          ],
+          [
+            10.454914479626408,
+            51.001360927753204
+          ],
+          [
+            10.45956113477625,
+            51.00320442458142
+          ],
+          [
+            10.466119722191886,
+            51.005715518626545
+          ],
+          [
+            10.466772210579695,
+            51.00597313807298
+          ],
+          [
+            10.473909187402771,
+            51.006377973507334
+          ],
+          [
+            10.481037159931907,
+            51.006496179066346
+          ],
+          [
+            10.488158828483279,
+            51.00641621467411
+          ],
+          [
+            10.489931947591339,
+            51.005414103967134
+          ],
+          [
+            10.493836993589529,
+            51.00086944760761
+          ],
+          [
+            10.495047021212919,
+            50.99907798953193
+          ],
+          [
+            10.50025314794432,
+            50.99629241518237
+          ],
+          [
+            10.502067211069471,
+            50.99589263505335
+          ],
+          [
+            10.509151659229392,
+            50.994716608542966
+          ],
+          [
+            10.513480132021867,
+            50.991626931314094
+          ],
+          [
+            10.516101796969426,
+            50.98943183009532
+          ],
+          [
+            10.52316208039977,
+            50.987558423161715
+          ],
+          [
+            10.523841974394971,
+            50.9869973653997
+          ],
+          [
+            10.523135269127414,
+            50.98673970807297
+          ],
+          [
+            10.515899048681895,
+            50.98321128400119
+          ],
+          [
+            10.51357891584839,
+            50.98263608528951
+          ],
+          [
+            10.508685032255917,
+            50.98033338855312
+          ],
+          [
+            10.505168834322207,
+            50.97825003264922
+          ],
+          [
+            10.50148287808243,
+            50.97779515053728
+          ],
+          [
+            10.49433599467926,
+            50.976953218562315
+          ],
+          [
+            10.487173709762821,
+            50.975621161503284
+          ],
+          [
+            10.480077558074372,
+            50.97635519265507
+          ],
+          [
+            10.47294932336221,
+            50.97608268309407
+          ],
+          [
+            10.465847780087605,
+            50.97665462957441
+          ],
+          [
+            10.458774731392575,
+            50.978140822923
+          ],
+          [
+            10.456420985667872,
+            50.97886836359866
+          ],
+          [
+            10.451706843453882,
+            50.97980670713829
+          ],
+          [
+            10.445458557835062,
+            50.983499368564026
+          ],
+          [
+            10.44472010874255,
+            50.98410182700768
+          ],
+          [
+            10.437660724463099,
+            50.98608798117686
+          ],
+          [
+            10.430581614111027,
+            50.987452212104195
+          ],
+          [
+            10.42348323809426,
+            50.98820037891869
+          ],
+          [
+            10.423370038129393,
+            50.98826550549438
+          ]
+        ]
+      ]
+    ]
+  },
+  "limitations": [
+    "Generalized high-settlement-density areas aggregated across the research period; not annual or political borders.",
+    "Source period: 7500–6950 cal BP; no claim of year-specific settlement existence.",
+    "Coordinates transformed from EPSG:31467 using DHDN to WGS 84 (2), stated operation accuracy 3 metres.",
+    "No restricted site coordinates, clipping, simplification or repaired rings."
+  ]
+}

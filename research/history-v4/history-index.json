@@ -402,8 +402,8 @@
     },
     {
       "file": "periods/crc806-rhineland/boundary-index.json",
-      "bytes": 15651,
-      "sha256": "19a5175f9c105d8a88d62f19939d8cba7c89195ca10e711b8ff12bea11345717",
+      "bytes": 153027,
+      "sha256": "def02df054eb13d52b64211459f72ee27b4688e97c22cae394bfb725a3128b64",
       "fromAstronomicalYear": -5550,
       "endAstronomicalYearExclusive": -4999
     }
