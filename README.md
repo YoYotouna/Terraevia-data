@@ -31,3 +31,11 @@ This is a library of research sources, not complete global historical coverage. 
 Source: Seshat Cliopatria v0.2.1, Seshat Global History Databank (Ed Chalstrey, James Bennett), CC BY 4.0. See [world attribution](research/world/v1/ATTRIBUTION.md) and the root sourceLicense. Source rows were extracted unchanged into content-addressed files; spatial and temporal indexes were added. No border repairs, interpolation, or substitute years were introduced.
 
 2026-11-02 source compatibility update: 155 additional original frames (878–1555 CE) are available after aligning drawing-only zero-length-edge handling with the native reader. Source coordinates and dates remain unchanged. Previously published content-addressed files remain available for cached clients.
+
+## Extended historical rings (world/v2)
+
+[World v2 index](https://raw.githubusercontent.com/YoYotouna/Terraevia-data/main/research/world/v2/world-index.json)
+
+13,256 original source frames passed native decoding and geometry save/restore checks, across 124 spatial/time shards. This version supports readonly historical rings up to 4,096 vertices and includes 29 additional original frames, including the Russian Empire in 1900. Personal drawing limits are unchanged. The v1 index and its content-addressed files remain available for earlier clients.
+
+541 original frames remain excluded. A local test of 24 city viewports across 1900, 1950, 2000 and 2024 loaded reviewed sources in 95 of 96 cases; Moscow 1950 remains unsupported due to hole contact. This is a technical source-availability check, not verification of historical accuracy or global coverage. Original source coordinates and dates are unchanged; all approval flags remain false. Source and CC BY 4.0 attribution are declared in [v2 attribution](research/world/v2/ATTRIBUTION.md).
