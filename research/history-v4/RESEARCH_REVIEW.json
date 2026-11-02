@@ -18,5 +18,33 @@
   "sourcePeriodCalBP": [
     7500,
     6950
-  ]
+  ],
+  "gravettian": {
+    "format": "terraevia-crc806-gravettian-build-v1",
+    "rootSHA256": "5d78f413a9dce3937e3024ce135daba6b5896bd9beb9255cb9bfc703a24286b6",
+    "coreDocumentDecode": "CORE_DECODED_GRAVETTIAN_P1_P2 records=4",
+    "periodSceneAudit": [
+      "astronomicalYear -31000: 2 visible CRC806 records",
+      "astronomicalYear -25000: 1 visible CRC806 record"
+    ],
+    "documentCount": 4,
+    "sourceDOI": "10.5880/SFB806.73",
+    "sourceArchivesSHA256": {
+      "33_GraP1.zip": "a90e02b34988974c2241703f3d60dd0eb495d61fb85e4e9ff92d2b7ed44846f8",
+      "9_GraP2.zip": "d9a7c282ade4aeaf040761944f7d2aa3b057b1482dc477c277728fdc2d915f05"
+    },
+    "periodsCalBP": {
+      "P1": [
+        33000,
+        29000
+      ],
+      "P2": [
+        29000,
+        25000
+      ]
+    },
+    "temporalInterpretation": "PERIOD_AGGREGATE_NOT_ANNUAL_NOT_POLITICAL_BORDER",
+    "historicalAccuracy": "NOT_VERIFIED",
+    "publicDatasetApproval": "NOT_GRANTED"
+  }
 }

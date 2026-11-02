@@ -1,0 +1,1 @@
+CRC806 P1 generalized Gravettian core areas. Dataset DOI 10.5880/SFB806.73; CC BY 4.0. Source period 33000–29000 cal BP. Not annual or political boundaries. Source ZIP SHA256 a90e02b34988974c2241703f3d60dd0eb495d61fb85e4e9ff92d2b7ed44846f8.

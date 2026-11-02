@@ -1,0 +1,60 @@
+{
+  "format": "terraevia-history-boundary-index-v3",
+  "researchOnly": true,
+  "historicalAccuracy": "NOT_VERIFIED",
+  "publicDatasetApproval": "NOT_GRANTED",
+  "entries": [
+    {
+      "id": "crc806-gravettian-p1-1",
+      "provider": "crc806",
+      "datasetRevision": "a90e02b34988974c2241703f3d60dd0eb495d61fb85e4e9ff92d2b7ed44846f8",
+      "file": "documents/c000224b01fa7e97456be25b6de57a0ae2e5980c18fdd5562de48a8f06252c5e.json",
+      "bytes": 663613,
+      "sha256": "c000224b01fa7e97456be25b6de57a0ae2e5980c18fdd5562de48a8f06252c5e",
+      "title": "Gravettian P1 核心区 · 时段汇总 · 区域1",
+      "objectID": "31_GraP1/P1_W_Agg_ISO_41_u_44km_region.shp/record/1",
+      "snapshotSHA256": "a90e02b34988974c2241703f3d60dd0eb495d61fb85e4e9ff92d2b7ed44846f8",
+      "fromAstronomicalYear": -31050,
+      "endAstronomicalYearExclusive": -27049,
+      "boundsWGS84": [
+        -9.563926771963478,
+        38.367260027248356,
+        15.611643667831675,
+        50.89793509586641
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Maier, A. & Zimmermann, A. (2021), CRC806 Database, DOI 10.5880/SFB806.73, CC BY 4.0. Generalized demographic core area, period aggregate.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · DOI 10.5880/SFB806.73",
+        "UTM32N inverse-projection only; source record SHA retained."
+      ]
+    },
+    {
+      "id": "crc806-gravettian-p1-2",
+      "provider": "crc806",
+      "datasetRevision": "a90e02b34988974c2241703f3d60dd0eb495d61fb85e4e9ff92d2b7ed44846f8",
+      "file": "documents/9339012427ac6d3105842f8f39086d0bd4516a9b90dcdd46914c7aa249e4d511.json",
+      "bytes": 358247,
+      "sha256": "9339012427ac6d3105842f8f39086d0bd4516a9b90dcdd46914c7aa249e4d511",
+      "title": "Gravettian P1 核心区 · 时段汇总 · 区域2",
+      "objectID": "31_GraP1/P1_W_Agg_ISO_41_u_44km_region.shp/record/2",
+      "snapshotSHA256": "a90e02b34988974c2241703f3d60dd0eb495d61fb85e4e9ff92d2b7ed44846f8",
+      "fromAstronomicalYear": -31050,
+      "endAstronomicalYearExclusive": -27049,
+      "boundsWGS84": [
+        8.701980571413838,
+        47.48079129296113,
+        27.970949252557187,
+        50.50111764408747
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Maier, A. & Zimmermann, A. (2021), CRC806 Database, DOI 10.5880/SFB806.73, CC BY 4.0. Generalized demographic core area, period aggregate.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · DOI 10.5880/SFB806.73",
+        "UTM32N inverse-projection only; source record SHA retained."
+      ]
+    }
+  ]
+}

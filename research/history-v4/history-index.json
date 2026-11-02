@@ -406,6 +406,20 @@
       "sha256": "def02df054eb13d52b64211459f72ee27b4688e97c22cae394bfb725a3128b64",
       "fromAstronomicalYear": -5550,
       "endAstronomicalYearExclusive": -4999
+    },
+    {
+      "file": "periods/gravettian-p1/boundary-index.json",
+      "bytes": 2751,
+      "sha256": "005f21d6789fec033a6e65d4b4009ce2b7c81fe4ac290eed02263e1b4e974d54",
+      "fromAstronomicalYear": -31050,
+      "endAstronomicalYearExclusive": -27049
+    },
+    {
+      "file": "periods/gravettian-p2/boundary-index.json",
+      "bytes": 2751,
+      "sha256": "87160d3cdfcfa747628f8ebf2310dde26a1800c3f9e128df5478641c0eea2d5b",
+      "fromAstronomicalYear": -27050,
+      "endAstronomicalYearExclusive": -23049
     }
   ]
 }
