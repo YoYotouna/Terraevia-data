@@ -47,3 +47,11 @@ Source: Seshat Cliopatria v0.2.1, Seshat Global History Databank (Ed Chalstrey, 
 13,382 original source frames passed native decoding and region save/restore checks, across 124 shards. This version includes 126 additional original frames (323 BCE–2024 CE) after supporting valid single shared-vertex hole contacts. Coordinates, holes and dates are unchanged. The 126 additional raw geometries also passed independent GEOS 3.13.1 validity checks. Contact cycles, crossings, shared edges, T-junctions and nested holes remain unsupported. v1 and v2 remain unchanged for earlier clients.
 
 A local test loaded sources in all 96 city/year cases and found the exact original source in each of 126 added-source viewports, including Moscow 1950. These checks do not establish historical accuracy, global coverage, or device rendering performance. 415 original records remain excluded. All approval flags remain false. The original CC BY 4.0 attribution is retained in [v3 attribution](research/world/v3/ATTRIBUTION.md).
+
+## Source coordinate precision (world/v4)
+
+[World v4 index](https://raw.githubusercontent.com/YoYotouna/Terraevia-data/main/research/world/v4/world-index.json)
+
+13,393 original source frames passed native decoding, independent source-coordinate comparison and region save/restore checks, across 124 shards. Eleven additional unchanged original frames became readable after correcting native decimal-number conversion and replacing a fixed edge-contact tolerance with a robust orientation test. All extracted frame bytes match the prior candidate; source coordinates, dates and properties were not edited. The drawn coordinates were checked against independent typed Double decoding, allowing only removal of the closing duplicate and adjacent zero-length edges.
+
+A local test loaded all 233 viewports, including all 11 newly readable original identities; 10 of these new sample views previously had no reviewed source. The remaining 404 original records comprise 385 non-POLITY records, six source-year issues and 13 invalid geometries. v1, v2 and v3 remain unchanged for earlier clients. These technical checks do not prove historical accuracy, complete global coverage or device rendering performance. Approval flags remain false; original CC BY 4.0 attribution is retained in [v4 attribution](research/world/v4/ATTRIBUTION.md).
