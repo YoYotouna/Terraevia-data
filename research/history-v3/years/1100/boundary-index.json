@@ -1,0 +1,3583 @@
+{
+  "format": "terraevia-history-boundary-index-v2",
+  "researchOnly": true,
+  "historicalAccuracy": "NOT_VERIFIED",
+  "publicDatasetApproval": "NOT_GRANTED",
+  "entries": [
+    {
+      "id": "historical-basemaps-1100-0",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/94229a9e26a05686710c31d2ed198cd2de0cd8b769d19832c1a99616f61e550b.json",
+      "bytes": 3039,
+      "sha256": "94229a9e26a05686710c31d2ed198cd2de0cd8b769d19832c1a99616f61e550b",
+      "title": "Cyprus",
+      "objectID": "world_1100.geojson/feature/0",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        32.143721613390696,
+        34.53863867397966,
+        34.45821288536335,
+        35.64456137295427
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-1",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/03e4f29229863fffafe6d574a37aecf34aaf7780891b68a5200c3ab28e8b8d1c.json",
+      "bytes": 11239,
+      "sha256": "03e4f29229863fffafe6d574a37aecf34aaf7780891b68a5200c3ab28e8b8d1c",
+      "title": "Imperial Japan (Fujiwara)",
+      "objectID": "world_1100.geojson/feature/1",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        129.34337905357626,
+        30.88783415432634,
+        141.9985151619747,
+        41.44161947842302
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-6",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/b6326e4489073fbe50b1234acee093c07ed2b01984c86dfc29801cbcf7e7a5a8.json",
+      "bytes": 6842,
+      "sha256": "b6326e4489073fbe50b1234acee093c07ed2b01984c86dfc29801cbcf7e7a5a8",
+      "title": "Madagascar",
+      "objectID": "world_1100.geojson/feature/6",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        43.291262659533274,
+        -25.6599849832469,
+        50.503340754015696,
+        -12.266468442719557
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-8",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/ebf65dfd5319bfe5dd994ce423420b156a3a233831d527515515b03ece2e422f.json",
+      "bytes": 9986,
+      "sha256": "ebf65dfd5319bfe5dd994ce423420b156a3a233831d527515515b03ece2e422f",
+      "title": "Norway",
+      "objectID": "world_1100.geojson/feature/8",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        4.980375322802317,
+        57.69820870971917,
+        19.579979929430735,
+        69.35937842007341
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-12",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/d2311eb2ebab1f976952d242a65344115ac39163f22534702f3e353886eb2571.json",
+      "bytes": 2033,
+      "sha256": "d2311eb2ebab1f976952d242a65344115ac39163f22534702f3e353886eb2571",
+      "title": "Merina Kingdom",
+      "objectID": "world_1100.geojson/feature/12",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        45.29228733826095,
+        -23.592115909676497,
+        48.488183848229525,
+        -16.904406546223765
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-13",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/c556537a8d15a9e74c66740146249789700442f0263de6c82379769f692c5c1a.json",
+      "bytes": 27839,
+      "sha256": "c556537a8d15a9e74c66740146249789700442f0263de6c82379769f692c5c1a",
+      "title": "Ainu",
+      "objectID": "world_1100.geojson/feature/13",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        139.71174148033407,
+        41.27311285610857,
+        156.495789,
+        53.54017218228044
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-14",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/7c38c898a00aa61bb00cee611c17a569d74d4640531a56926ef4c5d0076d95bf.json",
+      "bytes": 2702,
+      "sha256": "7c38c898a00aa61bb00cee611c17a569d74d4640531a56926ef4c5d0076d95bf",
+      "title": "Sardinia",
+      "objectID": "world_1100.geojson/feature/14",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        8.159486803515207,
+        38.976913057524584,
+        9.793739351732981,
+        41.184447847563646
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-15",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/8e347defcbbcff999485029397862c6e5e02e263803d0da67f69540734cbbf45.json",
+      "bytes": 2610,
+      "sha256": "8e347defcbbcff999485029397862c6e5e02e263803d0da67f69540734cbbf45",
+      "title": "Hainan",
+      "objectID": "world_1100.geojson/feature/15",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        108.56047347496299,
+        18.096622072417162,
+        110.88536361168174,
+        20.017461382109545
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-16",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/532b53a366e952545e2216aecca363e5cce28935f48686497dd8c18f8e2a4ef8.json",
+      "bytes": 2139,
+      "sha256": "532b53a366e952545e2216aecca363e5cce28935f48686497dd8c18f8e2a4ef8",
+      "title": "Great Zimbabwe",
+      "objectID": "world_1100.geojson/feature/16",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        28.27903016038492,
+        -23.054504763952146,
+        33.39528638537139,
+        -18.643939052756906
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-17",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/898f1ab3b8dc12b83ccbee7f95863765e6d8e9675fe5399715f1ac2c77ab21a5.json",
+      "bytes": 4140,
+      "sha256": "898f1ab3b8dc12b83ccbee7f95863765e6d8e9675fe5399715f1ac2c77ab21a5",
+      "title": "Islamic city-states",
+      "objectID": "world_1100.geojson/feature/17",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        37.732183923185076,
+        -11.230388082306959,
+        47.63646532348032,
+        4.096041917326509
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-18",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/8f139872a2eb99cdceaeca660ff4d80ab0350f6ce7283c5ac43f041ebb4abc0a.json",
+      "bytes": 4346,
+      "sha256": "8f139872a2eb99cdceaeca660ff4d80ab0350f6ce7283c5ac43f041ebb4abc0a",
+      "title": "Hungary",
+      "objectID": "world_1100.geojson/feature/18",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        15.911678518060839,
+        44.4463949883733,
+        27.62766255798236,
+        49.86400044664822
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-19",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/75a3399ffe1f931c6e68d3e710c4cff32f7f8de48ac3ae4f3d1e15642a778a63.json",
+      "bytes": 2800,
+      "sha256": "75a3399ffe1f931c6e68d3e710c4cff32f7f8de48ac3ae4f3d1e15642a778a63",
+      "title": "Venice",
+      "objectID": "world_1100.geojson/feature/19",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        11.970674173705603,
+        44.759181581694506,
+        14.188512835009348,
+        45.98044982178425
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-20",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/f9345c73ea4671712c3f2c109e0538902cc22647666edf7351df10d384f6c381.json",
+      "bytes": 3036,
+      "sha256": "f9345c73ea4671712c3f2c109e0538902cc22647666edf7351df10d384f6c381",
+      "title": "Corsica",
+      "objectID": "world_1100.geojson/feature/20",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        8.500446352465403,
+        41.349906526762865,
+        9.48671153496052,
+        42.98810156460466
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-21",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/46814c32fddcf77c840fafb14d252d620a4b3a2eca5688cadfd0020f187e7110.json",
+      "bytes": 7660,
+      "sha256": "46814c32fddcf77c840fafb14d252d620a4b3a2eca5688cadfd0020f187e7110",
+      "title": "East Java",
+      "objectID": "world_1100.geojson/feature/21",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        109.11534931805677,
+        -9.17766133670149,
+        118.98202804039268,
+        -1.369844138632381
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-23",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/d0ae4d77ac0e03874e142f4bd9390a6263d96da50d75d049a32d0ed320a60d05.json",
+      "bytes": 2547,
+      "sha256": "d0ae4d77ac0e03874e142f4bd9390a6263d96da50d75d049a32d0ed320a60d05",
+      "title": "Xixia",
+      "objectID": "world_1100.geojson/feature/23",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        85.1310696990691,
+        37.738080025488514,
+        110.50008782135582,
+        42.11907512291151
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-24",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/734c69b25f202d06969749723d22bf67495001275fbf3aa6b719400c5ea3d35c.json",
+      "bytes": 5087,
+      "sha256": "734c69b25f202d06969749723d22bf67495001275fbf3aa6b719400c5ea3d35c",
+      "title": "Cholas",
+      "objectID": "world_1100.geojson/feature/24",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        75.43986977288576,
+        5.931666456419848,
+        81.86616805504111,
+        15.773146234709642
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-25",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/52d51cc3562885e6d023416456da6abadb39f429f95adb639557763d04e85455.json",
+      "bytes": 3014,
+      "sha256": "52d51cc3562885e6d023416456da6abadb39f429f95adb639557763d04e85455",
+      "title": "Tibet",
+      "objectID": "world_1100.geojson/feature/25",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        79.80756351070188,
+        26.50692,
+        103.2032636187753,
+        38.960683308490275
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-26",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/3de77cc81f5827f0f0bf89b69bb36642440e8516ee823943b519128d9ed43b33.json",
+      "bytes": 9984,
+      "sha256": "3de77cc81f5827f0f0bf89b69bb36642440e8516ee823943b519128d9ed43b33",
+      "title": "Song Empire",
+      "objectID": "world_1100.geojson/feature/26",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        100.49299553549038,
+        20.2446723806447,
+        122.39285567711143,
+        39.877635770741605
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-27",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/5312ba37a3bf7b305b7a92b856525c936d4f0ac52b1d01da9bc74b4e99717757.json",
+      "bytes": 2064,
+      "sha256": "5312ba37a3bf7b305b7a92b856525c936d4f0ac52b1d01da9bc74b4e99717757",
+      "title": "Nan Chao",
+      "objectID": "world_1100.geojson/feature/27",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        98.58264716014988,
+        20.1184298737204,
+        106.58540025991904,
+        26.990895370621487
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-28",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/643f9345435eda1a384e127182c12125bd0087d2c313f5c3f7a25e0d5571b10d.json",
+      "bytes": 3074,
+      "sha256": "643f9345435eda1a384e127182c12125bd0087d2c313f5c3f7a25e0d5571b10d",
+      "title": "Đại Việt",
+      "objectID": "world_1100.geojson/feature/28",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        103.05807068574218,
+        16.053027748793,
+        107.46579268883018,
+        22.91894011470515
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-29",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/8d5d64fc85e41c2d9eaf7ffb004ca6ec974074d89e6da729cb0527b53d646a09.json",
+      "bytes": 4594,
+      "sha256": "8d5d64fc85e41c2d9eaf7ffb004ca6ec974074d89e6da729cb0527b53d646a09",
+      "title": "Khmer Empire",
+      "objectID": "world_1100.geojson/feature/29",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        97.98979092774114,
+        8.474970422942064,
+        107.89783512017955,
+        17.998714290853265
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-30",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/79141be32c0a083b3d2abc050c2fbcfba1b4a8abb6ef491681aae6c6299bba67.json",
+      "bytes": 3041,
+      "sha256": "79141be32c0a083b3d2abc050c2fbcfba1b4a8abb6ef491681aae6c6299bba67",
+      "title": "Champa",
+      "objectID": "world_1100.geojson/feature/30",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        106.4514972658936,
+        10.347982011992357,
+        109.30712417076377,
+        16.691467982144694
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-31",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/19ad142ac02167ece6e5ff8b97545df95e00f167311153cc923521be659686aa.json",
+      "bytes": 3138,
+      "sha256": "19ad142ac02167ece6e5ff8b97545df95e00f167311153cc923521be659686aa",
+      "title": "Mon state",
+      "objectID": "world_1100.geojson/feature/31",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        94.14335921715049,
+        15.677930437285326,
+        97.73432980786107,
+        19.198874631177297
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-32",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/3f0af34ac2eaa6a98e9987994e24c5c9d21a82d474476055b7ccebeafcfd5cf2.json",
+      "bytes": 3525,
+      "sha256": "3f0af34ac2eaa6a98e9987994e24c5c9d21a82d474476055b7ccebeafcfd5cf2",
+      "title": "Kingdom of Sukhotai",
+      "objectID": "world_1100.geojson/feature/32",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        92.45369298929,
+        14.206563495047007,
+        103.78688826983235,
+        28.690961624015074
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-33",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/f5c3144868b14d46fb8ac78b41168c95a52d408554da447aaf68302ba2b688cf.json",
+      "bytes": 2022,
+      "sha256": "f5c3144868b14d46fb8ac78b41168c95a52d408554da447aaf68302ba2b688cf",
+      "title": "Pyu state",
+      "objectID": "world_1100.geojson/feature/33",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        93.96558669517783,
+        18.58690895858004,
+        96.69927277139944,
+        22.731902668316586
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-34",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/33c86303bb5fb5f03865e3985c12d529137b98d577cfafa5d8af85b468eabdd9.json",
+      "bytes": 10419,
+      "sha256": "33c86303bb5fb5f03865e3985c12d529137b98d577cfafa5d8af85b468eabdd9",
+      "title": "Srivijaya Empire",
+      "objectID": "world_1100.geojson/feature/34",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        97.59714797447471,
+        -7.85564271334944,
+        111.33287483668916,
+        3.225161157805346
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-36",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/f6287ae365a5b2f00f090c083d283990303c74af9dc0ef39812bda6c64abca7a.json",
+      "bytes": 4185,
+      "sha256": "f6287ae365a5b2f00f090c083d283990303c74af9dc0ef39812bda6c64abca7a",
+      "title": "Liao",
+      "objectID": "world_1100.geojson/feature/36",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        108.36053207610276,
+        38.7502818929738,
+        133.70895636437257,
+        46.52921719457966
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-37",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/d6c5a2bd16338cc74efe697e11bed92d4bba7678d5d3d7534114e6f2a8b4f5aa.json",
+      "bytes": 3144,
+      "sha256": "d6c5a2bd16338cc74efe697e11bed92d4bba7678d5d3d7534114e6f2a8b4f5aa",
+      "title": "minor Hindu and Buddhist states",
+      "objectID": "world_1100.geojson/feature/37",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        95.1905546517208,
+        2.251384102064989,
+        99.85836318443565,
+        5.569940172392748
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-38",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/1e98fc885ec66d9c86ba8af700f47d4e26372b9fef73b8bded0eca9ebd24849e.json",
+      "bytes": 3178,
+      "sha256": "1e98fc885ec66d9c86ba8af700f47d4e26372b9fef73b8bded0eca9ebd24849e",
+      "title": "Yemen",
+      "objectID": "world_1100.geojson/feature/38",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        42.763525995714915,
+        12.613552652556322,
+        48.87929629770282,
+        17.693671699410253
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-39",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/c1c99a78709f742d235067e63a1fd9cf215a7232791e2f7e74aa2836ea977781.json",
+      "bytes": 3388,
+      "sha256": "c1c99a78709f742d235067e63a1fd9cf215a7232791e2f7e74aa2836ea977781",
+      "title": "Hadramaut",
+      "objectID": "world_1100.geojson/feature/39",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        47.06392597669141,
+        14.168719980766738,
+        57.18620971153523,
+        19.154590009908418
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-40",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/879052995c5e4986a09fe5855c57c785b2dc43d85715f148ab118dd61706ff73.json",
+      "bytes": 2975,
+      "sha256": "879052995c5e4986a09fe5855c57c785b2dc43d85715f148ab118dd61706ff73",
+      "title": "Muscat",
+      "objectID": "world_1100.geojson/feature/40",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        54.77081969688679,
+        22.18933374757559,
+        59.837283167345774,
+        26.23611982937517
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-42",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/586c094dbf845deeea5c5c173eaed90efe0485888f31460bf3b3c96aa622be1e.json",
+      "bytes": 2973,
+      "sha256": "586c094dbf845deeea5c5c173eaed90efe0485888f31460bf3b3c96aa622be1e",
+      "title": "Soomra Emirate",
+      "objectID": "world_1100.geojson/feature/42",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        63.60018266969418,
+        23.67518766995134,
+        71.40380942369548,
+        32.53223587391065
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-43",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/8e85a63334ab4b9f9b7a202060f40e9067afe91a0bb74561f078693f90b05ca1.json",
+      "bytes": 2472,
+      "sha256": "8e85a63334ab4b9f9b7a202060f40e9067afe91a0bb74561f078693f90b05ca1",
+      "title": "Ghaznavid Emirate",
+      "objectID": "world_1100.geojson/feature/43",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        54.86755273069271,
+        28.0730205859099,
+        72.21038249693608,
+        39.80865414609036
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-44",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/a9f7acaefe8d970e0533b135c228792acf92b90b1d4c05b53eac9a335948c7b9.json",
+      "bytes": 9565,
+      "sha256": "a9f7acaefe8d970e0533b135c228792acf92b90b1d4c05b53eac9a335948c7b9",
+      "title": "Byzantine Empire",
+      "objectID": "world_1100.geojson/feature/44",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        26.064057383044016,
+        34.492946230132006,
+        42.671128696774815,
+        42.04316290493669
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-45",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/f337f9f233904fd54b5f354d8f03431864b943b1e76740fe69b634597d4c037b.json",
+      "bytes": 4418,
+      "sha256": "f337f9f233904fd54b5f354d8f03431864b943b1e76740fe69b634597d4c037b",
+      "title": "Duchy of Benevento",
+      "objectID": "world_1100.geojson/feature/45",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        12.454147371752512,
+        36.7385631429738,
+        15.76654168498807,
+        42.0471568929738
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-46",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/3169e8373d2ad349de47a37c9df2d739cb81af3cb47a5ebceaeb3233f396ab55.json",
+      "bytes": 12184,
+      "sha256": "3169e8373d2ad349de47a37c9df2d739cb81af3cb47a5ebceaeb3233f396ab55",
+      "title": "Fatimid Caliphate",
+      "objectID": "world_1100.geojson/feature/46",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        0.457803183031373,
+        19.68472059841814,
+        41.922550674907015,
+        37.2823978292531
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-47",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/6fbbda19f3d7db2404e96f835761118e261ff2e1ebfc5ae1bf64a522e8a5d244.json",
+      "bytes": 4293,
+      "sha256": "6fbbda19f3d7db2404e96f835761118e261ff2e1ebfc5ae1bf64a522e8a5d244",
+      "title": "Burgandy",
+      "objectID": "world_1100.geojson/feature/47",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        5.268283473245404,
+        43.76409491177263,
+        8.492669608094658,
+        48.02679560405903
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-48",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/b5de3db75c8b422ad32cc53aa918c155e421265d3dcd5401070c8d37a49feabb.json",
+      "bytes": 2798,
+      "sha256": "b5de3db75c8b422ad32cc53aa918c155e421265d3dcd5401070c8d37a49feabb",
+      "title": "Croatia",
+      "objectID": "world_1100.geojson/feature/48",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        14.354488405688059,
+        43.389735780913256,
+        16.8651,
+        45.864545087808665
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-49",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/90bb9c487890c0ac7956a6677ea9dbbc843e9b17cde75933a7062d6109a5a927.json",
+      "bytes": 5939,
+      "sha256": "90bb9c487890c0ac7956a6677ea9dbbc843e9b17cde75933a7062d6109a5a927",
+      "title": "Bulgar Khanate",
+      "objectID": "world_1100.geojson/feature/49",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        16.639813456042063,
+        39.602531038481615,
+        29.710764917834055,
+        45.35938606658692
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-50",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/2b9b38e280895e03391f5734f3ce91db876ba147607aa433e67f84f4a812b93e.json",
+      "bytes": 3997,
+      "sha256": "2b9b38e280895e03391f5734f3ce91db876ba147607aa433e67f84f4a812b93e",
+      "title": "Poland",
+      "objectID": "world_1100.geojson/feature/50",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        12.120303449559813,
+        48.19584933203984,
+        24.348282690453473,
+        54.280238884479104
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-51",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/70c28ff6bacba23a64bf50e2f1c0d17620079b7cb4b9a922b800eaa5b7dcd620.json",
+      "bytes": 2096,
+      "sha256": "70c28ff6bacba23a64bf50e2f1c0d17620079b7cb4b9a922b800eaa5b7dcd620",
+      "title": "Kanem",
+      "objectID": "world_1100.geojson/feature/51",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        12.639037256419599,
+        13.119153392386728,
+        19.405822643632902,
+        16.230053155654872
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-52",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/399e30a1c3b1e5c268f77bb5c76ba9de367d106d94d5f3d7e669b7ec6b0bc27e.json",
+      "bytes": 3027,
+      "sha256": "399e30a1c3b1e5c268f77bb5c76ba9de367d106d94d5f3d7e669b7ec6b0bc27e",
+      "title": "Makkura",
+      "objectID": "world_1100.geojson/feature/52",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        29.27736838497937,
+        15.42295434468835,
+        37.89511991723812,
+        24.39991911526384
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-53",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/e6f0cee75d0869a325e50cf8ba9aaf2b67e5558d9f74613a7445726b368d1db5.json",
+      "bytes": 2240,
+      "sha256": "e6f0cee75d0869a325e50cf8ba9aaf2b67e5558d9f74613a7445726b368d1db5",
+      "title": "Alwa",
+      "objectID": "world_1100.geojson/feature/53",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        30.471506982722886,
+        10.009526034917698,
+        35.64610757294484,
+        16.776311422131002
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-55",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/32919222b3d530e97aeb57c20ebe3cdb289bdf480a865aeaf07e2b112f9a2fa7.json",
+      "bytes": 2349,
+      "sha256": "32919222b3d530e97aeb57c20ebe3cdb289bdf480a865aeaf07e2b112f9a2fa7",
+      "title": "Takrur",
+      "objectID": "world_1100.geojson/feature/55",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -16.224088743439907,
+        13.763897786223353,
+        -13.55834681066382,
+        16.5215618546124
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-56",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/e7b0abfeb55f8640319df2412d082bad4d3af7180293772b82197fd6704f044e.json",
+      "bytes": 1939,
+      "sha256": "e7b0abfeb55f8640319df2412d082bad4d3af7180293772b82197fd6704f044e",
+      "title": "Ghana",
+      "objectID": "world_1100.geojson/feature/56",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -11.90847185119479,
+        14.292503138824479,
+        -4.803347194620827,
+        17.636091212506344
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-57",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/d4b3fd9365753ef65ac4b64776fd49cb4eef2515485696e23aa6ba1440af409f.json",
+      "bytes": 2091,
+      "sha256": "d4b3fd9365753ef65ac4b64776fd49cb4eef2515485696e23aa6ba1440af409f",
+      "title": "Mali",
+      "objectID": "world_1100.geojson/feature/57",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -9.579901585594925,
+        11.346961264390451,
+        -4.564519475072117,
+        13.894456939576635
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-58",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/dbbbb84ff9123b4ce06e3134f0b45b87f73d47470e84f827a34c0c4b9a575241.json",
+      "bytes": 1940,
+      "sha256": "dbbbb84ff9123b4ce06e3134f0b45b87f73d47470e84f827a34c0c4b9a575241",
+      "title": "Chimú Empire",
+      "objectID": "world_1100.geojson/feature/58",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -79.14755189281526,
+        -10.234450054395033,
+        -77.29200263149461,
+        -8.092909334779115
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-59",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/2764e9c2eb21201b51e78754b89c74be4398d0523e2848296c2a232221ac2a55.json",
+      "bytes": 3350,
+      "sha256": "2764e9c2eb21201b51e78754b89c74be4398d0523e2848296c2a232221ac2a55",
+      "title": "Huari Empire",
+      "objectID": "world_1100.geojson/feature/59",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -80.34278098141169,
+        -17.22145501498518,
+        -69.53613386666227,
+        -6.087462262665014
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-60",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/57d5c6732648febe611189693435a734735f7ffa1b5c0e1b71fa3978bcef98a2.json",
+      "bytes": 4057,
+      "sha256": "57d5c6732648febe611189693435a734735f7ffa1b5c0e1b71fa3978bcef98a2",
+      "title": "Tiahuanaco Empire",
+      "objectID": "world_1100.geojson/feature/60",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -71.69539352943157,
+        -32.18117562655745,
+        -67.23759007893341,
+        -13.823255942319332
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-61",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/ca12fa292059fa74f43db18649831f144fb83e8843abc1bb4af06113be063aea.json",
+      "bytes": 3603,
+      "sha256": "ca12fa292059fa74f43db18649831f144fb83e8843abc1bb4af06113be063aea",
+      "title": "Maya city-states",
+      "objectID": "world_1100.geojson/feature/61",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -92.1070222525761,
+        17.15658339138689,
+        -86.9002351432011,
+        21.59004171963396
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-63",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/7b3f68ad5472274ed41e43e698003d2e033e81995c28c4e48d94268b5267a7a9.json",
+      "bytes": 4499,
+      "sha256": "7b3f68ad5472274ed41e43e698003d2e033e81995c28c4e48d94268b5267a7a9",
+      "title": "Mesoamerican city-states and chiefdoms",
+      "objectID": "world_1100.geojson/feature/63",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -105.68733688880657,
+        15.741059799706633,
+        -93.58785745357416,
+        22.571864083179577
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-64",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/6e235c9e8a62c6bce6b516db3dcb9284f7cd851d789225d0d1060352457b1259.json",
+      "bytes": 1980,
+      "sha256": "6e235c9e8a62c6bce6b516db3dcb9284f7cd851d789225d0d1060352457b1259",
+      "title": "Toltec Empire",
+      "objectID": "world_1100.geojson/feature/64",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -100.65287197350108,
+        18.352574371152457,
+        -97.54811161936792,
+        21.616553204984754
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-65",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/0fad00476896f33b719927197c238f529e19e9a6b56e013531875887a8f82e89.json",
+      "bytes": 6335,
+      "sha256": "0fad00476896f33b719927197c238f529e19e9a6b56e013531875887a8f82e89",
+      "title": "Celtic kingdoms",
+      "objectID": "world_1100.geojson/feature/65",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -10.497328725354421,
+        51.434554659087084,
+        -2.750154700772512,
+        55.668021761137865
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-66",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/be10cfe66576d7459530764ba5e9371c4e1f84cb73d117a08082c36170a82e5e.json",
+      "bytes": 4855,
+      "sha256": "be10cfe66576d7459530764ba5e9371c4e1f84cb73d117a08082c36170a82e5e",
+      "title": "England",
+      "objectID": "world_1100.geojson/feature/66",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -5.777813401715505,
+        49.963824831206225,
+        1.691691669924509,
+        55.55607184048357
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-67",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/fbe57c8e1d2ccdf71595ba915cfd073c65020de2f17c89321f6042e09fa4d9ab.json",
+      "bytes": 3511,
+      "sha256": "fbe57c8e1d2ccdf71595ba915cfd073c65020de2f17c89321f6042e09fa4d9ab",
+      "title": "Scotland",
+      "objectID": "world_1100.geojson/feature/67",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -4.915203215168972,
+        54.14118155117693,
+        -1.896904541783826,
+        57.83481558438005
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-70",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/caa9dbe860af6fbfde38dc8a2cdcdff76243bf90c27ed18b71db5a75e49b1304.json",
+      "bytes": 7476,
+      "sha256": "caa9dbe860af6fbfde38dc8a2cdcdff76243bf90c27ed18b71db5a75e49b1304",
+      "title": "Sweden",
+      "objectID": "world_1100.geojson/feature/70",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        11.736376187990075,
+        56.39623928230259,
+        19.04355147789265,
+        62.94812856407893
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-72",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/c1316b0c6ccf4a351348b8e45b8f9fa70dd23fcb3f3cd7a81e4c0262322b1471.json",
+      "bytes": 8140,
+      "sha256": "c1316b0c6ccf4a351348b8e45b8f9fa70dd23fcb3f3cd7a81e4c0262322b1471",
+      "title": "Denmark",
+      "objectID": "world_1100.geojson/feature/72",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        8.034566912157786,
+        54.188685207339546,
+        16.06315060848881,
+        57.75913199063005
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-73",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/1ffed7b8e85134ec3329337a07e0f4221a3c98fac316db6906527ee8f096dffe.json",
+      "bytes": 10469,
+      "sha256": "1ffed7b8e85134ec3329337a07e0f4221a3c98fac316db6906527ee8f096dffe",
+      "title": "Holy Roman Empire",
+      "objectID": "world_1100.geojson/feature/73",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        3.438438188525268,
+        41.85639062570975,
+        16.644015067109123,
+        54.34859572777968
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-76",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/0a96332bd2bd97e5bfa61c7fba0dbefa9e91cdb9e3166243c6ee985c61386059.json",
+      "bytes": 2454,
+      "sha256": "0a96332bd2bd97e5bfa61c7fba0dbefa9e91cdb9e3166243c6ee985c61386059",
+      "title": "Guanches",
+      "objectID": "world_1100.geojson/feature/76",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -17.339692736753328,
+        27.729386561264484,
+        -13.421413505538938,
+        29.42848330171172
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-77",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/da3b7c046c233c7ac9cd4698fdabb8527d3f13e8a8134a026a679cd3187953e0.json",
+      "bytes": 2265,
+      "sha256": "da3b7c046c233c7ac9cd4698fdabb8527d3f13e8a8134a026a679cd3187953e0",
+      "title": "Sweden",
+      "objectID": "world_1100.geojson/feature/77",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        19.034443,
+        57.839722,
+        19.335552,
+        57.976662
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-79",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/5b1a7baa9f9032b3652b246928878642afdfd719de855518dedaae818bc4cc36.json",
+      "bytes": 6817,
+      "sha256": "5b1a7baa9f9032b3652b246928878642afdfd719de855518dedaae818bc4cc36",
+      "title": "Arawaks",
+      "objectID": "world_1100.geojson/feature/79",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -61.789726,
+        11.996387,
+        -60.816673,
+        15.631943
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-94",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/66fd122cf92e3ec9274609da4e0a083a1bbfbbd953c2a717ce16ef84c281b03e.json",
+      "bytes": 6041,
+      "sha256": "66fd122cf92e3ec9274609da4e0a083a1bbfbbd953c2a717ce16ef84c281b03e",
+      "title": "Boethuk",
+      "objectID": "world_1100.geojson/feature/94",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -59.31852051307415,
+        46.73127325649919,
+        -52.72859665443157,
+        51.5574107992238
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-103",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/269ad38c916926c605dae4458a55f5fff5742235d2c3c802a65b73dc14f4cf75.json",
+      "bytes": 3604,
+      "sha256": "269ad38c916926c605dae4458a55f5fff5742235d2c3c802a65b73dc14f4cf75",
+      "title": "Polynesians",
+      "objectID": "world_1100.geojson/feature/103",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -158.4663285880253,
+        18.945514284331225,
+        -154.92001816322062,
+        21.68914373989763
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-104",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/f5b6ebb6990e3a0cb87814c56de21c4668f2e9205e2e7c289dc0391b3db8b83b.json",
+      "bytes": 2987,
+      "sha256": "f5b6ebb6990e3a0cb87814c56de21c4668f2e9205e2e7c289dc0391b3db8b83b",
+      "title": "Innu",
+      "objectID": "world_1100.geojson/feature/104",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -64.35688598810621,
+        50.27692373867693,
+        -55.6590242057011,
+        54.513109291987426
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-106",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/d6630d2b096a8cf1412c1c55a1b097677fe8521e91d7e69f93b3fee25a8e8a5f.json",
+      "bytes": 3032,
+      "sha256": "d6630d2b096a8cf1412c1c55a1b097677fe8521e91d7e69f93b3fee25a8e8a5f",
+      "title": "León",
+      "objectID": "world_1100.geojson/feature/106",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -9.270803418652761,
+        40.53298234107979,
+        -4.444320770188968,
+        43.74005468960466
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-107",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/d7819fc1c31632a32f69022f9a8decd7adaa5b24a18d919a3c4b0d2b5d80b643.json",
+      "bytes": 2064,
+      "sha256": "d7819fc1c31632a32f69022f9a8decd7adaa5b24a18d919a3c4b0d2b5d80b643",
+      "title": "Castilla",
+      "objectID": "world_1100.geojson/feature/107",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -5.086395964452465,
+        40.89430799991886,
+        -2.583406756168917,
+        43.49485683221599
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-109",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/2097c9ddf471dcd789f05aeb911e32d8c4abf27852878bca25d34a099109909c.json",
+      "bytes": 2401,
+      "sha256": "2097c9ddf471dcd789f05aeb911e32d8c4abf27852878bca25d34a099109909c",
+      "title": "Aragón",
+      "objectID": "world_1100.geojson/feature/109",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -1.004394268999434,
+        41.894281893935776,
+        1.366509726328981,
+        42.785567842680834
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-110",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/d28b433ab92ad2f04bcf749a45da755c6958247bacd0bb5fe709b7b84786a72d.json",
+      "bytes": 13900,
+      "sha256": "d28b433ab92ad2f04bcf749a45da755c6958247bacd0bb5fe709b7b84786a72d",
+      "title": "Almoravid dynasty",
+      "objectID": "world_1100.geojson/feature/110",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -17.05190750648235,
+        16.54575579295722,
+        4.316944,
+        42.00033984998703
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-111",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/df0b8773280f0ce2451583200ad980c2f752db96069af091a0d65b4b4e973009.json",
+      "bytes": 24360,
+      "sha256": "df0b8773280f0ce2451583200ad980c2f752db96069af091a0d65b4b4e973009",
+      "title": "Australian aboriginal hunter-gatherers",
+      "objectID": "world_1100.geojson/feature/111",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        113.03511336754109,
+        -39.180637754242994,
+        153.4934950203731,
+        -10.91538277987776
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-112",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/e9408d2e578ed583cc8f37eb8651d587c6b399b3cee4168b020c3680c3a0cbff.json",
+      "bytes": 3286,
+      "sha256": "e9408d2e578ed583cc8f37eb8651d587c6b399b3cee4168b020c3680c3a0cbff",
+      "title": "Tasmanian hunter-gatherers",
+      "objectID": "world_1100.geojson/feature/112",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        144.69687941978717,
+        -43.721809781830885,
+        148.32305434654498,
+        -40.84276238803206
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-113",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/f6cd30a90199e9df66f5bda10b23b47d98b40b4a4deb1f96581e252d3e80095d.json",
+      "bytes": 13880,
+      "sha256": "f6cd30a90199e9df66f5bda10b23b47d98b40b4a4deb1f96581e252d3e80095d",
+      "title": "Paleo-Siberian hunter-gatherers",
+      "objectID": "world_1100.geojson/feature/113",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        59.09429166962169,
+        50.957748018462084,
+        172.4408476128738,
+        74.03844793911638
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-114",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/f96a19441615e5014d7062bf8f54b58ff11790c554749404fc5147208ed5aaa4.json",
+      "bytes": 2929,
+      "sha256": "f96a19441615e5014d7062bf8f54b58ff11790c554749404fc5147208ed5aaa4",
+      "title": "Guanahatabeyes",
+      "objectID": "world_1100.geojson/feature/114",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -84.70640274563672,
+        21.769591890291018,
+        -81.35133888616838,
+        23.136655412629885
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-115",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/54a343f010c00ff03ffdfc5f768ea0469c3fc2f12ffa2e52d34c292b219f0a21.json",
+      "bytes": 19366,
+      "sha256": "54a343f010c00ff03ffdfc5f768ea0469c3fc2f12ffa2e52d34c292b219f0a21",
+      "title": "Taino",
+      "objectID": "world_1100.geojson/feature/115",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -81.36276706801664,
+        15.869999,
+        -60.988617,
+        23.120923686012283
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-116",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/0db9c747361b74ff0e5eb234f8a82a3285d23b7bb03533536b9126630deb1b2b.json",
+      "bytes": 42605,
+      "sha256": "0db9c747361b74ff0e5eb234f8a82a3285d23b7bb03533536b9126630deb1b2b",
+      "title": "Arctic marine mammal hunters",
+      "objectID": "world_1100.geojson/feature/116",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -180,
+        52.57259027862411,
+        180,
+        81.15595684596342
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-117",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/aa492dbb75a0a3fae7a096dbae9ccab94338f3e725e876a70afaf271d8fc583d.json",
+      "bytes": 63117,
+      "sha256": "aa492dbb75a0a3fae7a096dbae9ccab94338f3e725e876a70afaf271d8fc583d",
+      "title": "Dorset",
+      "objectID": "world_1100.geojson/feature/117",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -120.4025902968914,
+        56.57751271564082,
+        -61.21058365394329,
+        83.17604406948747
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-118",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/a40bcc6bb112bf50fd8be5ba5cace0a40dcd153664f871f11057eed26eecb8e2.json",
+      "bytes": 9600,
+      "sha256": "a40bcc6bb112bf50fd8be5ba5cace0a40dcd153664f871f11057eed26eecb8e2",
+      "title": "Thule",
+      "objectID": "world_1100.geojson/feature/118",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -166.18953415443158,
+        55.80663641567888,
+        -140.05179264318338,
+        63.98492305338062
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-119",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/ee06e4449dc24e7e9e268d056603e7076454dcd4f7aadf0959c87f4cf55658eb.json",
+      "bytes": 5443,
+      "sha256": "ee06e4449dc24e7e9e268d056603e7076454dcd4f7aadf0959c87f4cf55658eb",
+      "title": "Athabaskan",
+      "objectID": "world_1100.geojson/feature/119",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -141.13538171825076,
+        52.41254897736534,
+        -111.28421353653351,
+        64.83463268032534
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-120",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/c12d34d5195686c76924a4c1f36120f0fa88f791ace4254d83318ae5ae9c72fa.json",
+      "bytes": 5882,
+      "sha256": "c12d34d5195686c76924a4c1f36120f0fa88f791ace4254d83318ae5ae9c72fa",
+      "title": "Subarctic forest hunter-gatherers",
+      "objectID": "world_1100.geojson/feature/120",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -122.49112572639841,
+        46.29511259543804,
+        -62.4855338033173,
+        58.55314202309659
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-122",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/7b878bbb86af9dedb44cbd5e38f69ef17c6fcc8baf6fdcb90f58866849be76df.json",
+      "bytes": 12118,
+      "sha256": "7b878bbb86af9dedb44cbd5e38f69ef17c6fcc8baf6fdcb90f58866849be76df",
+      "title": "Patagonian shellfish and marine mammal hunters",
+      "objectID": "world_1100.geojson/feature/122",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -75.49602219154094,
+        -55.070042051117994,
+        -65.2592439322636,
+        -40.547229038878235
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-123",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/931813bbf17eadb6752c0e5625013bfc2e80ee7e3aeb8f331b2bb24e92561ca5.json",
+      "bytes": 4370,
+      "sha256": "931813bbf17eadb6752c0e5625013bfc2e80ee7e3aeb8f331b2bb24e92561ca5",
+      "title": "Andean hunter-gatherers",
+      "objectID": "world_1100.geojson/feature/123",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -73.90523239661907,
+        -41.78677026156721,
+        -65.90622541609757,
+        -18.31105888474315
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-126",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/f667cb3b79dfb0961cd52f5820d6546df0e2b64ea0c72eab9c5829f819d15843.json",
+      "bytes": 8197,
+      "sha256": "f667cb3b79dfb0961cd52f5820d6546df0e2b64ea0c72eab9c5829f819d15843",
+      "title": "Pampas cultures",
+      "objectID": "world_1100.geojson/feature/126",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -72.1905225951351,
+        -51.561440909776984,
+        -52.14021349238029,
+        -29.680878909474107
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-127",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/2237a2792548c88d0ec95fd28f3e5908be07ebb3df34d3377bd58d117af478be.json",
+      "bytes": 9669,
+      "sha256": "2237a2792548c88d0ec95fd28f3e5908be07ebb3df34d3377bd58d117af478be",
+      "title": "North American Pacific foraging, hunting and fishing peoples",
+      "objectID": "world_1100.geojson/feature/127",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -133.51779648353315,
+        38.880148963177184,
+        -120.30696123975633,
+        56.25834234829607
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-128",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/fe7cd89c360b091086baa93d2a124e61b4af6e7dce8add35ea4a39837e2428fd.json",
+      "bytes": 3265,
+      "sha256": "fe7cd89c360b091086baa93d2a124e61b4af6e7dce8add35ea4a39837e2428fd",
+      "title": "Plain bison hunters",
+      "objectID": "world_1100.geojson/feature/128",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -114.46737387359948,
+        28.2477298605031,
+        -94.11755719209039,
+        51.99955012922175
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-129",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/73b1d848a3a1c822fda09949c06d31b659ae398b7aade174ccdc3dae40efe2b3.json",
+      "bytes": 2294,
+      "sha256": "73b1d848a3a1c822fda09949c06d31b659ae398b7aade174ccdc3dae40efe2b3",
+      "title": "Plateau fichers and hunter gatherers",
+      "objectID": "world_1100.geojson/feature/129",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -125.757913379286,
+        41.93525523128791,
+        -111.66773503433551,
+        54.243561521059334
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-131",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/4f5745eb451e0bdd6ea130e90be0af4e5ba98b45091f0e047081037f928b884f.json",
+      "bytes": 7871,
+      "sha256": "4f5745eb451e0bdd6ea130e90be0af4e5ba98b45091f0e047081037f928b884f",
+      "title": "Khoisan",
+      "objectID": "world_1100.geojson/feature/131",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        12.52433207939411,
+        -34.99228707675276,
+        35.53088286827351,
+        -19.062439359467604
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-133",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/34029bd995ca78165557fafcc9411371504c1d1e2c5ada9aaf363c2cb464ef07.json",
+      "bytes": 54733,
+      "sha256": "34029bd995ca78165557fafcc9411371504c1d1e2c5ada9aaf363c2cb464ef07",
+      "title": "Eastern North American hunter-gatherers",
+      "objectID": "world_1100.geojson/feature/133",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -97.13856646772321,
+        27.744626604277514,
+        -60.95838638831829,
+        49.996303801904524
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-134",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/191105b4bcaf9b966f2af10b646db71b654cb9ba4eeab5d9d51a407bd4d8b2dc.json",
+      "bytes": 3318,
+      "sha256": "191105b4bcaf9b966f2af10b646db71b654cb9ba4eeab5d9d51a407bd4d8b2dc",
+      "title": "Britany",
+      "objectID": "world_1100.geojson/feature/134",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -4.779634442719239,
+        47.32396831560688,
+        -1.75196905427781,
+        48.87155111880664
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-135",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/cc265c93f27d0937379803cc165dfd20cc8aa25f8a87851656064d50c27b092e.json",
+      "bytes": 8640,
+      "sha256": "cc265c93f27d0937379803cc165dfd20cc8aa25f8a87851656064d50c27b092e",
+      "title": "Bantu peoples",
+      "objectID": "world_1100.geojson/feature/135",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        5.333021196825751,
+        -20.042782596759878,
+        43.41489377502695,
+        7.731968465838291
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-138",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/38283582bd88bd9162dd33c22d858b1f29b46d21c219ac9aff4a8cae9bcb5831.json",
+      "bytes": 3094,
+      "sha256": "38283582bd88bd9162dd33c22d858b1f29b46d21c219ac9aff4a8cae9bcb5831",
+      "title": "Caloosahatchee culture",
+      "objectID": "world_1100.geojson/feature/138",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -82.75272842933391,
+        24.995875917632006,
+        -80.04998489906048,
+        28.49188131613878
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-178",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/00ae460554d1f1c376c4b3cca94d9b2b1eaafb0d57cdfb4bd8f872c1da52c632.json",
+      "bytes": 5583,
+      "sha256": "00ae460554d1f1c376c4b3cca94d9b2b1eaafb0d57cdfb4bd8f872c1da52c632",
+      "title": "Prussians",
+      "objectID": "world_1100.geojson/feature/178",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        10.141728434069407,
+        52.312602343140725,
+        23.352872350711213,
+        54.724120699126146
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-179",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/628dabfdef78b2985158e28543eda49ed143fffa621af246a634dd6d76b5309b.json",
+      "bytes": 2288,
+      "sha256": "628dabfdef78b2985158e28543eda49ed143fffa621af246a634dd6d76b5309b",
+      "title": "Principality of Polotsk",
+      "objectID": "world_1100.geojson/feature/179",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        26.523854885668158,
+        53.50460789918692,
+        29.66534515470106,
+        56.51542477303413
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-182",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/4495b49ee9a5ae5cb67b6faab3044a0e72c01816a0eb69b2668edee0bec59b27.json",
+      "bytes": 2977,
+      "sha256": "4495b49ee9a5ae5cb67b6faab3044a0e72c01816a0eb69b2668edee0bec59b27",
+      "title": "Alans",
+      "objectID": "world_1100.geojson/feature/182",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        22.46856901153707,
+        43.72804019076699,
+        31.087231668932688,
+        48.35306385922576
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-183",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/a172242223d7aee2d21f6653ace54c8989da9b2e0a5b25ef7ad260b08f7c39e4.json",
+      "bytes": 2092,
+      "sha256": "a172242223d7aee2d21f6653ace54c8989da9b2e0a5b25ef7ad260b08f7c39e4",
+      "title": "Finno-Ugric taiga hunter-gatherers",
+      "objectID": "world_1100.geojson/feature/183",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        35.16035156250001,
+        61.8390625,
+        35.34707031250002,
+        62.0796875
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-184",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/5679e36e04e2f3c18537283b92fac63bd12c4532f5d6e627c857b30562d8a24c.json",
+      "bytes": 18577,
+      "sha256": "5679e36e04e2f3c18537283b92fac63bd12c4532f5d6e627c857b30562d8a24c",
+      "title": "Finno-Ugric taiga hunter-gatherers",
+      "objectID": "world_1100.geojson/feature/184",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        39.823103937609446,
+        56.4318399506882,
+        113.7230329842403,
+        77.59216650601091
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-185",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/9306c88237ff3bb3ea5c6f37269e4cd0812203e04c710389a06c8689dcefbfaf.json",
+      "bytes": 14662,
+      "sha256": "9306c88237ff3bb3ea5c6f37269e4cd0812203e04c710389a06c8689dcefbfaf",
+      "title": "Oghuz",
+      "objectID": "world_1100.geojson/feature/185",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        50.32580092857624,
+        36.80565052491136,
+        62.32938153584051,
+        49.04892913641529
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-186",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/299441bf83f099c18f5960c2411bc94e99bea4807fcff2d52a3f461bf5a9a120.json",
+      "bytes": 26988,
+      "sha256": "299441bf83f099c18f5960c2411bc94e99bea4807fcff2d52a3f461bf5a9a120",
+      "title": "Kievan Rus",
+      "objectID": "world_1100.geojson/feature/186",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        21.553086398596424,
+        46.12558325405779,
+        46.010211554710516,
+        66.67551720937114
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-187",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/be44672dbbc4c7fc5308ef4df354f12bd466272ab6cccfe49f6c3cdd27fd2e87.json",
+      "bytes": 3345,
+      "sha256": "be44672dbbc4c7fc5308ef4df354f12bd466272ab6cccfe49f6c3cdd27fd2e87",
+      "title": "Kievan Rus",
+      "objectID": "world_1100.geojson/feature/187",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        33.39549544761921,
+        44.071758859296715,
+        42.4304043932877,
+        47.72341059002354
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-188",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/9e404b4a686991882f40c95ba13d895e7092b497a2fd0cfd0f7d7a479bb0a38d.json",
+      "bytes": 10930,
+      "sha256": "9e404b4a686991882f40c95ba13d895e7092b497a2fd0cfd0f7d7a479bb0a38d",
+      "title": "Sámi",
+      "objectID": "world_1100.geojson/feature/188",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        14.34372061271587,
+        59.81845816250505,
+        41.25529769371296,
+        71.01790960903826
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-189",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/cfdb4480b6585c56bb2dad3cbe619750a5347e7544f7140dbb5851cb182f4b9e.json",
+      "bytes": 7863,
+      "sha256": "cfdb4480b6585c56bb2dad3cbe619750a5347e7544f7140dbb5851cb182f4b9e",
+      "title": "Volga Bulgars",
+      "objectID": "world_1100.geojson/feature/189",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        42.594380464786745,
+        52.04728607258355,
+        55.70905991815804,
+        58.098205194557494
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-190",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/20d140468193d16eebfd5b94500bf990d022e814ae4b5ad5f379aaa5b81f5748.json",
+      "bytes": 1845,
+      "sha256": "20d140468193d16eebfd5b94500bf990d022e814ae4b5ad5f379aaa5b81f5748",
+      "title": "Karakalpaks",
+      "objectID": "world_1100.geojson/feature/190",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        37.89882378403445,
+        53.298674520929495,
+        43.24904704422405,
+        55.69651281237327
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-191",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/18c1325cfb773ca5e998a8f81741ec20e08aad6313a2f9b5726f4f08701b6175.json",
+      "bytes": 2815,
+      "sha256": "18c1325cfb773ca5e998a8f81741ec20e08aad6313a2f9b5726f4f08701b6175",
+      "title": "Karkhanids",
+      "objectID": "world_1100.geojson/feature/191",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        59.81119011936403,
+        31.39767728813533,
+        88.28946151349034,
+        45.689241968325916
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-192",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/e68c84f14521b930796a0bda922743fc8616b154808f52b72494d53d049b99c4.json",
+      "bytes": 6063,
+      "sha256": "e68c84f14521b930796a0bda922743fc8616b154808f52b72494d53d049b99c4",
+      "title": "Mongols",
+      "objectID": "world_1100.geojson/feature/192",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        98.81824973137188,
+        41.36826755966085,
+        142.72148001084966,
+        61.80384030510338
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-193",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/07775a7c2631782fecdacb31bb2f0dcdbddec6cd53a511895d306bcb3fb14b59.json",
+      "bytes": 2239,
+      "sha256": "07775a7c2631782fecdacb31bb2f0dcdbddec6cd53a511895d306bcb3fb14b59",
+      "title": "Maskat",
+      "objectID": "world_1100.geojson/feature/193",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        47.87792030044409,
+        40.50389966082933,
+        49.658504770637414,
+        41.90400028182153
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-194",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/3d6a07a11f7d93de5d3447423ade9d3d51103a3df566f09c8477f04d5c9b2aea.json",
+      "bytes": 3048,
+      "sha256": "3d6a07a11f7d93de5d3447423ade9d3d51103a3df566f09c8477f04d5c9b2aea",
+      "title": "Shirvan",
+      "objectID": "world_1100.geojson/feature/194",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        46.84888488038016,
+        39.47820342190338,
+        50.4668188423946,
+        41.17912009668831
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-195",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/000403bfef8e8fd947cdf16fbcaa88ef267d680a39cf5f87651e2752b237257c.json",
+      "bytes": 9799,
+      "sha256": "000403bfef8e8fd947cdf16fbcaa88ef267d680a39cf5f87651e2752b237257c",
+      "title": "Seljuk Empire",
+      "objectID": "world_1100.geojson/feature/195",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        37.026331897552225,
+        23.88040675589211,
+        64.15758458069429,
+        40.06192194896629
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-196",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/5cc104669cda38d6219504f9b5a3d02328a29ba4a539cf5dfdb40b6dea331665.json",
+      "bytes": 1856,
+      "sha256": "5cc104669cda38d6219504f9b5a3d02328a29ba4a539cf5dfdb40b6dea331665",
+      "title": "Derbent",
+      "objectID": "world_1100.geojson/feature/196",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        47.922551142256516,
+        41.67373122405983,
+        48.64856103497813,
+        42.27936895962419
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-197",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/e35d8a179a8af26c77b89beca4f3c9bc10d180b0ebc3c9967587e968888327fe.json",
+      "bytes": 14235,
+      "sha256": "e35d8a179a8af26c77b89beca4f3c9bc10d180b0ebc3c9967587e968888327fe",
+      "title": "Byzantine Empire",
+      "objectID": "world_1100.geojson/feature/197",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        15.448605570299875,
+        34.94047125454607,
+        29.081099543078196,
+        42.41677816982927
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-198",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/d852b6626e5543cdedb24d896231d2f560d8fc0a4b673ab23f8a4a3285356bd3.json",
+      "bytes": 1776,
+      "sha256": "d852b6626e5543cdedb24d896231d2f560d8fc0a4b673ab23f8a4a3285356bd3",
+      "title": "Khundzi",
+      "objectID": "world_1100.geojson/feature/198",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        46.4141555893916,
+        41.74335956205383,
+        47.92255114225651,
+        42.59469904718398
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-199",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/f341feb19ee3363fb74b0c1f9a0175e02d8090835e2aaddca5ca6c632de91a5b.json",
+      "bytes": 2051,
+      "sha256": "f341feb19ee3363fb74b0c1f9a0175e02d8090835e2aaddca5ca6c632de91a5b",
+      "title": "Tashir",
+      "objectID": "world_1100.geojson/feature/199",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        44.474807951226545,
+        40.01396758190114,
+        46.78446637871823,
+        41.34978827042802
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-200",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/848d8755ef88b4164c080b82367c4eb76ca207c4e6dfb118c367fe51e2c7a9f0.json",
+      "bytes": 2266,
+      "sha256": "848d8755ef88b4164c080b82367c4eb76ca207c4e6dfb118c367fe51e2c7a9f0",
+      "title": "Arran",
+      "objectID": "world_1100.geojson/feature/200",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        46.42431625104156,
+        39.66529065862557,
+        48.37319249040053,
+        40.942762035808705
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-201",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/f6e82a47974b9028ca9f8cb5e1f5a82db1d191760cb7700789b7777e4056d27d.json",
+      "bytes": 2007,
+      "sha256": "f6e82a47974b9028ca9f8cb5e1f5a82db1d191760cb7700789b7777e4056d27d",
+      "title": "Artsakh",
+      "objectID": "world_1100.geojson/feature/201",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        45.86438344618284,
+        38.93099513323033,
+        47.817469936058174,
+        40.45030001514541
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-202",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/fb526a8ce5101821331c5ccdd142b739970270a358e403c021897cb4e76b578f.json",
+      "bytes": 1862,
+      "sha256": "fb526a8ce5101821331c5ccdd142b739970270a358e403c021897cb4e76b578f",
+      "title": "Durdzuks",
+      "objectID": "world_1100.geojson/feature/202",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        45.93889651373822,
+        42.0722959643238,
+        47.47981645354851,
+        42.964233332008874
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-203",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/43d36a41e19728877b15bbbea758a7110e22ce1e18ef61dd44f03b077aa4fb7e.json",
+      "bytes": 1884,
+      "sha256": "43d36a41e19728877b15bbbea758a7110e22ce1e18ef61dd44f03b077aa4fb7e",
+      "title": "Leks",
+      "objectID": "world_1100.geojson/feature/203",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        46.771763446628604,
+        41.16268189439613,
+        48.40756022338845,
+        42.1649234982632
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-204",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/af9ffb0b7c1d7f4bffdf8dcbd634884135f91cf41586796c0e201a1fcf908e90.json",
+      "bytes": 2305,
+      "sha256": "af9ffb0b7c1d7f4bffdf8dcbd634884135f91cf41586796c0e201a1fcf908e90",
+      "title": "Kakheti-Hereti",
+      "objectID": "world_1100.geojson/feature/204",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        45.77373151884197,
+        40.59313729303555,
+        47.74498422898439,
+        42.22817509322473
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-205",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/74997016074a54849d9f26cd9a7f430f7839548ca1af30a7e8fe291656d2ff7e.json",
+      "bytes": 1952,
+      "sha256": "74997016074a54849d9f26cd9a7f430f7839548ca1af30a7e8fe291656d2ff7e",
+      "title": "Emirate of Tiflis",
+      "objectID": "world_1100.geojson/feature/205",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        44.89118164269644,
+        41.097880563993904,
+        45.83234056748051,
+        41.70809027745868
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-206",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/5b01728065e7d7d50618955d892bc84ee52e12aa82982635b1d7396a6caad921.json",
+      "bytes": 2003,
+      "sha256": "5b01728065e7d7d50618955d892bc84ee52e12aa82982635b1d7396a6caad921",
+      "title": "Alans",
+      "objectID": "world_1100.geojson/feature/206",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        42.40003004178486,
+        42.36979009690512,
+        47.09913950026506,
+        44.30604478525667
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-207",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/371590b506ebd2380118b6d799603becd97b0f6564f31231fc10af6947046fa8.json",
+      "bytes": 2945,
+      "sha256": "371590b506ebd2380118b6d799603becd97b0f6564f31231fc10af6947046fa8",
+      "title": "Kingdom of Georgia",
+      "objectID": "world_1100.geojson/feature/207",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        39.73794734672187,
+        40.65932502760655,
+        46.221537046188466,
+        43.634036209076456
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-208",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/f7424e176864c05b51301d26135f234f87e93cd21961e72b89acf4e58e3bcf3d.json",
+      "bytes": 1776,
+      "sha256": "f7424e176864c05b51301d26135f234f87e93cd21961e72b89acf4e58e3bcf3d",
+      "title": "Goghtn",
+      "objectID": "world_1100.geojson/feature/208",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        44.65482069183628,
+        38.82060727487576,
+        46.02595966834708,
+        39.73798276936846
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-209",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/1d9a02c9a89fe2e7cf43a2a2910ca4d74f5ae3f6067b1ea995643c4049a3f0de.json",
+      "bytes": 5204,
+      "sha256": "1d9a02c9a89fe2e7cf43a2a2910ca4d74f5ae3f6067b1ea995643c4049a3f0de",
+      "title": "Armenia",
+      "objectID": "world_1100.geojson/feature/209",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        41.00740142765578,
+        36.781649316043186,
+        46.906767644639885,
+        41.122364019314034
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-210",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/830631daa09325358681ec2bcacf96942460cbed718583c7f9cfcefb7f946133.json",
+      "bytes": 3034,
+      "sha256": "830631daa09325358681ec2bcacf96942460cbed718583c7f9cfcefb7f946133",
+      "title": "Syunik",
+      "objectID": "world_1100.geojson/feature/210",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        44.5239449582161,
+        38.77492787974564,
+        46.51251360194977,
+        40.784077703330375
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-211",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/ae54016fed354ee70833cbce907abba34ab4ced4a8326e44c309ced13e558037.json",
+      "bytes": 12655,
+      "sha256": "ae54016fed354ee70833cbce907abba34ab4ced4a8326e44c309ced13e558037",
+      "title": "Cuman-Kipchak confederation",
+      "objectID": "world_1100.geojson/feature/211",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        32.50324157188679,
+        40.77116969189599,
+        105.94242943243997,
+        57.19766715162802
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-212",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/ee20f2cf7e82774636f6d0a366ae251346ad1ad1c3cf81bc3be8a9fe916c5758.json",
+      "bytes": 5250,
+      "sha256": "ee20f2cf7e82774636f6d0a366ae251346ad1ad1c3cf81bc3be8a9fe916c5758",
+      "title": "Korea",
+      "objectID": "world_1100.geojson/feature/212",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        124.1107912821878,
+        37.48468359585466,
+        129.82471755455282,
+        41.8613658773488
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-213",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/f126a9279c34ee9d484e44479ef41841aa3e379073dc699d1c4bc2bd96d64457.json",
+      "bytes": 6230,
+      "sha256": "f126a9279c34ee9d484e44479ef41841aa3e379073dc699d1c4bc2bd96d64457",
+      "title": "Icelandic Commonwealth",
+      "objectID": "world_1100.geojson/feature/213",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -24.218850102917898,
+        63.323817812163256,
+        -13.525573697583425,
+        66.4544177877492
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-214",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/1c5301408224d0a419e22911873fc829549a87ed9cd1891dad0b89974949ea39.json",
+      "bytes": 3920,
+      "sha256": "1c5301408224d0a419e22911873fc829549a87ed9cd1891dad0b89974949ea39",
+      "title": "Papal States",
+      "objectID": "world_1100.geojson/feature/214",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        11.960132972273152,
+        41.20669841656926,
+        14.076401988771629,
+        43.93475683804216
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-215",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/ccaca5254dfa05955e1c7380bcc845a6031d529eb3716d6f4c029eef2c293814.json",
+      "bytes": 2100,
+      "sha256": "ccaca5254dfa05955e1c7380bcc845a6031d529eb3716d6f4c029eef2c293814",
+      "title": "Serbia",
+      "objectID": "world_1100.geojson/feature/215",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        16.63981,
+        41.78279,
+        19.87964,
+        44.8202
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-216",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/3ec95c282959e7f52881004f297e4e409b1cb0efc0a243205977a468bc9d9bf3.json",
+      "bytes": 1776,
+      "sha256": "3ec95c282959e7f52881004f297e4e409b1cb0efc0a243205977a468bc9d9bf3",
+      "title": "Palas",
+      "objectID": "world_1100.geojson/feature/216",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        84.81311931332597,
+        22.294375961397478,
+        84.91227,
+        23.021597855429327
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-217",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/82804a6454d0395adeed62986f7eaa4b2ce73ee6ad79bca5a1a058e48155a0b8.json",
+      "bytes": 1775,
+      "sha256": "82804a6454d0395adeed62986f7eaa4b2ce73ee6ad79bca5a1a058e48155a0b8",
+      "title": "Palas",
+      "objectID": "world_1100.geojson/feature/217",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        83.98475979804715,
+        24.253472422400876,
+        84.45958003552983,
+        24.781048772743045
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-218",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/5bca1902c1f25ee9edf168a4599904c212745c4fe043df41de7f26a91078d771.json",
+      "bytes": 1832,
+      "sha256": "5bca1902c1f25ee9edf168a4599904c212745c4fe043df41de7f26a91078d771",
+      "title": "Palas",
+      "objectID": "world_1100.geojson/feature/218",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        84.45957743550463,
+        23.02159523067198,
+        84.88884788915547,
+        24.253472814756023
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-219",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/b7bfce11ee3c75ef688e5efdd7abf5a86c0ee9e6ccd00d141d19b806f141fc31.json",
+      "bytes": 4712,
+      "sha256": "b7bfce11ee3c75ef688e5efdd7abf5a86c0ee9e6ccd00d141d19b806f141fc31",
+      "title": "Palas",
+      "objectID": "world_1100.geojson/feature/219",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        84.25670822837236,
+        19.717200337057157,
+        91.65178778065628,
+        25.447922784218235
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-220",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/be74aa1c6f40374431d74a92fcddef174b40081ec92588fe5b54ad616dcfa18a.json",
+      "bytes": 3649,
+      "sha256": "be74aa1c6f40374431d74a92fcddef174b40081ec92588fe5b54ad616dcfa18a",
+      "title": "Western Chalukyas",
+      "objectID": "world_1100.geojson/feature/220",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        72.75949386070515,
+        11.749801343119039,
+        83.9135558078169,
+        20.764420538811077
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-221",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/4a0048d9e7ba7289071f702196b9078a594c54b12900c42eac893924362f69e0.json",
+      "bytes": 2966,
+      "sha256": "4a0048d9e7ba7289071f702196b9078a594c54b12900c42eac893924362f69e0",
+      "title": "Palas",
+      "objectID": "world_1100.geojson/feature/221",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        83.98476,
+        19.60537,
+        91.43788,
+        27.31264
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-222",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/766861bec067ce072bc6a6422788978375a3abe23cd2af8915e060a6fd2a8649.json",
+      "bytes": 2036,
+      "sha256": "766861bec067ce072bc6a6422788978375a3abe23cd2af8915e060a6fd2a8649",
+      "title": "Senas",
+      "objectID": "world_1100.geojson/feature/222",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        91.30346,
+        20.57339,
+        94.68028,
+        27.66846
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-223",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/5f6f6b05ef1544f7a4d91a65cdbf0b447baf6668403523d195360533bb55e9ac.json",
+      "bytes": 1902,
+      "sha256": "5f6f6b05ef1544f7a4d91a65cdbf0b447baf6668403523d195360533bb55e9ac",
+      "title": "Paramas",
+      "objectID": "world_1100.geojson/feature/223",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        74.1173958209184,
+        23.115776247386442,
+        79.67974730319635,
+        27.630428226015034
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-224",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/a48ccb6169fc7036c62ce50d67d18f3e79a0cd8eda7e13b6ad5652d8fb533133.json",
+      "bytes": 2688,
+      "sha256": "a48ccb6169fc7036c62ce50d67d18f3e79a0cd8eda7e13b6ad5652d8fb533133",
+      "title": "Pratiharas",
+      "objectID": "world_1100.geojson/feature/224",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        77.06013118879203,
+        25.1054,
+        94.37080437652341,
+        32.30899667921651
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-225",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/99363cf6a2576aeb2125f9d267cfe6c3ddada58ed2908a7a98190ccd38a28003.json",
+      "bytes": 1867,
+      "sha256": "99363cf6a2576aeb2125f9d267cfe6c3ddada58ed2908a7a98190ccd38a28003",
+      "title": "Chauhans",
+      "objectID": "world_1100.geojson/feature/225",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        72.62766425774089,
+        26.544342617090322,
+        79.8537096880478,
+        29.420755243488284
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-226",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/9f4ca586a011e849403dec4524b7746b3392cddc26c9698fdcde208dfb727bca.json",
+      "bytes": 1835,
+      "sha256": "9f4ca586a011e849403dec4524b7746b3392cddc26c9698fdcde208dfb727bca",
+      "title": "Chandellas",
+      "objectID": "world_1100.geojson/feature/226",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        78.55131883527947,
+        23.532175199662824,
+        83.8225520331428,
+        27.970385081763993
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-227",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/430afadd8b03f9b3743bfb4731a9c8f9229ef4be894010e0739c4c9ff222cdb3.json",
+      "bytes": 2160,
+      "sha256": "430afadd8b03f9b3743bfb4731a9c8f9229ef4be894010e0739c4c9ff222cdb3",
+      "title": "Klachuris",
+      "objectID": "world_1100.geojson/feature/227",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        79.30708051956105,
+        22.32200442276607,
+        84.88884396653306,
+        25.90984140438132
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-228",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/684ed8c0a25d05806787df2201652989875616b81449e788eb25c41dc665f2a2.json",
+      "bytes": 2239,
+      "sha256": "684ed8c0a25d05806787df2201652989875616b81449e788eb25c41dc665f2a2",
+      "title": "Hindu kingdoms",
+      "objectID": "world_1100.geojson/feature/228",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        68.96627568862381,
+        24.56842724275131,
+        78.23447228507757,
+        33.372102743188705
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-230",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/448582a27a8268b16c1233aa52d7a7b34480583746078f105660e75ed89ea62e.json",
+      "bytes": 4128,
+      "sha256": "448582a27a8268b16c1233aa52d7a7b34480583746078f105660e75ed89ea62e",
+      "title": "Solankis",
+      "objectID": "world_1100.geojson/feature/230",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        68.0721769661739,
+        20.650762163359545,
+        76.92039069345235,
+        25.713726881537013
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-231",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/11d2b90d89b4ae1cac8f11e5c4a0747c24e35c85650906f0a92e2315bd8dc40f.json",
+      "bytes": 6580,
+      "sha256": "11d2b90d89b4ae1cac8f11e5c4a0747c24e35c85650906f0a92e2315bd8dc40f",
+      "title": "minor Hindu and Buddhist states",
+      "objectID": "world_1100.geojson/feature/231",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        110.89339736412315,
+        -3.199323333542921,
+        119.0426054329708,
+        6.899092756468676
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-232",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/a80c1c3ba7bbc1398bed2649fba0e557bf65e3ff0ff48b85a30cc7a0954b97ab.json",
+      "bytes": 2065,
+      "sha256": "a80c1c3ba7bbc1398bed2649fba0e557bf65e3ff0ff48b85a30cc7a0954b97ab",
+      "title": "Lopburi Kingdom",
+      "objectID": "world_1100.geojson/feature/232",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        99.85143231201717,
+        13.261001192290209,
+        100.93537294120053,
+        14.197203801854243
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-233",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/b0bdbe9b151613215d0af7e5fee1d3dad99755d798a52485f36d12e9600361a5.json",
+      "bytes": 5314,
+      "sha256": "b0bdbe9b151613215d0af7e5fee1d3dad99755d798a52485f36d12e9600361a5",
+      "title": "minor Hindu and Buddhist states",
+      "objectID": "world_1100.geojson/feature/233",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        98.17717269371299,
+        3.026256643492601,
+        103.37855056236533,
+        13.261001192290209
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1100-234",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/8ba264d9282f366e6ced2cac8fcef3412bd1df9b7476b06e605f573843fb9faf.json",
+      "bytes": 36600,
+      "sha256": "8ba264d9282f366e6ced2cac8fcef3412bd1df9b7476b06e605f573843fb9faf",
+      "title": "Tuʻi Tonga Empire",
+      "objectID": "world_1100.geojson/feature/234",
+      "snapshotSHA256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101,
+      "boundsWGS84": [
+        -180,
+        -21.454166,
+        180,
+        -13.213614
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    }
+  ]
+}

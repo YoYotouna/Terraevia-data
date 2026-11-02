@@ -1,0 +1,2524 @@
+{
+  "sourceSHA256": "984005809f085285a48318600e3a198274eb4679f5360ebfaead29da496e9f5b",
+  "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+  "historicalYear": 1530,
+  "reviewedAt": "2026-11-02",
+  "reviewScope": "Source-level annual identity, pinned source/license, unchanged Feature, GEOS and native geometry QA only. Historical accuracy NOT_VERIFIED; no independent historical adjudication.",
+  "features": [
+    {
+      "index": 0,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 1,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 2,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 4,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 5,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 6,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 7,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 10,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 11,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 12,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 13,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 14,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 15,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 16,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 17,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 18,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 19,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 20,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 21,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 22,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 23,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 25,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 26,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 27,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 28,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 29,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 31,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 32,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 33,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 34,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 36,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 37,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 38,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 40,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 41,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 42,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 44,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 45,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 46,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 47,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 48,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 49,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 50,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 51,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 52,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 53,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 54,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 55,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 56,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 57,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 59,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 60,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 61,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 62,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 64,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 65,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 66,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 67,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 68,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 69,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 70,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 71,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 72,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 73,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 75,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 76,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 77,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 78,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 79,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 80,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 81,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 82,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 83,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 84,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 85,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 86,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 87,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 89,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 90,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 91,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 92,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 93,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 94,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 95,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 96,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 97,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 98,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 99,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 100,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 101,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 102,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 103,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 104,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 105,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 106,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 107,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 108,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 116,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 127,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 128,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 129,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 131,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 132,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 147,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 148,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 149,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 150,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 151,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 152,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 153,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 154,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 156,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 157,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 158,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 159,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 160,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 162,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 163,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 176,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 178,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 179,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 181,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 182,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 183,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 184,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 185,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 187,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 191,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 196,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 198,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 200,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 201,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 202,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 203,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 204,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 206,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 207,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 209,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 210,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 211,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 212,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 213,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 214,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 216,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 217,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 218,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 222,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 226,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 227,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 228,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 229,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 230,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 231,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 232,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 234,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 235,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 236,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 238,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 239,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 244,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 246,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 247,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 248,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 249,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 251,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 252,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 253,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 258,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 259,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 266,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 272,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 279,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 281,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 301,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 303,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 304,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 306,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 314,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 316,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 317,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 321,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 322,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 323,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 324,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 325,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 327,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 342,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 343,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 344,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 345,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 347,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 349,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 350,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 352,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 353,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 354,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 355,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 356,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 357,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 358,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 360,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 361,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 362,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 363,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 365,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 366,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 367,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 368,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 369,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 370,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 371,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 373,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 374,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 375,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 377,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 379,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 380,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 381,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 382,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 383,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 384,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 385,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 388,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 390,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 393,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 394,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 395,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 397,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 400,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 402,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 403,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 405,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 445,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 446,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 447,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 448,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 449,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 450,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 451,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 452,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 453,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 454,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 455,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 456,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 457,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 458,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 459,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 460,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 461,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 462,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 474,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 475,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 476,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 477,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 478,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 479,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 480,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 482,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 483,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 484,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 485,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 486,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 487,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 489,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 490,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 491,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 492,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    },
+    {
+      "index": 493,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream annual world/continent-scale research reconstruction; historical accuracy NOT_VERIFIED. Original Feature retained; no adjacent-year reuse."
+    }
+  ],
+  "excludedFeatures": [
+    {
+      "index": 3,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 8,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 9,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 24,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 30,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 35,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 39,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 43,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 58,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 63,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 74,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 109,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 110,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 111,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 112,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 113,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 114,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 115,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 117,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 118,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 119,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 120,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 121,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 122,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 123,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 124,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 125,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 126,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 130,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 133,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 134,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 135,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 136,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 137,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 138,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 139,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 140,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 141,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 142,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 143,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 144,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 145,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 146,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 161,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 164,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 165,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 166,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 167,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 168,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 169,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 170,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 171,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 172,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 173,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 174,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 175,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 177,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 180,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 188,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 189,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 190,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 192,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 193,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 194,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 195,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 197,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 199,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 205,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 215,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 219,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 220,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 221,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 223,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 224,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 225,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 233,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 237,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 240,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 241,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 242,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 243,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 245,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 250,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 254,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 255,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 256,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 257,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 260,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 261,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 262,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 263,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 264,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 265,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 267,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 268,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 269,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 270,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 271,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 273,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 274,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 275,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 276,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 277,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 278,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 280,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 282,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 283,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 284,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 285,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 286,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 287,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 288,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 289,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 290,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 291,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 292,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 293,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 294,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 295,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 296,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 297,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 298,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 299,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 300,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 302,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 305,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 307,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 308,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 309,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 310,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 311,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 312,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 313,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 315,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 318,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 319,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 320,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 326,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 328,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 329,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 330,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 331,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 332,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 333,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 334,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 335,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 336,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 337,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 338,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 339,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 340,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 341,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 346,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 348,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 351,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 359,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 364,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 372,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 376,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 378,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 386,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 387,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 389,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 391,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 392,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 406,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 407,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 408,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 409,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 410,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 411,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 412,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 413,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 414,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 415,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 416,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 417,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 418,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 419,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 420,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 421,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 422,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 423,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 424,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 425,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 426,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 427,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 428,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 429,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 430,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 431,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 432,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 433,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 434,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 435,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 436,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 437,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 438,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 439,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 440,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 441,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 442,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 443,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 444,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 463,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 464,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 465,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 466,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 467,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 468,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 469,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 470,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 471,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 472,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 473,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 481,
+      "reason": "unusable_name"
+    },
+    {
+      "index": 155,
+      "reason": "GEOS_ORIGINAL_GEOMETRY_INVALID"
+    },
+    {
+      "index": 88,
+      "reason": "NATIVE_SOURCE_OR_GEOMETRY_INVALID"
+    },
+    {
+      "index": 186,
+      "reason": "NATIVE_SOURCE_OR_GEOMETRY_INVALID"
+    },
+    {
+      "index": 208,
+      "reason": "NATIVE_SOURCE_OR_GEOMETRY_INVALID"
+    },
+    {
+      "index": 396,
+      "reason": "NATIVE_SOURCE_OR_GEOMETRY_INVALID"
+    },
+    {
+      "index": 398,
+      "reason": "NATIVE_SOURCE_OR_GEOMETRY_INVALID"
+    },
+    {
+      "index": 399,
+      "reason": "NATIVE_SOURCE_OR_GEOMETRY_INVALID"
+    },
+    {
+      "index": 401,
+      "reason": "NATIVE_SOURCE_OR_GEOMETRY_INVALID"
+    },
+    {
+      "index": 404,
+      "reason": "NATIVE_SOURCE_OR_GEOMETRY_INVALID"
+    },
+    {
+      "index": 488,
+      "reason": "NATIVE_SOURCE_OR_GEOMETRY_INVALID"
+    }
+  ],
+  "nativeAuditSHA256": "deeb9e022ce624bc6cd02873db657481049818f21ad98e2b24b0d087cb8120b2"
+}

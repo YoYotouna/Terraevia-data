@@ -1,0 +1,403 @@
+{
+  "format": "terraevia-composite-history-index-v3",
+  "researchOnly": true,
+  "historicalAccuracy": "NOT_VERIFIED",
+  "publicDatasetApproval": "NOT_GRANTED",
+  "sourceProtocols": [
+    "ohm-derived-v1",
+    "historical-year-snapshot-v1"
+  ],
+  "sourceDisplayPolicy": "INDEPENDENT_RESEARCH_SOURCES",
+  "primaryWorld": {
+    "url": "https://raw.githubusercontent.com/YoYotouna/Terraevia-data/main/research/world/v4/world-index.json",
+    "bytes": 47927,
+    "sha256": "03588407b51a6354dcbfe75ba7222e5805bb32485e85a2b59d73f3f8a2386501"
+  },
+  "boundaryIndexes": [
+    {
+      "file": "years/bc8000/boundary-index.json",
+      "bytes": 22336,
+      "sha256": "d1a012de033ca053f08072537877a7dc42e9591b7fd43e0c314116be81660fb6",
+      "fromAstronomicalYear": -7999,
+      "endAstronomicalYearExclusive": -7998
+    },
+    {
+      "file": "years/bc5000/boundary-index.json",
+      "bytes": 36210,
+      "sha256": "ebbf9bcea2f6137b3abfb3392e0e840e3f439c41d605dd0707ae59193a4daae4",
+      "fromAstronomicalYear": -4999,
+      "endAstronomicalYearExclusive": -4998
+    },
+    {
+      "file": "years/bc4000/boundary-index.json",
+      "bytes": 28530,
+      "sha256": "ebe451fa4b2b8e8a57ce0b7b92234acf94866ca1577e66f08c6292d088bc660c",
+      "fromAstronomicalYear": -3999,
+      "endAstronomicalYearExclusive": -3998
+    },
+    {
+      "file": "years/bc3000/boundary-index.json",
+      "bytes": 31112,
+      "sha256": "3fb7e1fc67e31dbbadea94d7e9d78ac2c5652c22cc26543ab1ce333491e52b0b",
+      "fromAstronomicalYear": -2999,
+      "endAstronomicalYearExclusive": -2998
+    },
+    {
+      "file": "years/bc2000/boundary-index.json",
+      "bytes": 54475,
+      "sha256": "2a759011b700209455ae30eecf64a39462df5c61c0df465ac884f92c738b362e",
+      "fromAstronomicalYear": -1999,
+      "endAstronomicalYearExclusive": -1998
+    },
+    {
+      "file": "years/bc1500/boundary-index.json",
+      "bytes": 88335,
+      "sha256": "65c2393360d47326b1fadffd09b30cd0afe44e4816a4cd7d6661e78a7bccc402",
+      "fromAstronomicalYear": -1499,
+      "endAstronomicalYearExclusive": -1498
+    },
+    {
+      "file": "years/bc1000/boundary-index.json",
+      "bytes": 89483,
+      "sha256": "7eb3f732cace8dd3ba6ead3d235477f014d74e4435a31731de20ae5e90a7e6e5",
+      "fromAstronomicalYear": -999,
+      "endAstronomicalYearExclusive": -998
+    },
+    {
+      "file": "years/bc700/boundary-index.json",
+      "bytes": 102270,
+      "sha256": "a9184442136c7ef14249eb1c1519f33ae6f7d2c1d2e12c6ed38bb67e500e745d",
+      "fromAstronomicalYear": -699,
+      "endAstronomicalYearExclusive": -698
+    },
+    {
+      "file": "years/bc500/boundary-index.json",
+      "bytes": 96995,
+      "sha256": "716285d2292cd0c52ab5ae4c0ca9dba9e2c6f5139fb312313e35fc03e8bf4b5c",
+      "fromAstronomicalYear": -499,
+      "endAstronomicalYearExclusive": -498
+    },
+    {
+      "file": "years/bc400/boundary-index.json",
+      "bytes": 99631,
+      "sha256": "2cb4d4760912c6268e7e839385a749463038a8f99af9bbfb529c25aaf1c6e7f9",
+      "fromAstronomicalYear": -399,
+      "endAstronomicalYearExclusive": -398
+    },
+    {
+      "file": "years/bc323/boundary-index.json",
+      "bytes": 93171,
+      "sha256": "ac1374328e5631c3442fb46fc3f8cb7a11195b60da812c70b6a060cdb170f6d6",
+      "fromAstronomicalYear": -322,
+      "endAstronomicalYearExclusive": -321
+    },
+    {
+      "file": "years/bc300/boundary-index.json",
+      "bytes": 98306,
+      "sha256": "1479bfde95195f427122e7725d6e0fec441a8c63e6143f32db8246df20f968ff",
+      "fromAstronomicalYear": -299,
+      "endAstronomicalYearExclusive": -298
+    },
+    {
+      "file": "years/bc200/boundary-index.json",
+      "bytes": 111060,
+      "sha256": "2378c62109e707ea796239646c56142da10d1bba2cb48275fb3fc5a01e96b01a",
+      "fromAstronomicalYear": -199,
+      "endAstronomicalYearExclusive": -198
+    },
+    {
+      "file": "years/bc100/boundary-index.json",
+      "bytes": 107055,
+      "sha256": "30b57b155fcebe6387c8d5cc9f609e8951da404299501509639e13331a3e1b8f",
+      "fromAstronomicalYear": -99,
+      "endAstronomicalYearExclusive": -98
+    },
+    {
+      "file": "years/bc1/boundary-index.json",
+      "bytes": 101359,
+      "sha256": "0534e8c8ef5719f0b77343d0e6a32d09d0b180b3f081ed615d41d72314d95706",
+      "fromAstronomicalYear": 0,
+      "endAstronomicalYearExclusive": 1
+    },
+    {
+      "file": "years/100/boundary-index.json",
+      "bytes": 108127,
+      "sha256": "de8082a1cce21d3510fa967618c8b10413e7989e4f41c6d360c61f300061151e",
+      "fromAstronomicalYear": 100,
+      "endAstronomicalYearExclusive": 101
+    },
+    {
+      "file": "years/200/boundary-index.json",
+      "bytes": 87623,
+      "sha256": "d22e60fb54f5e87e79a99d72dadd755c15d207bab3b982e85f3a47c0d92579e9",
+      "fromAstronomicalYear": 200,
+      "endAstronomicalYearExclusive": 201
+    },
+    {
+      "file": "years/300/boundary-index.json",
+      "bytes": 90202,
+      "sha256": "72a546f6f6e490b21b0c92cd772fa22da0161068a2dc11431be050a9ebcacdf9",
+      "fromAstronomicalYear": 300,
+      "endAstronomicalYearExclusive": 301
+    },
+    {
+      "file": "years/400/boundary-index.json",
+      "bytes": 100450,
+      "sha256": "4f191391ff6c38e993c3249f2b6ec850e4243e57675f4a27485e8b0ee5eb6192",
+      "fromAstronomicalYear": 400,
+      "endAstronomicalYearExclusive": 401
+    },
+    {
+      "file": "years/500/boundary-index.json",
+      "bytes": 109279,
+      "sha256": "74fffd2ed65a42cb9b56015dcd8212e88cd56c7ebcf9aae25a5360c162f1f1f6",
+      "fromAstronomicalYear": 500,
+      "endAstronomicalYearExclusive": 501
+    },
+    {
+      "file": "years/600/boundary-index.json",
+      "bytes": 111813,
+      "sha256": "2835d2c0c2ff824d8f6a914aaf6dc13eab71d2e20d4db75929fdebd4d0a2fdf6",
+      "fromAstronomicalYear": 600,
+      "endAstronomicalYearExclusive": 601
+    },
+    {
+      "file": "years/700/boundary-index.json",
+      "bytes": 163077,
+      "sha256": "a65f602e8d3ce284ac8fd363d3f26a3667e9e1299fe259900d363ca90282f3b1",
+      "fromAstronomicalYear": 700,
+      "endAstronomicalYearExclusive": 701
+    },
+    {
+      "file": "years/800/boundary-index.json",
+      "bytes": 150192,
+      "sha256": "c95d281a404753c3359a671489279ecec98a7e6a2ace2bca9ff631c3a4cf6dfc",
+      "fromAstronomicalYear": 800,
+      "endAstronomicalYearExclusive": 801
+    },
+    {
+      "file": "years/900/boundary-index.json",
+      "bytes": 168039,
+      "sha256": "d54890dee865d2f3dbb3e706d91c181bd5a6c958678ebcc526e478b9aa10cf96",
+      "fromAstronomicalYear": 900,
+      "endAstronomicalYearExclusive": 901
+    },
+    {
+      "file": "years/1000/boundary-index.json",
+      "bytes": 156041,
+      "sha256": "bfcff9b7548f274e4748cca4b040310216df540af417b39730cce25f77155441",
+      "fromAstronomicalYear": 1000,
+      "endAstronomicalYearExclusive": 1001
+    },
+    {
+      "file": "years/1100/boundary-index.json",
+      "bytes": 183848,
+      "sha256": "f655c00894a30341e2f02aedc3f0b7cb8463de46b367b4c77605c6cc00286fed",
+      "fromAstronomicalYear": 1100,
+      "endAstronomicalYearExclusive": 1101
+    },
+    {
+      "file": "years/1200/boundary-index.json",
+      "bytes": 163586,
+      "sha256": "51f954c875eae85d672dbe659e4fcbca37184a6373ff7ff7858e75f13f20fa3e",
+      "fromAstronomicalYear": 1200,
+      "endAstronomicalYearExclusive": 1201
+    },
+    {
+      "file": "years/1279/boundary-index.json",
+      "bytes": 138958,
+      "sha256": "9e3473daecb782814bcb430fc97b3ab498e314af8eac4ba7b4a47466f827cf0a",
+      "fromAstronomicalYear": 1279,
+      "endAstronomicalYearExclusive": 1280
+    },
+    {
+      "file": "years/1300/boundary-index.json",
+      "bytes": 138974,
+      "sha256": "21e19d16c8c46a2e455c4e10f4291260b6366f54b99801eecdb4332b982a780c",
+      "fromAstronomicalYear": 1300,
+      "endAstronomicalYearExclusive": 1301
+    },
+    {
+      "file": "years/1400/boundary-index.json",
+      "bytes": 150598,
+      "sha256": "c4a3472f33c8b4424b96f0705270139923270930a053aae75368523cd5518e47",
+      "fromAstronomicalYear": 1400,
+      "endAstronomicalYearExclusive": 1401
+    },
+    {
+      "file": "years/1492/boundary-index-1be055d593a8479176c0bc88a05ad89399c4ac632c04558b86402b43ce5dda26.json",
+      "bytes": 523726,
+      "sha256": "1be055d593a8479176c0bc88a05ad89399c4ac632c04558b86402b43ce5dda26",
+      "fromAstronomicalYear": 1492,
+      "endAstronomicalYearExclusive": 1493
+    },
+    {
+      "file": "years/1492/boundary-index-6779751f59671c634128341cada21197b445d82d5621a0c2390658b7ed408ae5.json",
+      "bytes": 523695,
+      "sha256": "6779751f59671c634128341cada21197b445d82d5621a0c2390658b7ed408ae5",
+      "fromAstronomicalYear": 1492,
+      "endAstronomicalYearExclusive": 1493
+    },
+    {
+      "file": "years/1492/boundary-index-dff4063d1cc626f17e29cdd1789e0eab8b67d457e38527c77eda6cc9fc660692.json",
+      "bytes": 523288,
+      "sha256": "dff4063d1cc626f17e29cdd1789e0eab8b67d457e38527c77eda6cc9fc660692",
+      "fromAstronomicalYear": 1492,
+      "endAstronomicalYearExclusive": 1493
+    },
+    {
+      "file": "years/1492/boundary-index-ac91c8d942067cde18492d2eaddfaf8f3a1360e6c0679d4858b57e7c4809ac07.json",
+      "bytes": 85330,
+      "sha256": "ac91c8d942067cde18492d2eaddfaf8f3a1360e6c0679d4858b57e7c4809ac07",
+      "fromAstronomicalYear": 1492,
+      "endAstronomicalYearExclusive": 1493
+    },
+    {
+      "file": "years/1500/boundary-index.json",
+      "bytes": 162007,
+      "sha256": "41115fbc25d933eb5668a9e605bc0ee0407529da10f418adc69f57c1ebd41a50",
+      "fromAstronomicalYear": 1500,
+      "endAstronomicalYearExclusive": 1501
+    },
+    {
+      "file": "years/1530/boundary-index.json",
+      "bytes": 344089,
+      "sha256": "8b6ef83af55c5fd1c29e10b17c8a7356590b88f0dff2ea8dd42bb527ad3ee048",
+      "fromAstronomicalYear": 1530,
+      "endAstronomicalYearExclusive": 1531
+    },
+    {
+      "file": "years/1600/boundary-index.json",
+      "bytes": 827026,
+      "sha256": "fe34f2cc116e74feba36935a68d9b1617524dc1a176fe36593910bd0a02a0c33",
+      "fromAstronomicalYear": 1600,
+      "endAstronomicalYearExclusive": 1601
+    },
+    {
+      "file": "years/1650/boundary-index.json",
+      "bytes": 743867,
+      "sha256": "8886fa964097e991e7dfc59bc5de9c226006b9e19552b5358799f4be616aaff6",
+      "fromAstronomicalYear": 1650,
+      "endAstronomicalYearExclusive": 1651
+    },
+    {
+      "file": "years/1700/boundary-index.json",
+      "bytes": 740065,
+      "sha256": "fa8f8cd71004ebc6644a43a2c62c774b964ac938c9eff219a9b2d8fc8554c79d",
+      "fromAstronomicalYear": 1700,
+      "endAstronomicalYearExclusive": 1701
+    },
+    {
+      "file": "years/1715/boundary-index.json",
+      "bytes": 761523,
+      "sha256": "63ef5e0754b0f40f5619e449586d90644bcc028b65fe507a6a87300048a78688",
+      "fromAstronomicalYear": 1715,
+      "endAstronomicalYearExclusive": 1716
+    },
+    {
+      "file": "years/1783/boundary-index.json",
+      "bytes": 710265,
+      "sha256": "2187adf88ca5a66250622d1b984fea1dfcc7a748cdd09e3957460809e1d62c0e",
+      "fromAstronomicalYear": 1783,
+      "endAstronomicalYearExclusive": 1784
+    },
+    {
+      "file": "years/1800/boundary-index.json",
+      "bytes": 705065,
+      "sha256": "6609449c91aa6f64c39a702055546f57b2611621421da1a1175a2c698700e165",
+      "fromAstronomicalYear": 1800,
+      "endAstronomicalYearExclusive": 1801
+    },
+    {
+      "file": "years/1815/boundary-index.json",
+      "bytes": 410439,
+      "sha256": "5c735131377bf88d9240bfee877d5d15b17cfc6a3582720fe4c8886967f54e7f",
+      "fromAstronomicalYear": 1815,
+      "endAstronomicalYearExclusive": 1816
+    },
+    {
+      "file": "years/1878/boundary-index.json",
+      "bytes": 221346,
+      "sha256": "e818a7794b63dbbcdcc12baa7ce0ce7a7b50ba7b507011683c26a6dcf35c8ba9",
+      "fromAstronomicalYear": 1878,
+      "endAstronomicalYearExclusive": 1879
+    },
+    {
+      "file": "years/1880/boundary-index.json",
+      "bytes": 219203,
+      "sha256": "75bf4488054d75c0fa1155769804e4a6a230a5e2836779bde171719fbe788151",
+      "fromAstronomicalYear": 1880,
+      "endAstronomicalYearExclusive": 1881
+    },
+    {
+      "file": "years/1900/boundary-index.json",
+      "bytes": 281644,
+      "sha256": "715d486e7aba5e5d149ef6f7c0bf301429fee64a3e5f80b859e66c3c4a27de28",
+      "fromAstronomicalYear": 1900,
+      "endAstronomicalYearExclusive": 1901
+    },
+    {
+      "file": "years/1914/boundary-index.json",
+      "bytes": 184467,
+      "sha256": "cc20383131473c342b66cae98e369d5342054fb73c9d541b218324713a27b105",
+      "fromAstronomicalYear": 1914,
+      "endAstronomicalYearExclusive": 1915
+    },
+    {
+      "file": "years/1920/boundary-index.json",
+      "bytes": 211311,
+      "sha256": "6815ee35f10c6f8398dd7eda2d2d79aff951bc23b0a0b2f0e8817331957a26aa",
+      "fromAstronomicalYear": 1920,
+      "endAstronomicalYearExclusive": 1921
+    },
+    {
+      "file": "years/1930/boundary-index.json",
+      "bytes": 215871,
+      "sha256": "406da113b9be8a7bc3f6b25a5de946ecbfd6b5178dfae51c73146bd49de4af3b",
+      "fromAstronomicalYear": 1930,
+      "endAstronomicalYearExclusive": 1931
+    },
+    {
+      "file": "years/1938/boundary-index.json",
+      "bytes": 217491,
+      "sha256": "d48d8d9abe17be3c2006a0514905c29c6815338b5a59ca3637a44cf99d93de26",
+      "fromAstronomicalYear": 1938,
+      "endAstronomicalYearExclusive": 1939
+    },
+    {
+      "file": "years/1945/boundary-index.json",
+      "bytes": 234213,
+      "sha256": "689f304a5f9b868bd7ef701f9f52bd81376aac4d43f682feac805c4a8aa83ec2",
+      "fromAstronomicalYear": 1945,
+      "endAstronomicalYearExclusive": 1946
+    },
+    {
+      "file": "years/1960/boundary-index.json",
+      "bytes": 202348,
+      "sha256": "1c628afa94395087655eacee7aba6c2be98d8bb1adf8d88020be413420fe7068",
+      "fromAstronomicalYear": 1960,
+      "endAstronomicalYearExclusive": 1961
+    },
+    {
+      "file": "years/1994/boundary-index.json",
+      "bytes": 244306,
+      "sha256": "ffe0af4ab1cc92f8652ed1a8bce7925f99221c1e88c92ad290d9af3d59d5205d",
+      "fromAstronomicalYear": 1994,
+      "endAstronomicalYearExclusive": 1995
+    },
+    {
+      "file": "years/2000/boundary-index.json",
+      "bytes": 245532,
+      "sha256": "d0ea0c9ed54a133b06058df487b7b0fa5979b4a15800735828efd8097079b282",
+      "fromAstronomicalYear": 2000,
+      "endAstronomicalYearExclusive": 2001
+    },
+    {
+      "file": "years/2010/boundary-index.json",
+      "bytes": 245532,
+      "sha256": "c0d4aad46f2598f0db1c3bf74fac3d47f3b63acff92940d476fa57a4de3601a1",
+      "fromAstronomicalYear": 2010,
+      "endAstronomicalYearExclusive": 2011
+    }
+  ]
+}
