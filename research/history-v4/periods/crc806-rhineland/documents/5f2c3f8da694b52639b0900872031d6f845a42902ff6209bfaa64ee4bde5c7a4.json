@@ -1,0 +1,151 @@
+{
+  "format": "terraevia-historical-period-region-v1",
+  "researchOnly": true,
+  "historicalAccuracy": "NOT_VERIFIED",
+  "publicDatasetApproval": "NOT_GRANTED",
+  "title": "莱茵兰早期新石器聚落密集区 · 时段汇总 · 区域3",
+  "geometryPolicy": "SOURCE_SHAPEFILE_WGS84_COORDINATES_UNCHANGED",
+  "temporalInterpretation": "PERIOD_AGGREGATE_NOT_ANNUAL_NOT_POLITICAL_BORDER",
+  "sourceRecordNumber": 3,
+  "source": {
+    "provider": "crc806",
+    "objectID": "13a_earlyNeolithic_Rhl_Iso4km_WGS84.shp/record/3",
+    "sourceURL": "https://crc806db.uni-koeln.de/dataset/show/distribution-maps-of-early-neolithic-in-central-europe-and-in-rhineland1559904469/",
+    "snapshotSHA256": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+    "snapshotBytes": 11460,
+    "datasetRevision": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+    "sourceFileName": "13a_earlyNeolithic_Rhl_Iso4km_WGS84.shp",
+    "sourceFeatureIndex": 2,
+    "sourceFeatureCount": 10,
+    "rightsStatus": "SOURCE_TAGS_RETAINED_NOT_APPROVED",
+    "sourceAndRightsObjects": [],
+    "licenseSPDX": "CC-BY-4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "researchPeriodCalBP": [
+      7500,
+      6950
+    ],
+    "periodMetadataSHA256": "75a73603cd0c101776c213c80e2acff6e35fc0c0dac52588b69d0a82ce7a80d2",
+    "shapeRecordSHA256": "01ec6ff24051282d827ac2d8b19372a6e593658ab365a39d80454c1fd038c819"
+  },
+  "originalGeometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.051065193429505,
+          49.70010470938214
+        ],
+        [
+          8.051787244629919,
+          49.711914187425705
+        ],
+        [
+          8.053206024530668,
+          49.72371128533486
+        ],
+        [
+          8.05740229036226,
+          49.73545900895636
+        ],
+        [
+          8.063469500137725,
+          49.74101414104943
+        ],
+        [
+          8.070112116479738,
+          49.74705465757752
+        ],
+        [
+          8.082287516402783,
+          49.754452384597414
+        ],
+        [
+          8.090704806109374,
+          49.75850683028618
+        ],
+        [
+          8.100867267058424,
+          49.76213698056133
+        ],
+        [
+          8.10577428113813,
+          49.770055961036505
+        ],
+        [
+          8.105781605724776,
+          49.770055827823
+        ],
+        [
+          8.10526790136786,
+          49.75824293099487
+        ],
+        [
+          8.104754785811076,
+          49.746430010545375
+        ],
+        [
+          8.10424263208484,
+          49.73461704170877
+        ],
+        [
+          8.103731204623069,
+          49.72280404675246
+        ],
+        [
+          8.103220377377909,
+          49.71099100998326
+        ],
+        [
+          8.10271045500608,
+          49.6991779348569
+        ],
+        [
+          8.1022009109403,
+          49.68736483993225
+        ],
+        [
+          8.1016917579328,
+          49.67555170699078
+        ],
+        [
+          8.10118654001197,
+          49.66373848965768
+        ],
+        [
+          8.10117924521973,
+          49.66373862212288
+        ],
+        [
+          8.096868373100488,
+          49.66942180232499
+        ],
+        [
+          8.087063839577395,
+          49.67581645418585
+        ],
+        [
+          8.079183669699338,
+          49.681867706966976
+        ],
+        [
+          8.061136592341887,
+          49.68596114685538
+        ],
+        [
+          8.058348007330032,
+          49.688153119600486
+        ],
+        [
+          8.051065193429505,
+          49.70010470938214
+        ]
+      ]
+    ]
+  },
+  "limitations": [
+    "Generalized high-settlement-density areas aggregated across the research period; not annual or political borders.",
+    "Source period: 7500–6950 cal BP, before AD 1950; no claim of year-specific settlement existence.",
+    "Only original public generalized polygons; no restricted site coordinates, clipping, simplification or repaired rings."
+  ]
+}

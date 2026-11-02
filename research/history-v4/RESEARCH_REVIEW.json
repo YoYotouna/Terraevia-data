@@ -1,0 +1,19 @@
+{
+  "format": "terraevia-crc806-public-research-review-v1",
+  "researchOnly": true,
+  "historicalAccuracy": "NOT_VERIFIED",
+  "publicDatasetApproval": "NOT_GRANTED",
+  "sourceArchiveSHA256": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+  "sourceMetadataSHA256": "75a73603cd0c101776c213c80e2acff6e35fc0c0dac52588b69d0a82ce7a80d2",
+  "sourceShapefileSHA256": "f332a71c1870121783d58f19899daceb2ae292841ce7b3639aaa1b9484bb9ad3",
+  "nativeAuditSHA256": "9628a443a5979a994be4d968e0937c6afddcac9b95d7ca00013364404793edad",
+  "coordinateIdentityPolicy": "ORIGINAL_SHP_BINARY64_IDENTITY_PASS",
+  "documentCount": 10,
+  "holesRetained": 3,
+  "openRingVertices": 680,
+  "temporalInterpretation": "PERIOD_AGGREGATE_NOT_ANNUAL_NOT_POLITICAL_BORDER",
+  "sourcePeriodCalBP": [
+    7500,
+    6950
+  ]
+}

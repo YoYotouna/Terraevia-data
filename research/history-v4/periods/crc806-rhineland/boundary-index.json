@@ -1,0 +1,268 @@
+{
+  "format": "terraevia-history-boundary-index-v3",
+  "researchOnly": true,
+  "historicalAccuracy": "NOT_VERIFIED",
+  "publicDatasetApproval": "NOT_GRANTED",
+  "entries": [
+    {
+      "id": "crc806-rhineland-1",
+      "provider": "crc806",
+      "datasetRevision": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+      "file": "documents/9c33070e8096edfb0819618719da85901303df5a0d7b08353849364190911867.json",
+      "bytes": 3246,
+      "sha256": "9c33070e8096edfb0819618719da85901303df5a0d7b08353849364190911867",
+      "title": "莱茵兰早期新石器聚落密集区 · 时段汇总 · 区域1",
+      "objectID": "13a_earlyNeolithic_Rhl_Iso4km_WGS84.shp/record/1",
+      "snapshotSHA256": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        6.963297694273023,
+        49.92444484092958,
+        7.029219448480606,
+        49.971928023008296
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Public generalized settlement-density region; aggregated research period, NOT annual or political borders. Terraevia: exact WGS84 Shapefile coordinate transcription and explicit cal BP period metadata only.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert, Meesenburg, Wendt, Zimmermann (2019).",
+        "Terraevia converted the public WGS84 Shapefile to JSON and added integrity/period metadata; no coordinate modification."
+      ]
+    },
+    {
+      "id": "crc806-rhineland-2",
+      "provider": "crc806",
+      "datasetRevision": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+      "file": "documents/b048b7c2021bed893380aa55724a46c8f73e6f63c566b5791c8e99d4bca95244.json",
+      "bytes": 3879,
+      "sha256": "b048b7c2021bed893380aa55724a46c8f73e6f63c566b5791c8e99d4bca95244",
+      "title": "莱茵兰早期新石器聚落密集区 · 时段汇总 · 区域2",
+      "objectID": "13a_earlyNeolithic_Rhl_Iso4km_WGS84.shp/record/2",
+      "snapshotSHA256": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        6.113058400746641,
+        49.49573015359825,
+        6.2415065782195756,
+        49.553619060981674
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Public generalized settlement-density region; aggregated research period, NOT annual or political borders. Terraevia: exact WGS84 Shapefile coordinate transcription and explicit cal BP period metadata only.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert, Meesenburg, Wendt, Zimmermann (2019).",
+        "Terraevia converted the public WGS84 Shapefile to JSON and added integrity/period metadata; no coordinate modification."
+      ]
+    },
+    {
+      "id": "crc806-rhineland-3",
+      "provider": "crc806",
+      "datasetRevision": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+      "file": "documents/5f2c3f8da694b52639b0900872031d6f845a42902ff6209bfaa64ee4bde5c7a4.json",
+      "bytes": 4014,
+      "sha256": "5f2c3f8da694b52639b0900872031d6f845a42902ff6209bfaa64ee4bde5c7a4",
+      "title": "莱茵兰早期新石器聚落密集区 · 时段汇总 · 区域3",
+      "objectID": "13a_earlyNeolithic_Rhl_Iso4km_WGS84.shp/record/3",
+      "snapshotSHA256": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        8.051065193429505,
+        49.66373848965768,
+        8.105781605724776,
+        49.770055961036505
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Public generalized settlement-density region; aggregated research period, NOT annual or political borders. Terraevia: exact WGS84 Shapefile coordinate transcription and explicit cal BP period metadata only.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert, Meesenburg, Wendt, Zimmermann (2019).",
+        "Terraevia converted the public WGS84 Shapefile to JSON and added integrity/period metadata; no coordinate modification."
+      ]
+    },
+    {
+      "id": "crc806-rhineland-4",
+      "provider": "crc806",
+      "datasetRevision": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+      "file": "documents/6ed0fee0b9ef90ab97d2c77ffcf131d91625300f5d2ff0e577a224cf49d2e51c.json",
+      "bytes": 4503,
+      "sha256": "6ed0fee0b9ef90ab97d2c77ffcf131d91625300f5d2ff0e577a224cf49d2e51c",
+      "title": "莱茵兰早期新石器聚落密集区 · 时段汇总 · 区域4",
+      "objectID": "13a_earlyNeolithic_Rhl_Iso4km_WGS84.shp/record/4",
+      "snapshotSHA256": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        6.7905685335334915,
+        50.8739783182539,
+        6.920523552422344,
+        50.98659464877656
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Public generalized settlement-density region; aggregated research period, NOT annual or political borders. Terraevia: exact WGS84 Shapefile coordinate transcription and explicit cal BP period metadata only.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert, Meesenburg, Wendt, Zimmermann (2019).",
+        "Terraevia converted the public WGS84 Shapefile to JSON and added integrity/period metadata; no coordinate modification."
+      ]
+    },
+    {
+      "id": "crc806-rhineland-5",
+      "provider": "crc806",
+      "datasetRevision": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+      "file": "documents/8825f7f2e1eabfc9dd57dfb9b2d560e149a1e5275a459f29f904508696645197.json",
+      "bytes": 7406,
+      "sha256": "8825f7f2e1eabfc9dd57dfb9b2d560e149a1e5275a459f29f904508696645197",
+      "title": "莱茵兰早期新石器聚落密集区 · 时段汇总 · 区域5",
+      "objectID": "13a_earlyNeolithic_Rhl_Iso4km_WGS84.shp/record/5",
+      "snapshotSHA256": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        6.501256410532527,
+        50.66161145595692,
+        6.724372210814199,
+        50.851404400349274
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Public generalized settlement-density region; aggregated research period, NOT annual or political borders. Terraevia: exact WGS84 Shapefile coordinate transcription and explicit cal BP period metadata only.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert, Meesenburg, Wendt, Zimmermann (2019).",
+        "Terraevia converted the public WGS84 Shapefile to JSON and added integrity/period metadata; no coordinate modification."
+      ]
+    },
+    {
+      "id": "crc806-rhineland-6",
+      "provider": "crc806",
+      "datasetRevision": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+      "file": "documents/86979de82339993922f8d878e3eafe2d055f15e650891aa61bc6c995be455719.json",
+      "bytes": 7143,
+      "sha256": "86979de82339993922f8d878e3eafe2d055f15e650891aa61bc6c995be455719",
+      "title": "莱茵兰早期新石器聚落密集区 · 时段汇总 · 区域6",
+      "objectID": "13a_earlyNeolithic_Rhl_Iso4km_WGS84.shp/record/6",
+      "snapshotSHA256": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        6.233445429980362,
+        49.335564598192,
+        6.581087001718796,
+        49.468443046383754
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Public generalized settlement-density region; aggregated research period, NOT annual or political borders. Terraevia: exact WGS84 Shapefile coordinate transcription and explicit cal BP period metadata only.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert, Meesenburg, Wendt, Zimmermann (2019).",
+        "Terraevia converted the public WGS84 Shapefile to JSON and added integrity/period metadata; no coordinate modification."
+      ]
+    },
+    {
+      "id": "crc806-rhineland-7",
+      "provider": "crc806",
+      "datasetRevision": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+      "file": "documents/37117775e40181377c82b7433c018d9ba63f955be0a618378112be338ebe074b.json",
+      "bytes": 6851,
+      "sha256": "37117775e40181377c82b7433c018d9ba63f955be0a618378112be338ebe074b",
+      "title": "莱茵兰早期新石器聚落密集区 · 时段汇总 · 区域7",
+      "objectID": "13a_earlyNeolithic_Rhl_Iso4km_WGS84.shp/record/7",
+      "snapshotSHA256": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        7.761735572944645,
+        49.81747889913365,
+        8.033110866755225,
+        50.00930454330581
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Public generalized settlement-density region; aggregated research period, NOT annual or political borders. Terraevia: exact WGS84 Shapefile coordinate transcription and explicit cal BP period metadata only.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert, Meesenburg, Wendt, Zimmermann (2019).",
+        "Terraevia converted the public WGS84 Shapefile to JSON and added integrity/period metadata; no coordinate modification."
+      ]
+    },
+    {
+      "id": "crc806-rhineland-8",
+      "provider": "crc806",
+      "datasetRevision": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+      "file": "documents/e73fa762299f55f2042518f0e765eae61a93463babb5c4e91430137c23b157a6.json",
+      "bytes": 9026,
+      "sha256": "e73fa762299f55f2042518f0e765eae61a93463babb5c4e91430137c23b157a6",
+      "title": "莱茵兰早期新石器聚落密集区 · 时段汇总 · 区域8",
+      "objectID": "13a_earlyNeolithic_Rhl_Iso4km_WGS84.shp/record/8",
+      "snapshotSHA256": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        6.829656074526444,
+        50.552942956774594,
+        7.123256526197662,
+        50.866683417857594
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Public generalized settlement-density region; aggregated research period, NOT annual or political borders. Terraevia: exact WGS84 Shapefile coordinate transcription and explicit cal BP period metadata only.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert, Meesenburg, Wendt, Zimmermann (2019).",
+        "Terraevia converted the public WGS84 Shapefile to JSON and added integrity/period metadata; no coordinate modification."
+      ]
+    },
+    {
+      "id": "crc806-rhineland-9",
+      "provider": "crc806",
+      "datasetRevision": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+      "file": "documents/0794784a74ef86310bfc496e6ef83f9a718a7a0e82dad389c0091c84ac0bbdc9.json",
+      "bytes": 11375,
+      "sha256": "0794784a74ef86310bfc496e6ef83f9a718a7a0e82dad389c0091c84ac0bbdc9",
+      "title": "莱茵兰早期新石器聚落密集区 · 时段汇总 · 区域9",
+      "objectID": "13a_earlyNeolithic_Rhl_Iso4km_WGS84.shp/record/9",
+      "snapshotSHA256": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        7.140847086999018,
+        50.14627032133259,
+        7.604776721217209,
+        50.418186343369044
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Public generalized settlement-density region; aggregated research period, NOT annual or political borders. Terraevia: exact WGS84 Shapefile coordinate transcription and explicit cal BP period metadata only.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert, Meesenburg, Wendt, Zimmermann (2019).",
+        "Terraevia converted the public WGS84 Shapefile to JSON and added integrity/period metadata; no coordinate modification."
+      ]
+    },
+    {
+      "id": "crc806-rhineland-10",
+      "provider": "crc806",
+      "datasetRevision": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+      "file": "documents/c47c7d7688722804137bf892a67dfa156e1b3a93174bde64ae20777c693e39ca.json",
+      "bytes": 15960,
+      "sha256": "c47c7d7688722804137bf892a67dfa156e1b3a93174bde64ae20777c693e39ca",
+      "title": "莱茵兰早期新石器聚落密集区 · 时段汇总 · 区域10",
+      "objectID": "13a_earlyNeolithic_Rhl_Iso4km_WGS84.shp/record/10",
+      "snapshotSHA256": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+      "fromAstronomicalYear": -5550,
+      "endAstronomicalYearExclusive": -4999,
+      "boundsWGS84": [
+        6.147701261609545,
+        50.80497381707311,
+        6.740060881004719,
+        51.13985287034413
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne. CC BY 4.0. Public generalized settlement-density region; aggregated research period, NOT annual or political borders. Terraevia: exact WGS84 Shapefile coordinate transcription and explicit cal BP period metadata only.",
+      "licenseNotices": [
+        "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/ · Hilpert, Meesenburg, Wendt, Zimmermann (2019).",
+        "Terraevia converted the public WGS84 Shapefile to JSON and added integrity/period metadata; no coordinate modification."
+      ]
+    }
+  ]
+}

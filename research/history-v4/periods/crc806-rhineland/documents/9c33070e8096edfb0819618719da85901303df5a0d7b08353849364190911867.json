@@ -1,0 +1,111 @@
+{
+  "format": "terraevia-historical-period-region-v1",
+  "researchOnly": true,
+  "historicalAccuracy": "NOT_VERIFIED",
+  "publicDatasetApproval": "NOT_GRANTED",
+  "title": "莱茵兰早期新石器聚落密集区 · 时段汇总 · 区域1",
+  "geometryPolicy": "SOURCE_SHAPEFILE_WGS84_COORDINATES_UNCHANGED",
+  "temporalInterpretation": "PERIOD_AGGREGATE_NOT_ANNUAL_NOT_POLITICAL_BORDER",
+  "sourceRecordNumber": 1,
+  "source": {
+    "provider": "crc806",
+    "objectID": "13a_earlyNeolithic_Rhl_Iso4km_WGS84.shp/record/1",
+    "sourceURL": "https://crc806db.uni-koeln.de/dataset/show/distribution-maps-of-early-neolithic-in-central-europe-and-in-rhineland1559904469/",
+    "snapshotSHA256": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+    "snapshotBytes": 11460,
+    "datasetRevision": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f",
+    "sourceFileName": "13a_earlyNeolithic_Rhl_Iso4km_WGS84.shp",
+    "sourceFeatureIndex": 0,
+    "sourceFeatureCount": 10,
+    "rightsStatus": "SOURCE_TAGS_RETAINED_NOT_APPROVED",
+    "sourceAndRightsObjects": [],
+    "licenseSPDX": "CC-BY-4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "researchPeriodCalBP": [
+      7500,
+      6950
+    ],
+    "periodMetadataSHA256": "75a73603cd0c101776c213c80e2acff6e35fc0c0dac52588b69d0a82ce7a80d2",
+    "shapeRecordSHA256": "9719961d9fba94f738d526bef9ed1767a3bcdd7d3b15d2501710883dc9220b0a"
+  },
+  "originalGeometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.963297694273023,
+          49.950689878913245
+        ],
+        [
+          6.968336538856777,
+          49.96246870342245
+        ],
+        [
+          6.973489449346013,
+          49.96606923310102
+        ],
+        [
+          6.991935790477659,
+          49.971928023008296
+        ],
+        [
+          7.010205147080304,
+          49.96912436221089
+        ],
+        [
+          7.023141350404693,
+          49.96199794210185
+        ],
+        [
+          7.028178997722081,
+          49.952556163898315
+        ],
+        [
+          7.029219448480606,
+          49.950123288470216
+        ],
+        [
+          7.028028187728073,
+          49.94547666528895
+        ],
+        [
+          7.025273537094683,
+          49.9383373792754
+        ],
+        [
+          7.011175470578379,
+          49.92664034661624
+        ],
+        [
+          7.0092936787323525,
+          49.92555713897934
+        ],
+        [
+          6.99096036440259,
+          49.92444484092958
+        ],
+        [
+          6.985941147918012,
+          49.92685776518412
+        ],
+        [
+          6.972833359570257,
+          49.93353314910329
+        ],
+        [
+          6.968039556859604,
+          49.93882953170078
+        ],
+        [
+          6.963297694273023,
+          49.950689878913245
+        ]
+      ]
+    ]
+  },
+  "limitations": [
+    "Generalized high-settlement-density areas aggregated across the research period; not annual or political borders.",
+    "Source period: 7500–6950 cal BP, before AD 1950; no claim of year-specific settlement existence.",
+    "Only original public generalized polygons; no restricted site coordinates, clipping, simplification or repaired rings."
+  ]
+}

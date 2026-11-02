@@ -1,0 +1,30 @@
+{
+  "sourcePage": "https://crc806db.uni-koeln.de/dataset/show/distribution-maps-of-early-neolithic-in-central-europe-and-in-rhineland1559904469/",
+  "files": [
+    {
+      "path": "dataset.html",
+      "url": "https://crc806db.uni-koeln.de/dataset/show/distribution-maps-of-early-neolithic-in-central-europe-and-in-rhineland1559904469/",
+      "bytes": 45786,
+      "sha256": "a528dce5d0a934286316b13a4b137ae1c67278ac076055e8632b8c48d16f186d"
+    },
+    {
+      "path": "13a_earlyNeolithic_Rhl_iso4km_WGS84.ZIP",
+      "url": "https://crc806db.uni-koeln.de/data/E/E1/13a_earlyNeolithic_Rhl_iso4km_WGS84.ZIP",
+      "bytes": 11460,
+      "sha256": "0b367d0aef1e9dbd4e140b36f11dd874ce0d3b6d2df3bf824362aff9afe1bb0f"
+    },
+    {
+      "path": "13_earlyNeolithic_Rhl_CE_metadata.pdf",
+      "url": "https://crc806db.uni-koeln.de/data/E/E1/13_earlyNeolithic_Rhl_CE_metadata.pdf",
+      "bytes": 1188286,
+      "sha256": "75a73603cd0c101776c213c80e2acff6e35fc0c0dac52588b69d0a82ce7a80d2"
+    }
+  ],
+  "publicPolygonsOnly": true,
+  "sourcePeriodCalBP": [
+    7500,
+    6950
+  ],
+  "yearFilterPolicy": "AD1950_MINUS_CAL_BP_IN_ASTRONOMICAL_NUMBERING_PERIOD_RELEVANCE_ONLY",
+  "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
+}

@@ -2,6 +2,12 @@
 
 Public research-reading excerpts for Terraevia. No App source code, personal data, database, or private build logs are included.
 
+## Current new-build entry
+
+[history-v4 composite index](https://raw.githubusercontent.com/YoYotouna/Terraevia-data/main/research/history-v4/history-index.json) reuses the unchanged world/v4 primary collection and history-v3 annual catalogues, and adds **10 public generalized early Neolithic settlement-density areas in the Rhineland**. Requires a client supporting composite v4 and historical-period-region-v1. Existing clients can continue using history-v3; all legacy collections below remain available.
+
+The new CRC806 areas are aggregated over **7500–6950 cal BP (before AD 1950)**, not year-specific settlement outlines or political borders. Original WGS84 coordinates and all three holes are preserved. Source: Hilpert, Meesenburg, Wendt, Zimmermann (2019), Rhine-LUCIFS / CRC806, University of Cologne, CC BY 4.0. See [source, attribution and limitations](research/history-v4/periods/crc806-rhineland/README.md). Only public generalized areas are included; restricted detailed site coordinates were not acquired. Historical accuracy remains NOT_VERIFIED and public dataset approval NOT_GRANTED.
+
 ## Available collections
 
 - China and Asia: 100 BCE, 117 CE, 700 CE.
@@ -13,7 +19,7 @@ These are selected source frames, not complete historical coverage or approved b
 
 Seshat Cliopatria v0.2.1, Seshat Global History Databank (Ed Chalstrey, James Bennett), CC BY 4.0. Original source: https://github.com/Seshat-Global-History-Databank/cliopatria/tree/v0.2.1 . License: https://creativecommons.org/licenses/by/4.0/ . See ATTRIBUTION.txt and each catalog's sourceLicense. Modification notice: selected original source rows only; catalog metadata was added for reading and download integrity.
 
-## App entry
+## Legacy regional App entry
 
 https://raw.githubusercontent.com/YoYotouna/Terraevia-data/main/research/v1/research-regions.json
 
@@ -60,11 +66,11 @@ A local test loaded all 233 viewports, including all 11 newly readable original 
 
 [Composite research index](https://raw.githubusercontent.com/YoYotouna/Terraevia-data/main/research/world/v4/history-index.json) pins the existing v4 world index and a separate [boundary catalog](research/world/v4/boundary-index.json). New clients can read independently attributed research supplements through the same viewport/year and cache workflow.
 
-The boundary catalog currently contains **zero** supplemental documents. No OHM candidate has been added; the 13,393-frame primary collection and its files remain unchanged. The App default continues to use world/v4/world-index.json. This preview establishes the public metadata path, not additional historical coverage or an approved dataset. Future supplements must retain original source identity, dates, attribution and display-derivation evidence; known conflicts remain on hold.
+The boundary catalog currently contains **zero** supplemental documents. No OHM candidate has been added; the 13,393-frame primary collection and its files remain unchanged. At that earlier preview stage, the App default used world/v4/world-index.json. This preview establishes the public metadata path, not additional historical coverage or an approved dataset. Future supplements must retain original source identity, dates, attribution and display-derivation evidence; known conflicts remain on hold.
 
 ## Annual research snapshot supplement (history-v2)
 
-[Composite index](https://raw.githubusercontent.com/YoYotouna/Terraevia-data/main/research/history-v2/history-index.json) combines the unchanged CC BY 4.0 world/v4 primary library with a separate GPL version 3 Historical Basemaps data collection. The Terraevia development branch now uses this composite index by default; previously installed builds may still use world/v4. Three extracted original Features (Mexico, Ottoman Empire and Arabia (Nejd)) are eligible for research reading in **1914 only**; a British Protectorate record remains HOLD and is not activated. World-scale reconstruction, not certified historical boundaries or complete country coverage. Historical accuracy remains NOT_VERIFIED; formal approval remains NOT_GRANTED.
+[Composite index](https://raw.githubusercontent.com/YoYotouna/Terraevia-data/main/research/history-v2/history-index.json) combines the unchanged CC BY 4.0 world/v4 primary library with a separate GPL version 3 Historical Basemaps data collection. This was an earlier default for the Terraevia development branch; previously installed builds may still use world/v4. Three extracted original Features (Mexico, Ottoman Empire and Arabia (Nejd)) are eligible for research reading in **1914 only**; a British Protectorate record remains HOLD and is not activated. World-scale reconstruction, not certified historical boundaries or complete country coverage. Historical accuracy remains NOT_VERIFIED; formal approval remains NOT_GRANTED.
 
 The [GPL collection](research/history-v2/gpl-historical-basemaps/README.md) includes verbatim upstream GeoJSON, README, year index, full licence and pinned provenance, with unchanged original Features and dated wrapper modification notices. Source: André Ourednik and Historical Basemaps contributors, revision da7a4b735ecef70aebdc9c73e409d8a2500d50f3. All previously published v1–v4 data remain unchanged.
 
@@ -72,4 +78,4 @@ The [GPL collection](research/history-v2/gpl-historical-basemaps/README.md) incl
 
 [Annual composite index](https://raw.githubusercontent.com/YoYotouna/Terraevia-data/main/research/history-v3/history-index.json) references the unchanged world/v4 primary collection plus **52 individual source years** from Historical Basemaps. 10,167 annual region records passed source-integrity and geometry QA; one known record remains HOLD, and 7,309 unnamed or incompatible original Features are excluded from App reading. These are research regions, including cultural areas, not a count of countries or certified borders.
 
-Catalogs are selected by the requested year and bounded to the existing client index limit. No annual snapshot is carried into an adjacent year. Original GPL version 3 source files, full license, upstream notices and exclusions remain in each year's separate data collection. See [source review](research/history-v3/SOURCE_REVIEW.json) and [library notes](research/history-v3/README.md). Historical accuracy remains NOT_VERIFIED and formal approval NOT_GRANTED; global coverage and every year are not complete. The updated Terraevia development branch uses this index by default after public validation; prior history-v2 and world/v1–v4 paths remain available unchanged.
+Catalogs are selected by the requested year and bounded to the existing client index limit. No annual snapshot is carried into an adjacent year. Original GPL version 3 source files, full license, upstream notices and exclusions remain in each year's separate data collection. See [source review](research/history-v3/SOURCE_REVIEW.json) and [library notes](research/history-v3/README.md). Historical accuracy remains NOT_VERIFIED and formal approval NOT_GRANTED; global coverage and every year are not complete. This was the preceding development default after public validation; current new-build entry is listed above, and prior history-v2 and world/v1–v4 paths remain available unchanged.
