@@ -39,3 +39,11 @@ Source: Seshat Cliopatria v0.2.1, Seshat Global History Databank (Ed Chalstrey, 
 13,256 original source frames passed native decoding and geometry save/restore checks, across 124 spatial/time shards. This version supports readonly historical rings up to 4,096 vertices and includes 29 additional original frames, including the Russian Empire in 1900. Personal drawing limits are unchanged. The v1 index and its content-addressed files remain available for earlier clients.
 
 541 original frames remain excluded. A local test of 24 city viewports across 1900, 1950, 2000 and 2024 loaded reviewed sources in 95 of 96 cases; Moscow 1950 remains unsupported due to hole contact. This is a technical source-availability check, not verification of historical accuracy or global coverage. Original source coordinates and dates are unchanged; all approval flags remain false. Source and CC BY 4.0 attribution are declared in [v2 attribution](research/world/v2/ATTRIBUTION.md).
+
+## Exact hole vertex contacts (world/v3)
+
+[World v3 index](https://raw.githubusercontent.com/YoYotouna/Terraevia-data/main/research/world/v3/world-index.json)
+
+13,382 original source frames passed native decoding and region save/restore checks, across 124 shards. This version includes 126 additional original frames (323 BCE–2024 CE) after supporting valid single shared-vertex hole contacts. Coordinates, holes and dates are unchanged. The 126 additional raw geometries also passed independent GEOS 3.13.1 validity checks. Contact cycles, crossings, shared edges, T-junctions and nested holes remain unsupported. v1 and v2 remain unchanged for earlier clients.
+
+A local test loaded sources in all 96 city/year cases and found the exact original source in each of 126 added-source viewports, including Moscow 1950. These checks do not establish historical accuracy, global coverage, or device rendering performance. 415 original records remain excluded. All approval flags remain false. The original CC BY 4.0 attribution is retained in [v3 attribution](research/world/v3/ATTRIBUTION.md).
