@@ -1,0 +1,31 @@
+{
+  "repository": "https://github.com/aourednik/historical-basemaps",
+  "revision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+  "year": 1914,
+  "files": [
+    {
+      "path": "LICENSE",
+      "bytes": 35147,
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "url": "https://raw.githubusercontent.com/aourednik/historical-basemaps/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/LICENSE"
+    },
+    {
+      "path": "README.md",
+      "bytes": 11788,
+      "sha256": "cbd9b99a5969785c532b901293ad77391223ea3223e1eb042e78a6704f01f76e",
+      "url": "https://raw.githubusercontent.com/aourednik/historical-basemaps/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/README.md"
+    },
+    {
+      "path": "geojson/world_1914.geojson",
+      "bytes": 1289554,
+      "sha256": "a99425f9486e2243835fdc75ad7d82e6ddf3c72fcef87a63429f3313d830cf19",
+      "url": "https://raw.githubusercontent.com/aourednik/historical-basemaps/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1914.geojson"
+    },
+    {
+      "path": "index.json",
+      "bytes": 239065,
+      "sha256": "9332926809d1524c6a7ec1c7bd9127be75e1ed88adafa5a91c8b2126f04cb904",
+      "url": "https://raw.githubusercontent.com/aourednik/historical-basemaps/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/index.json"
+    }
+  ]
+}

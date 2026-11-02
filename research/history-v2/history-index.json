@@ -1,0 +1,22 @@
+{
+  "format": "terraevia-composite-history-index-v2",
+  "researchOnly": true,
+  "historicalAccuracy": "NOT_VERIFIED",
+  "publicDatasetApproval": "NOT_GRANTED",
+  "sourceProtocols": [
+    "ohm-derived-v1",
+    "historical-year-snapshot-v1"
+  ],
+  "primaryWorld": {
+    "url": "https://raw.githubusercontent.com/YoYotouna/Terraevia-data/main/research/world/v4/world-index.json",
+    "bytes": 47927,
+    "sha256": "03588407b51a6354dcbfe75ba7222e5805bb32485e85a2b59d73f3f8a2386501"
+  },
+  "boundaryIndexes": [
+    {
+      "file": "boundary-index.json",
+      "bytes": 5559,
+      "sha256": "10664305bcdd35046bb238f1ee9b99142578a5f277788d445d9b0b3eafbd943a"
+    }
+  ]
+}

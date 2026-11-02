@@ -1,0 +1,35 @@
+{
+  "sourceSHA256": "a99425f9486e2243835fdc75ad7d82e6ddf3c72fcef87a63429f3313d830cf19",
+  "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+  "historicalYear": 1914,
+  "reviewedAt": "2026-11-02",
+  "reviewScope": "Pinned upstream annual identity, redistribution notices, unchanged original geometry and sampled gap intersections. Historical accuracy is NOT_VERIFIED; this is not an independent historical adjudication.",
+  "features": [
+    {
+      "index": 45,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream 1914 research reconstruction only; world-scale geometry and territorial interpretation are uncertain. Original Feature and properties retained; no adjacent-year reuse."
+    },
+    {
+      "index": 124,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream 1914 research reconstruction only; world-scale geometry and territorial interpretation are uncertain. Original Feature and properties retained; no adjacent-year reuse."
+    },
+    {
+      "index": 128,
+      "status": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "note": "Upstream 1914 research reconstruction only; world-scale geometry and territorial interpretation are uncertain. Original Feature and properties retained; no adjacent-year reuse."
+    },
+    {
+      "index": 127,
+      "status": "HOLD",
+      "knownConflicts": [
+        "British Protectorate label may conflate claimed territory, influence and administration; requires historical interpretation."
+      ],
+      "note": "Upstream 1914 research reconstruction only; world-scale geometry and territorial interpretation are uncertain. Original Feature and properties retained; no adjacent-year reuse."
+    }
+  ]
+}

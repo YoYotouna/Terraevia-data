@@ -1,0 +1,110 @@
+{
+  "format": "terraevia-history-boundary-index-v2",
+  "researchOnly": true,
+  "historicalAccuracy": "NOT_VERIFIED",
+  "publicDatasetApproval": "NOT_GRANTED",
+  "entries": [
+    {
+      "id": "historical-basemaps-1914-45",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/33341d10ab4316c61a15a1efe94dddcba155c966f85edad9f14d22c1ab45a134.json",
+      "bytes": 15384,
+      "sha256": "33341d10ab4316c61a15a1efe94dddcba155c966f85edad9f14d22c1ab45a134",
+      "title": "Mexico",
+      "objectID": "world_1914.geojson/feature/45",
+      "snapshotSHA256": "a99425f9486e2243835fdc75ad7d82e6ddf3c72fcef87a63429f3313d830cf19",
+      "fromAstronomicalYear": 1914,
+      "endAstronomicalYearExclusive": 1915,
+      "boundsWGS84": [
+        -117.17368027249219,
+        14.542796693757815,
+        -86.90023514309766,
+        32.635718904451174
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream 1914 research reconstruction only; world-scale geometry and territorial interpretation are uncertain. Original Feature and properties retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1914-124",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/04a4e2340f655e4375d4e0bf8ae207758430b93e05dbf6c92a4724fb634381f0.json",
+      "bytes": 16094,
+      "sha256": "04a4e2340f655e4375d4e0bf8ae207758430b93e05dbf6c92a4724fb634381f0",
+      "title": "Ottoman Empire",
+      "objectID": "world_1914.geojson/feature/124",
+      "snapshotSHA256": "a99425f9486e2243835fdc75ad7d82e6ddf3c72fcef87a63429f3313d830cf19",
+      "fromAstronomicalYear": 1914,
+      "endAstronomicalYearExclusive": 1915,
+      "boundsWGS84": [
+        26.06405738314746,
+        12.828886858386788,
+        48.5536489816582,
+        42.043162904695315
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream 1914 research reconstruction only; world-scale geometry and territorial interpretation are uncertain. Original Feature and properties retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1914-128",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/73b16d897c4da44f1b596db8602f0804b75353e5e9bf945dc111da1b30dc376f.json",
+      "bytes": 4167,
+      "sha256": "73b16d897c4da44f1b596db8602f0804b75353e5e9bf945dc111da1b30dc376f",
+      "title": "Arabia (Nejd)",
+      "objectID": "world_1914.geojson/feature/128",
+      "snapshotSHA256": "a99425f9486e2243835fdc75ad7d82e6ddf3c72fcef87a63429f3313d830cf19",
+      "fromAstronomicalYear": 1914,
+      "endAstronomicalYearExclusive": 1915,
+      "boundsWGS84": [
+        36.52476660905813,
+        15.130617147070671,
+        55.31834985374539,
+        34.59718847348081
+      ],
+      "reviewStatus": "RESEARCH_REVIEWED_NO_KNOWN_CONFLICTS",
+      "knownConflicts": [],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream 1914 research reconstruction only; world-scale geometry and territorial interpretation are uncertain. Original Feature and properties retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    },
+    {
+      "id": "historical-basemaps-1914-127",
+      "provider": "historical-basemaps",
+      "datasetRevision": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "file": "gpl-historical-basemaps/documents/034708e0cbfa06ad236a908868a89b740ebab10f7792611ea91d5f1c1d7ab339.json",
+      "bytes": 7098,
+      "sha256": "034708e0cbfa06ad236a908868a89b740ebab10f7792611ea91d5f1c1d7ab339",
+      "title": "British Protectorate",
+      "objectID": "world_1914.geojson/feature/127",
+      "snapshotSHA256": "a99425f9486e2243835fdc75ad7d82e6ddf3c72fcef87a63429f3313d830cf19",
+      "fromAstronomicalYear": 1914,
+      "endAstronomicalYearExclusive": 1915,
+      "boundsWGS84": [
+        43.60489847715067,
+        12.613552652314944,
+        59.837283167449215,
+        25.96647986026172
+      ],
+      "reviewStatus": "HOLD",
+      "knownConflicts": [
+        "British Protectorate label may conflate claimed territory, influence and administration; requires historical interpretation."
+      ],
+      "attribution": "Historical Basemaps · André Ourednik and contributors · GPL version 3. Upstream 1914 research reconstruction only; world-scale geometry and territorial interpretation are uncertain. Original Feature and properties retained; no adjacent-year reuse.",
+      "licenseNotices": [
+        "GNU GPL version 3. Original source GeoJSON and licence are included in this independent data collection; no warranty."
+      ]
+    }
+  ]
+}
