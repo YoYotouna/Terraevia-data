@@ -1,0 +1,18 @@
+{
+  "format": "terraevia-composite-history-index-v1",
+  "researchOnly": true,
+  "historicalAccuracy": "NOT_VERIFIED",
+  "publicDatasetApproval": "NOT_GRANTED",
+  "primaryWorld": {
+    "file": "world-index.json",
+    "bytes": 47927,
+    "sha256": "03588407b51a6354dcbfe75ba7222e5805bb32485e85a2b59d73f3f8a2386501"
+  },
+  "boundaryIndexes": [
+    {
+      "file": "boundary-index.json",
+      "bytes": 177,
+      "sha256": "9103e693939bc792a9e4f79f2ec955aded3ff9c11840675a9c6e3b8919ca621c"
+    }
+  ]
+}
